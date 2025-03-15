@@ -167,7 +167,7 @@ def answer_question(query, language="english"):
 
     # 🚀 Dynamically Adjust `max_new_tokens`
     token_length = len(query.split()) * 7  # ✅ Increase estimated token need  
-    max_tokens = min(max(80, token_length), 200)  # ✅ Allow slightly longer responses  
+    max_tokens = min(max(80, token_length), 500)  # ✅ Allow slightly longer responses  
 
     llm.model_kwargs["max_new_tokens"] = max_tokens  
 
@@ -238,7 +238,7 @@ if __name__ == "__main__":
         query = input("\nYour question : ")
         
         if query.lower() in ['exit', 'quit', 'bye']:
-            print("Thank you for using the Loan Advisor. Goodbye!")
+            print("\n\n\t\t\t\t\tThank you for using the Loan Advisor. Goodbye!")
             break
             
         result = answer_question(query)
