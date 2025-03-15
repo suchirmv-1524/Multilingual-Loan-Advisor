@@ -1,0 +1,331 @@
+{
+    "faqs": [
+      {
+        "question": "What is a budget?",
+        "answer": "Put simply, it is a plan of your future income and expenses. Budgets can be yearly, monthly or even weekly."
+      },
+      {
+        "question": "Why prepare a budget at all?",
+        "answer": "With a budget in hand, you will be able to control your expenses better and save more. Comparing the budget with the actual expenditure will show where you spent more (or less)."
+      },
+      {
+        "question": "What is Saving?",
+        "answer": "Saving can be defined as: Saving = Income - Expenditure or Expenditure = Income - Saving. You should set aside a portion of your income BEFORE you spend anything."
+      },
+      {
+        "question": "Where to Save?",
+        "answer": "The three important things that one must keep in mind while saving are Safety, Liquidity, and Return."
+      },
+      {
+        "question": "What is Safety in Saving?",
+        "answer": "Safety depends on how certain/guaranteed return of your principal amount or investment is. Government Bonds are the safest. Bank Fixed Deposits are also considered comparatively safe."
+      },
+      {
+        "question": "What is Liquidity in Saving?",
+        "answer": "Liquidity depends on how easy it is to sell an asset with minimum loss in value. Bank Deposits, listed and traded Equity Shares, and Mutual Funds are considered comparatively more liquid."
+      },
+      {
+        "question": "What is Return in Saving?",
+        "answer": "Return depends on the type of financial product and the risk associated with it. Equity shares may give higher returns but also carry higher risk of loss."
+      },
+      {
+        "question": "What points should be kept in mind when saving?",
+        "answer": [
+          "Make sure that your savings are invested in diversified instruments.",
+          "Some portion should be in liquid assets so that you can withdraw money when needed.",
+          "Do not put your money in instruments that are very risky/unregulated, you may lose all of it!"
+        ]
+      },
+      {
+        "question": "What is Responsible Borrowing?",
+        "answer": "One should borrow to invest in assets that create value or generate returns. Examples of good borrowing are mortgage loans to buy a house, education loan for funding children’s higher education, etc."
+      },
+      {
+        "question": "Whom to borrow from?",
+        "answer": "It is advisable to borrow from regulated entities like banks, NBFCs, and HFCs."
+      },
+      {
+        "question": "What are Deposit Accounts and their types?",
+        "answer": "Deposit accounts can be categorized as Passive vs. Active Savings. Regular savings bank accounts fetch very low rates of interest, hence can be termed passive savings. Instead, investing in Recurring/Fixed Deposits of banks fetches better returns."
+      },
+      {
+        "question": "What are some good banking practices?",
+        "answer": [
+          "Taking a passbook/statement of account & checking entries periodically.",
+          "Keeping cheque-book (if taken) in safe custody.",
+          "Not sharing Internet Banking (if availed) ID & password with anyone.",
+          "Not sharing debit card (if obtained) PIN with anyone.",
+          "Not sharing OTPs (one-time passwords) received for carrying out online transactions with anyone."
+        ]
+      },
+      {
+        "question": "What is nomination and why nominate?",
+        "answer": "A nominee is the person who is entitled to receive the money lying in the bank account (as a trustee of the legal heir/s of the deceased depositor) after the death of the depositor in a single account and death of all depositors in case of a joint account. Nomination helps in quick settlement of claims and reduces hardship for surviving family members. Always fill up the nomination form when you open a bank deposit account. Approach your bank to update your nomination details."
+      },
+      {
+        "question": "What is Premature Withdrawal?",
+        "answer": "Fixed Deposits are normally for a particular/specified period of time. If you want to withdraw the amount before the end of the period, then the bank will charge a penalty for premature withdrawal. Always opt for a premature withdrawal mandate, anytime during the tenure of term deposits (with joint account holders), for hassle-free claim settlement. In the event of the depositor’s death, premature withdrawal would not attract any penal charge."
+      },
+      {
+        "question": "What exactly is a Credit Score?",
+        "answer": [
+          "A Credit Score (a three-digit number) indicates a borrower’s creditworthiness and is typically based on their credit history and other factors.",
+          "It is given along with a Credit Information Report issued by a Credit Information Company.",
+          "Credit Score would be higher if the borrower has always repaid loans taken from banks/financial institutions on time."
+        ]
+      },
+      {
+        "question": "Why is Credit Score important?",
+        "answer": [
+          "Banks/Financial institutions ascertain/check your credit score and credit history, along with other factors, while sanctioning your loans.",
+          "All other things remaining the same, a borrower with a higher credit score will usually be able to borrow at a lower rate of interest."
+        ]
+      },
+      {
+        "question": "What is a Free Annual Credit Report?",
+        "answer": "Individuals have access to their one free full credit report (FFCR) including credit score, once a calendar year. Information on the procedure to access FFCR is available on websites of respective credit information companies (CICs)."
+      },
+      {
+        "question": "How can inaccuracies in the Credit Information Report (CIR) be corrected?",
+        "answer": "In case of any inaccuracy in CIR, a borrower may request the CIC/credit institution (banks/NBFCs, etc.) to correct/update their CIR. If the complaint remains unaddressed for more than thirty days or the borrower is not satisfied with the resolution, the complainant may approach the RBI-Ombudsman by filing a complaint on https://cms.rbi.org.in."
+      },
+      {
+        "question": "How can you improve your Credit Score?",
+        "answer": [
+          "Borrow only within your means; i.e., only so much as you can repay regularly & on time.",
+          "Make sure you do not miss any repayment installment.",
+          "Repay loans earlier if possible, as it creates good credit history."
+        ]
+      },
+      {
+        "question": "What is an Inoperative Account?",
+        "answer": "A savings/current account shall be treated as inoperative if there are no ‘customer-induced transactions’ in the account for over two years."
+      },
+      {
+        "question": "Why are inoperative accounts segregated from other accounts?",
+        "answer": "Inoperative accounts are segregated from other accounts to reduce the risk of frauds and to bring to the attention of dealing bank staff the increased risk in the account."
+      },
+      {
+        "question": "Is the mandate for crediting interest on Fixed Deposits and/or dividends on shares treated as a customer-induced transaction?",
+        "answer": "Yes, it is treated as a customer-induced transaction."
+      },
+      {
+        "question": "What is the process for activating an inoperative account?",
+        "answer": [
+          "Banks have been advised to make available the facility of KYC updation for activation of inoperative accounts/unclaimed deposits at all branches (including non-home branches) and through Video-Customer Identification Process (V-CIP) if requested by the account holder.",
+          "Customers can approach the nearest bank branch for activation.",
+          "Banks must activate the inoperative account within three working days, adhering to KYC guidelines prescribed by RBI such as Customer Due Diligence (CDD), customer identification, and risk categorization.",
+          "Banks are also required to automatically intimate inoperative account/unclaimed deposit holders through SMS and registered email stating that, based on the KYC documents submitted, the inoperative status of the account has been removed."
+        ]
+      },
+      {
+        "question": "Are there any charges for activation of an inoperative account?",
+        "answer": "No, there are no charges for the activation of an inoperative account."
+      },
+      {
+        "question": "Is interest paid on inoperative savings bank accounts?",
+        "answer": "Yes, interest on savings bank accounts is credited on a regular basis irrespective of whether the account is operative or not. If a Fixed Deposit Receipt matures and proceeds are unpaid, the amount left unclaimed with the bank shall attract the rate of interest applicable to the savings account or the contracted rate of interest on the matured fixed deposit, whichever is lower."
+      },
+      {
+        "question": "Is information on inoperative accounts available on the bank’s website?",
+        "answer": [
+          "Banks must display the list of unclaimed deposits/inoperative accounts which are inactive/inoperative for ten years or more on their respective websites.",
+          "A search facility is also provided by banks for the public to search the list of accounts by the name of the account holder.",
+          "Customers can also use the search facility provided by RBI on the UDGAM portal (https://udgam.rbi.org.in/unclaimed-deposits/#/login) to search for their unclaimed deposits transferred by banks to RBI’s Depositor Education and Awareness (DEA) Fund.",
+          "This search facility is presently available for 30 banks as listed here (https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=56498)."
+        ]
+      },
+      {
+        "question": "What is the time value of money?",
+        "answer": "The time value of money (TVM) is the concept that money available now is worth more than the same amount of money available in the future due to its potential earning capacity, provided the rate of interest is positive. ₹100 today may not be equivalent to ₹100 to be received after two years. If money is not invested wisely, it can lose value due to inflation. If the return on an investment of ₹100 is say 5% and the inflation rate is 7%, then the real return is (-2%)! Money has lost value to the extent of ₹2. To compensate for inflation and other factors, financial institutions pay interest if you deposit money and charge interest if you borrow money. It is essential to save and invest in appropriate financial products to earn a rate of return above the rate of inflation to preserve the future value of money."
+      },
+      {
+        "question": "What is risk and return?",
+        "answer": "Any investment entails a certain degree of risk. Generally, there is a direct correlation between risk and return. The higher the expected return, the higher the risk (including the possibility of losing the initial investment as well). And lower the return, lower the risk as well. The basic investment principle to be kept in mind while investing or saving in financial products is the risk vs. return trade-off. High expected returns may entail higher risk and the possibility of potential losses. Invest your money wisely! Beware! High and quick return schemes could be risky. Do not chase returns without understanding the risks! Thoroughly check the background and performance of the entity offering the scheme. Read the terms and conditions carefully. Do your study and due diligence before being lured by ‘Too Good To Be True’ schemes of unknown entities!"
+      },
+      {
+        "question": "What are retail remittances?",
+        "answer": "NEFT, RTGS, and IMPS are the most popular remittance channels offered by banks to transfer money. They can be availed at the bank branch or through online channels like Internet banking, mobile banking, etc., offered by your bank."
+      },
+      {
+        "question": "What is UPI?",
+        "answer": "Unified Payments Interface or UPI is a platform that allows transfer of money between two bank accounts using a smartphone that has access to the internet. You can use the BHIM app, any bank’s app, or any third-party app for facilitating UPI transactions."
+      },
+      {
+        "question": "How does UPI work?",
+        "answer": [
+          "You need a bank account, a mobile number linked to that bank account, and a smartphone with internet connection.",
+          "To facilitate feature phone users to avail benefits of UPI, UPI123Pay was launched with four options: App-based functionality, Missed Call, IVR, and Proximity Sound-based payments.",
+          "A debit card linked to the account is required one time for setting up UPI on a mobile phone.",
+          "UPI can also be linked to RuPay Credit Cards."
+        ]
+      },
+      {
+        "question": "How to activate UPI?",
+        "answer": [
+          "Download the App on your smartphone and link your bank account, then create a UPI PIN by following the instructions given in the App.",
+          "Using your UPI PIN, you can transfer funds seamlessly to any beneficiary by just knowing their virtual address or UPI number.",
+          "If the beneficiary doesn’t have a virtual address or UPI number, you can transfer funds using IFSC and the bank account number."
+        ]
+      },
+      {
+        "question": "What are the benefits of UPI?",
+        "answer": [
+          "Can send and receive money instantly.",
+          "Can transfer money 24/7, 365 days even on holidays and Sundays using a smartphone.",
+          "Use of a virtual ID makes it easy to transfer money and obviates the need to share sensitive bank account information."
+        ]
+      },
+      {
+        "question": "What are some precautions with respect to UPI?",
+        "answer": {
+          "Dos": [
+            "Keep your UPI App updated.",
+            "Always review the merchant/person’s collect request before accepting it.",
+            "Recheck and re-confirm the amount and beneficiary before effecting the transfer."
+          ],
+          "Don’ts": [
+            "Never share your UPI PIN with anyone.",
+            "Refrain from transferring money without verifying/reconfirming the recipient first."
+          ]
+        }
+    },
+    {
+        "question": "What are some precautions regarding online and mobile banking?",
+        "answer": {
+          "Dos": [
+            "Always type your bank’s URL using only verified and trusted browsers and HTTPS secured websites for payments (S stands for Secure). Look for a secure sign (lock) in the URL window.",
+            "Make your passwords difficult to guess by using alphanumeric and special characters (#, *, @, $ etc.).",
+            "Ensure that you change your password frequently.",
+            "Always keep your payment transaction Apps (banks, non-banks, Wallets etc.) updated with the latest version.",
+            "Link your mobile number and email ID with your bank account and opt for SMS/e-mail alert service.",
+            "In case of any unusual/unauthorised transaction, inform the bank immediately."
+          ],
+          "Don’ts": [
+            "Never access your bank’s website through online search.",
+            "Never store login credentials on your phone, also don’t enter/store credentials on untrusted portals/service providers.",
+            "Avoid transacting through public devices, cyber cafes, and unsecured/open networks like public/free WiFi.",
+            "Never share your mobile banking PIN, Internet banking ID, password, or OTP with anyone (including bank staff)."
+          ]
+        }
+      },
+      {
+        "question": "What are some precautions regarding ATM transactions?",
+        "answer": {
+          "Dos": [
+            "Ensure that you use only EMV Chip and PIN based Debit Card instead of a card with a magnetic strip (Approach your bank for replacing the magnetic strip card).",
+            "Ensure that there are no unauthorized cameras or other skimming devices near ATMs when you key in your PIN or swipe your cards.",
+            "Make sure no one sees the PIN when it is being entered at the ATM. It is a good practice to cover the keypad with one hand and use the other hand to key in your PIN.",
+            "Remember to count and check the notes dispensed.",
+            "Remember to collect your card after the transaction is over.",
+            "Register your phone number with the card-issuing bank to get alerts on ATM transactions.",
+            "Contact your bank immediately to block the card if it gets lost or stolen or if you feel it has been compromised."
+          ],
+          "Don’ts": [
+            "Do not share your ATM card details (card number, expiry date, CVV etc.) and PIN with anyone.",
+            "Never leave the Card in the ATM.",
+            "Never share your OTP with anyone.",
+            "Never write your PIN on the Card."
+          ]
+        }
+      },
+      {
+        "question": "Are the deposits in banks safe?",
+        "answer": "Yes, up to the limit insured, the deposits are safe. Your deposits are insured by Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly owned subsidiary of the RBI."
+      },
+      {
+        "question": "Which banks are covered under deposit insurance?",
+        "answer": "Commercial banks (Private Sector Banks, Public Sector Banks, Foreign Banks in India, Local Area Banks, Small Finance Banks, Payment Banks, Regional Rural Banks) and cooperative banks (State Cooperative Banks, District Central Cooperative Banks, Urban Cooperative Banks) registered with DICGC are insured. Obtaining deposit insurance cover is mandatory for all banks licensed by RBI."
+      },
+      {
+        "question": "Which deposits are covered under DICGC?",
+        "answer": "DICGC insures all types of deposits (e.g., Savings, Fixed, Recurring, etc.) with an insured bank but does not include deposits received from a Foreign Government, the Central Government, a State Government, another bank, or any deposit received outside India. Each depositor in a bank is insured up to a maximum of ₹5 lakh for both principal and interest amount held by them in the 'same right and same capacity'."
+      },
+      {
+        "question": "Do I need to pay a premium for DICGC insurance?",
+        "answer": "No, you do not have to pay any premium. The DICGC charges a nominal premium from the banks. Unlike other bank fees, this premium is not charged to you."
+      },
+      {
+        "question": "What will happen to my deposits if the bank is liquidated by RBI?",
+        "answer": "If a bank goes into liquidation, DICGC is liable to pay to each depositor, through the liquidator, the total amount of their deposit (in the same capacity and in the same right) as on the date of deregistration of the bank, up to a maximum limit of ₹5 lakh."
+      },
+      {
+        "question": "What will happen to my deposits if my bank is placed under 'All Inclusive Directions' (AID) by RBI?",
+        "answer": "Once an insured bank is placed under 'All Inclusive Directions' (AID) by the Reserve Bank of India with restrictions on withdrawal of deposits, DICGC is liable to pay to each depositor the total amount of their deposit (in the same capacity and in the same right) as on the date of issue of direction/prohibition to the bank, up to a maximum limit of ₹5 lakh. The depositors of such banks are advised to contact the respective bank officials, submit the form on willingness including alternate bank details and other necessary documents immediately to enable the banks to submit the list of depositors’ claims up to the insured amount before the cut-off date given to the bank by DICGC."
+      },
+      {
+        "question": "How will I know the status of my claim?",
+        "answer": "Depositors of liquidated banks and AID banks will receive an SMS intimation at each stage of claim settlement i.e., on receipt of claim and on sanction of claim."
+      },
+      {
+        "question": "Is DICGC active on any social media?",
+        "answer": "DICGC regularly posts public awareness messages and information regarding payment to depositors of AID banks on the ‘Public App’ by Inshorts for wider dissemination of information among the general public."
+      },
+      {
+        "question": "When to approach the RBI Ombudsman?",
+        "answer": "For redress of grievance, the complainant must first approach the concerned RE. If the complaint lodged with the RE is not redressed / no reply is received within a period of 30 days, or, if the complainant is not satisfied with the reply given by the RE, the complainant can lodge the complaint with the RBI Ombudsman."
+      },
+      {
+        "question": "Where to lodge a complaint with RBI?",
+        "answer": "Complaints can be lodged with the RBI Ombudsman / CEPC through:\n1. Online at https://cms.rbi.org.in/\n2. Letter/post to 'Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector-17, Central Vista, Chandigarh-160017'."
+      },
+      {
+        "question": "Is there any charge or fee to be paid for filing a complaint with the RBI Ombudsman?",
+        "answer": "No. There is no charge or fee for filing or resolving complaints under the RB-IOS, 2021. Complaints can be registered by individuals free of cost without the need for third-party agencies."
+      },
+      {
+        "question": "What are the advantages of filing complaints online at the CMS portal?",
+        "answer": [
+          "Simplified and cost-free method of filing the complaint.",
+          "Complaint can be filed from anywhere in the country.",
+          "Automatic acknowledgement upon registration.",
+          "Facility for real-time tracking of complaint status.",
+          "Facility for online submission of additional documents.",
+          "Facility for submitting feedback on the redressal process."
+        ]
+      },
+      {
+        "question": "How to know more about lodging a complaint with RBI?",
+        "answer": "Individuals can contact the RBI Contact Centre via toll-free number 14448 for guidance on grievance redressal and complaint filing. The service is available on all working days in Hindi, English, and ten regional languages."
+      },
+      {
+        "question": "Can complaints be filed through the RBI Contact Centre?",
+        "answer": "No, complaints cannot be filed through the Contact Centre. However, it assists complainants in filing complaints through the CMS portal or physical mode."
+      },
+      {
+        "question": "How does relief from calamities work?",
+        "answer": [
+          "Central or State Government notifies a natural calamity in your area.",
+          "SLBC or DCC announces relief measures for affected borrowers.",
+          "Borrowers may approach their bank/NBFC to restructure or recast existing loans or request fresh loans.",
+          "Loans may be restructured with benefits like moratorium period, enhanced repayment period, relaxed KYC norms, and interest subvention benefits."
+        ]
+      },
+      {
+        "question": "What are some safety tips regarding digital lending applications?",
+        "answer": [
+          "Before using any digital lending app, check whether it is associated with an RBI-regulated bank/NBFC.",
+          "Avoid downloading apps received via SMS or social media links.",
+          "Report suspicious loan apps to law enforcement agencies.",
+          "Assess the total loan cost, including Annual Percentage Rate and other terms, before borrowing.",
+          "Read all loan-related documents carefully, including Key Fact Statements and privacy policies.",
+          "Check data storage policies of digital lenders before granting app permissions.",
+          "In case of grievances, contact the grievance redressal officer of the bank/NBFC or escalate to the CMS portal under RBI-Integrated Ombudsman Scheme."
+        ]
+      },
+      {
+        "question": "What is a useful platform for visually impaired persons to identify currency notes?",
+        "answer": "Visually impaired individuals can use the MANI App, which identifies the denomination of Indian currency notes using audio notifications in multiple languages and vibration mode. The app is available for free on Android and iOS platforms."
+      },
+      {
+        "question": "How to exchange soiled/mutilated/defective notes?",
+        "answer": [
+          "Soiled, torn, damaged, mutilated, or defective notes can be exchanged at bank branches over the counter.",
+          "Banks follow the RBI Note Refund Rules, 2009 (amended in 2018) for exchanging notes.",
+          "If a bank refuses to exchange notes, a complaint can be lodged with the bank.",
+          "If unresolved for a month, the complaint can be escalated to the RBI Ombudsman."
+        ]
+      }
+    ]
+  }
+  

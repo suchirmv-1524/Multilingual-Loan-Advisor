@@ -1,0 +1,50 @@
+[
+    {
+        "question": "As per Para 6 of the Guidelines on Default Loss Guarantee (DLG) in Digital Lending dated June 08, 2023, RE shall ensure that total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed five per cent of the amount of that loan portfolio. How to ensure that the portfolio on which DLG has been given is specified upfront?",
+        "answer": "The portfolio over which DLG can be offered shall consist of identifiable and measurable loan assets which have been sanctioned (the ‘DLG set’). This portfolio will remain fixed for the purpose of DLG cover and is not meant to be dynamic."
+    },
+    {
+        "question": "On which amount will the cap of five per cent be calculated?",
+        "answer": "The cap is applicable on the total amount disbursed out of the DLG set at any given time."
+    },
+    {
+        "question": "In case DLG is invoked due to a default occurring in portfolio, can the subsequent recoveries made from the borrowers on the defaulted amount be added back to the DLG cover?",
+        "answer": "No. DLG amount once invoked by the RE cannot be reinstated, including through loan recovery."
+    },
+    {
+        "question": "Is the name of the RE also required to be published along with the disclosure in terms of Para 11 of the Guidelines?",
+        "answer": "No. Not required."
+    },
+    {
+        "question": "In case an RE functioning as an LSP is providing DLG, does it also need to have a Board approved policy?",
+        "answer": "While the Guidelines mandate the REs accepting DLG cover to have a Board approved policy in place, the REs acting as DLG providers shall also put in place Board approved policy as a prudent measure."
+    },
+    {
+        "question": "Whether the guidelines on DLG are also applicable for loans sourced by REs under arrangements outside the scope of the Digital Lending Guidelines?",
+        "answer": "No."
+    },
+    {
+        "question": "Whether DLG is permitted for loans arranged on the NBFC-P2P platforms?",
+        "answer": "No. DLG is not permitted on loans arranged on NBFC-P2P platforms."
+    },
+    {
+        "question": "Para 12.3 of guidelines require a declaration from DLG provider, certified by the statutory auditor. Whether the same is required to be certified by the statutory auditor of the RE or the DLG provider?",
+        "answer": "The declaration has to be certified by the statutory auditor of the DLG provider."
+    },
+    {
+        "question": "Whether REs are allowed to enter into DLG arrangements for credit cards as defined under Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022?",
+        "answer": "No. DLG arrangements for credit cards are not permitted."
+    },
+    {
+        "question": "Whether REs are allowed to enter into DLG arrangements for revolving credit facilities offered through Digital Lending channel?",
+        "answer": "No."
+    },
+    {
+        "question": "In case the DLG provider is a Regulated Entity (RE), what will be the applicable capital requirement?",
+        "answer": "RE providing DLG shall deduct full amount of the DLG which is outstanding from its capital."
+    },
+    {
+        "question": "Whether REs are allowed to enter into DLG arrangements for loans covered under any of the credit guarantee schemes of National Credit Guarantee Trustee Company Limited (NCGTC)?",
+        "answer": "DLG arrangements are not permitted on the loans which are covered by the credit guarantee schemes administered by trust funds as specified under para 2 of Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS) dated September 07, 2022, as amended from time to time."
+    }
+]

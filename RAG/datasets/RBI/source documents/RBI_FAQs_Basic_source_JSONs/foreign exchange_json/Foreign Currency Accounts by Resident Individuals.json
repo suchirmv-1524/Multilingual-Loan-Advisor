@@ -1,0 +1,30 @@
+[
+    {
+        "question": "Who is a person resident in India?",
+        "answer": "A person resident in India, as per Section 2(v) of FEMA, 1999, is someone residing in India for more than 182 days during the preceding financial year, excluding those who have left India for employment, business, or other purposes indicating an indefinite stay abroad."
+    },
+    {
+        "question": "What is a foreign currency account?",
+        "answer": "A Foreign Currency Account is an account held in a currency other than the Indian Rupee, Nepalese Rupee, or Bhutanese Ngultrum."
+    },
+    {
+        "question": "What are the major foreign currency accounts that can be opened in India by a resident individual?",
+        "answer": "Resident individuals can open accounts such as Resident Foreign Currency (RFC) Account, Exchange Earners Foreign Currency (EEFC) Account, and Resident Foreign Currency (Domestic) [RFC(D)] Account, each with specific eligibility criteria and usage conditions."
+    },
+    {
+        "question": "In what form can a foreign currency account in India be opened?",
+        "answer": "A foreign currency account in India can be maintained as a current, savings, or term deposit account for individuals, while for others, it can be held as a current or term deposit account."
+    },
+    {
+        "question": "When can a resident individual open a foreign currency account outside India?",
+        "answer": "A resident individual can open a foreign currency account abroad when studying overseas, traveling, participating in trade fairs, receiving foreign salary payments, or remitting funds under the Liberalized Remittance Scheme (LRS)."
+    },
+    {
+        "question": "Can a resident continue to maintain an account outside India which was opened by him when he was a non-resident?",
+        "answer": "Yes, a resident can continue to hold a foreign currency account abroad if it was opened while they were a non-resident or if they inherited it from a person residing outside India."
+    },
+    {
+        "question": "What is the status of the account held outside India on the demise of the account holder?",
+        "answer": "A resident nominee must close the foreign currency account and repatriate the funds to India through banking channels."
+    }
+]

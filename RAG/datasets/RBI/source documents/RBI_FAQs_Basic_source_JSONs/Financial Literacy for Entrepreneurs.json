@@ -1,0 +1,98 @@
+{
+    "faqs": [
+      {
+        "question": "Can entrepreneurs get loans without collateral?",
+        "answer": [
+          "Yes, under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) scheme, entrepreneurs can get loans without collateral.",
+          "The scheme is a joint initiative of the Ministry of MSME and SIDBI to provide credit to MSEs without the need for collateral or third-party guarantees."
+        ]
+      },
+      {
+        "question": "Where can entrepreneurs find more details about collateral-free loans?",
+        "answer": [
+          "Entrepreneurs can visit www.cgtmse.in and www.dcmsme.gov.in for more information about the CGTMSE scheme before applying for a loan."
+        ]
+      },
+      {
+        "question": "What is the General Credit Card (GCC)?",
+        "answer": [
+          "GCC is a facility that provides credit to non-farm entrepreneurs for both working capital and term loan requirements.",
+          "It is issued as a smart card or debit card and can be used at ATMs and swipe machines.",
+          "The borrowing limit and interest rates are determined by the bank."
+        ]
+      },
+      {
+        "question": "What are the steps in the loan application process?",
+        "answer": [
+          "Step 1: Prepare a business plan and funds requirement estimate.",
+          "Step 2: Apply online at https://udyamimitra.in/ or visit a bank directly.",
+          "Step 3: Get a loan application number and acknowledgment.",
+          "Step 4: Respond to queries from the bank and track the application for approval or rejection."
+        ]
+      },
+      {
+        "question": "What are the BCSBI-prescribed timelines for loan applications?",
+        "answer": [
+          "For MSE loan applications up to Rs. 5 lakhs: 2 weeks.",
+          "For credit limits above Rs. 5 lakhs and up to Rs. 25 lakhs: 3 weeks."
+        ]
+      },
+      {
+        "question": "What is the difference between financing with own capital and taking a loan?",
+        "answer": [
+          "When financing with own capital, all profits remain with the entrepreneur but growth may be slower.",
+          "Taking a loan allows expansion and business growth but requires interest payments and timely repayments."
+        ]
+      },
+      {
+        "question": "What is cash credit against hypothecation of stock?",
+        "answer": [
+          "Cash credit is a type of loan where a business borrows against self-liquidating security like stock.",
+          "The business only withdraws the amount needed, and interest is charged only on the outstanding amount."
+        ]
+      },
+      {
+        "question": "What is receivables financing?",
+        "answer": [
+          "Receivables financing allows businesses to get loans based on payments expected from customers (debtors).",
+          "The bank provides finance after deducting a margin, and interest is charged only on the outstanding amount."
+        ]
+      },
+      {
+        "question": "What is depreciation, and why is it important?",
+        "answer": [
+          "Depreciation is the reduction in the value of a fixed asset over time due to wear and tear.",
+          "It helps businesses allocate the cost of an asset over its useful life and ensures proper financial reporting."
+        ]
+      },
+      {
+        "question": "What are term loans?",
+        "answer": [
+          "Term loans are long-term loans taken for specific purposes, such as purchasing fixed assets.",
+          "They are repaid in installments over a period of time, typically more than one year."
+        ]
+      },
+      {
+        "question": "What should entrepreneurs do if their business is under financial stress?",
+        "answer": [
+          "They should proactively approach their bank or the district-level committee for financial restructuring or additional support.",
+          "Options include rectification, restructuring, or recovery, depending on the viability of the business."
+        ]
+      },
+      {
+        "question": "What is the Trade Receivables Discounting System (TReDS)?",
+        "answer": [
+          "TReDS is a platform where entrepreneurs can discount their receivables to address delayed payments from buyers.",
+          "Entities like RXIL, Mynd Solution, and A.TReDS operate the platform under RBI regulations."
+        ]
+      },
+      {
+        "question": "What are Certified Credit Counsellors (CCCs)?",
+        "answer": [
+          "CCCs are professionals registered by SIDBI who assist entrepreneurs in preparing business proposals and maintaining financial documents.",
+          "A list of CCCs is available at https://udyamimitra.in/Home/CCC."
+        ]
+      }
+    ]
+  }
+  

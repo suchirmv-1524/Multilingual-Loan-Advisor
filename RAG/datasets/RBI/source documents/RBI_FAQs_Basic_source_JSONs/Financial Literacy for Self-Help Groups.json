@@ -1,0 +1,89 @@
+{
+    "faqs": [
+      {
+        "question": "What is the KYC requirement for opening a savings bank account for a Self-help Group (SHG)?",
+        "answer": [
+          "KYC verification of all SHG members is not required; only the office-bearers need to undergo KYC verification.",
+          "A resolution authorizing office-bearers to open the account on behalf of the SHG must be submitted."
+        ]
+      },
+      {
+        "question": "How is the loan amount determined for an SHG?",
+        "answer": [
+          "The bank may sanction a loan based on the SHG’s total corpus.",
+          "Generally, the loan amount can be 1 to 4 times the corpus.",
+          "If the corpus is Rs. 10,000, the loan can be between Rs. 10,000 and Rs. 40,000."
+        ]
+      },
+      {
+        "question": "Is collateral required for SHG loans?",
+        "answer": [
+          "No, banks are not required to obtain collateral security for loans given to SHGs."
+        ]
+      },
+      {
+        "question": "Can SHGs receive loans greater than four times their corpus?",
+        "answer": [
+          "Yes, if the SHG has been functioning successfully for many years, has repaid past loans on time, and has used credit facilities responsibly."
+        ]
+      },
+      {
+        "question": "What are the types of savings contributions in an SHG?",
+        "answer": [
+          "SHG members contribute compulsory savings at periodic meetings.",
+          "Members can also voluntarily contribute additional savings beyond the fixed amount."
+        ]
+      },
+      {
+        "question": "What are the benefits of voluntary savings in SHGs?",
+        "answer": [
+          "Voluntary savings can be kept separately or added to the group corpus.",
+          "If added to the group corpus, it increases the SHG’s eligibility for higher loans from banks."
+        ]
+      },
+      {
+        "question": "What are the key principles of SHGs regarding periodic meetings?",
+        "answer": [
+          "Meetings should be held regularly, preferably weekly, but can also be fortnightly or monthly.",
+          "Regular attendance strengthens the SHG and helps members understand each other’s challenges."
+        ]
+      },
+      {
+        "question": "Why is periodic savings important for SHGs?",
+        "answer": [
+          "Regular savings help build a strong common fund, reducing dependence on moneylenders.",
+          "A higher group corpus allows members to meet their financial needs through internal lending."
+        ]
+      },
+      {
+        "question": "What is internal lending in SHGs?",
+        "answer": [
+          "Once an SHG accumulates enough savings, members can borrow against their savings for emergencies or income-generating activities.",
+          "The group decides the loan amount, interest rate, and repayment schedule."
+        ]
+      },
+      {
+        "question": "Why is regular loan repayment important in SHGs?",
+        "answer": [
+          "Timely repayment maintains trust and creditworthiness.",
+          "Delayed payments result in higher interest costs and poor credit scores, making future borrowing difficult."
+        ]
+      },
+      {
+        "question": "What is a credit score, and why is it important for SHG members?",
+        "answer": [
+          "A credit score is a numerical representation of a person’s creditworthiness, ranging from 300 to 900.",
+          "Higher scores indicate better repayment history, making it easier to access future loans."
+        ]
+      },
+      {
+        "question": "Why is bookkeeping important for SHGs?",
+        "answer": [
+          "It ensures transparency and builds trust among members.",
+          "It helps assess the financial health of the group, track savings, loans, and repayments.",
+          "Proper records enhance the SHG’s creditworthiness and make it eligible for loans from banks."
+        ]
+      }
+    ]
+  }
+  

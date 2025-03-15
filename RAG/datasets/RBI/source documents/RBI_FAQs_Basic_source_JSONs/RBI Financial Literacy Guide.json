@@ -1,0 +1,285 @@
+{
+    "faqs": [
+      {
+        "question": "What is income?",
+        "answer": "Money earned from various sources like salary, wages, earnings from farming or business, etc., is our income."
+      },
+      {
+        "question": "What is expenditure?",
+        "answer": "Money spent on various items is our expenditure. It includes spending money on both essential and non-essential items."
+      },
+      {
+        "question": "What is investment?",
+        "answer": "Investment is the deployment of money, usually from savings, with the expectation of earning higher returns over time. Examples include purchasing land, fixed deposits in banks, etc."
+      },
+      {
+        "question": "What is saving?",
+        "answer": "When income is more than expenses, the surplus money is known as savings."
+      },
+      {
+        "question": "What is debt?",
+        "answer": "When expenses exceed income and there are no savings, money is borrowed to cover the shortfall, creating debt."
+      },
+      {
+        "question": "How to manage debt?",
+        "answer": "If expenses exceed income in a particular month, savings from previous months can be used to cover the shortfall. If there are no savings, borrowing becomes necessary, leading to debt."
+      },
+      {
+        "question": "What is the difference between essential and non-essential items of expenditure?",
+        "answer": "Essential items are basic needs like food, shelter, clothing, education, and healthcare. Non-essential items are wants, which are desirable but not necessary for survival."
+      },
+      {
+        "question": "How can we manage our money?",
+        "answer": "We can manage our money efficiently by financial planning. The first step is maintaining a financial diary to track income and expenses over a period, such as a week or a month."
+      },
+      {
+        "question": "What is financial planning?",
+        "answer": "Financial planning involves estimating financial needs and ways to meet them throughout life. It includes planning for child education, home purchase, marriage, medical emergencies, and unexpected events like accidents or natural calamities."
+      },
+      {
+        "question": "Why should we do financial planning?",
+        "answer": "Financial planning helps in saving regularly for future needs and controlling unnecessary expenses. It ensures better financial stability and allows individuals to build savings for major life goals."
+      },
+      {
+        "question": "How to do financial planning?",
+        "answer": [
+          "Assess current financial position.",
+          "Identify short-term (1 year), medium-term (1-5 years), and long-term (more than 5 years) financial goals.",
+          "Estimate the cost of each goal and set a savings plan.",
+          "Maintain a financial diary to track income and expenses.",
+          "Curb unnecessary expenses.",
+          "Regularly review savings and make adjustments if needed.",
+          "Deposit savings in a bank account for security and interest."
+        ]
+      },
+      {
+        "question": "Why maintain a financial diary?",
+        "answer": "A financial diary helps in tracking income and expenses, identifying avoidable costs, and increasing savings. It prevents overspending and helps break the cycle of poverty."
+      },
+      {
+        "question": "How can we reduce expenses?",
+        "answer": "Expenses can be reduced by cutting down on non-essential spending and making judicious choices. For example, reducing daily tea consumption from 4 to 2 cups can save ₹300 per month, leading to ₹3,600 savings in a year."
+      },
+      {
+        "question": "What is the key financial principle to follow?",
+        "answer": [
+          "Needs are limited – Spend wisely.",
+          "Wants are unlimited – Reduce unnecessary expenses.",
+          "Vices are risky – Avoid spending on harmful habits."
+        ]
+      },
+      {
+        "question": "Why should we save?",
+        "answer": [
+          "To meet higher expenses such as birth, education, marriage, purchasing farm seeds, purchasing own house, etc.",
+          "To cover unexpected expenses like illness, accident, death, or natural calamities.",
+          "To have money available during lean periods when we are unable to earn.",
+          "To secure our old age and retirement.",
+          "To afford things that cannot be purchased from regular income."
+        ]
+      },
+      {
+        "question": "How to save?",
+        "answer": [
+          "By cutting down on unnecessary expenses.",
+          "By increasing our income.",
+          "Avoiding spending on vices like drinking, gambling, and excessive festival expenses.",
+          "Reducing non-essential expenditures such as luxurious goods or entertainment.",
+          "Postponing big purchases like TVs, scooters, or jewelry."
+        ]
+      },
+      {
+        "question": "How can we save when we do not have enough money even to meet our regular expenses?",
+        "answer": [
+          "Start saving a small amount regularly, even if it is minimal.",
+          "Set aside a portion of earnings from the beginning.",
+          "Save unexpected earnings or profits instead of spending them.",
+          "A small daily saving habit can add up to significant savings over time."
+        ]
+      },
+      {
+        "question": "For how long should we save?",
+        "answer": "The longer we save, the more our savings will grow, ensuring financial security in emergencies and old age."
+      },
+      {
+        "question": "Where to save?",
+        "answer": [
+          "Keeping money at home can be unsafe and unproductive.",
+          "Banks provide a secure place to save money with added benefits like interest earnings."
+        ]
+      },
+      {
+        "question": "Why save in a bank?",
+        "answer": [
+          "Money is safe as banks are regulated.",
+          "Banks offer interest on deposits, helping money grow.",
+          "Easier access to financial services such as loans and remittances.",
+          "Transparent transactions and records.",
+          "Nomination facility ensures smooth transfer of funds after death."
+        ]
+      },
+      {
+        "question": "What is nomination?",
+        "answer": "Nomination allows a depositor to designate a person who can claim the account balance after their death, ensuring easy fund transfer."
+      },
+      {
+        "question": "What are the advantages of having a bank account?",
+        "answer": [
+          "Provides an identity recognized by government agencies.",
+          "Ensures transparency in financial transactions.",
+          "Offers security for savings.",
+          "Enables receipt of wages, pensions, and government benefits directly.",
+          "Allows easy deposits, withdrawals, and remittances.",
+          "Access to loans and credit facilities."
+        ]
+      },
+      {
+        "question": "What is EBT?",
+        "answer": "Electronic Benefit Transfer (EBT) is the digital transfer of social security benefits like pensions, wages, and subsidies directly into bank accounts."
+      },
+      {
+        "question": "What is remittance?",
+        "answer": "Remittance is the transfer of money from one place to another, which can be done safely and efficiently through banks."
+      },
+      {
+        "question": "What is interest?",
+        "answer": [
+          "Interest is the extra amount earned on savings or the cost paid on borrowed money.",
+          "Banks pay interest on deposits and charge interest on loans."
+        ]
+      },
+      {
+        "question": "What are different types of deposit accounts?",
+        "answer": [
+          "Savings Deposit - Allows withdrawals anytime and earns interest.",
+          "Term Deposit - Fixed period deposit with higher interest.",
+          "Recurring Deposit - Regular deposits over time to accumulate savings."
+        ]
+      },
+      {
+        "question": "How can we open a savings bank account?",
+        "answer": "By filling out an account opening form and submitting identity and address proof as per KYC requirements."
+      },
+      {
+        "question": "What is a Basic Savings Bank Deposit Account?",
+        "answer": "A no-minimum balance savings account with free deposits, withdrawals, passbook, and ATM/smart card facilities."
+      },
+      {
+        "question": "What is KYC?",
+        "answer": "Know Your Customer (KYC) is a process where banks verify identity and address proof before opening accounts."
+      },
+      {
+        "question": "What is BC (Business Correspondent)?",
+        "answer": "A BC is an agent appointed by banks to provide banking services in areas without bank branches, using mobile banking devices."
+      },
+      {
+        "question": "What is an Overdraft?",
+        "answer": "An overdraft is a small loan facility linked to a savings account for emergency financial needs without separate documentation."
+      },
+      {
+        "question": "What is the difference between income and credit?",
+        "answer": "Income is money earned, while credit (loan) must be repaid with interest and should not be treated as earnings."
+      },
+      {
+        "question": "When should we borrow?",
+        "answer": [
+          "When expenditure exceeds income and there are no savings.",
+          "For productive purposes like business investments.",
+          "In emergencies when there is no other option."
+        ]
+      },
+      {
+        "question": "Should we always borrow whenever short of money?",
+        "answer": [
+          "No, borrowing for unnecessary expenses like festivals or luxury items should be avoided.",
+          "Loans should be taken only when repayment is possible from future income."
+        ]
+      },
+      {
+        "question": "Why is it advisable to borrow only for income-generating activities?",
+        "answer": "Borrowing should be for activities that increase earnings so that loans can be repaid without financial strain."
+      },
+      {
+        "question": "Why borrow within limits?",
+        "answer": "Borrow only an amount that can be repaid comfortably without financial burden."
+      },
+      {
+        "question": "Why take a loan from a bank when informal sources like money lenders are readily available in the village?",
+        "answer": [
+          "Banks are safer, more reliable, and transparent institutions regulated by the Reserve Bank of India (RBI).",
+          "Banks charge lower interest rates than informal sources like moneylenders, vishi, mukhiya, etc.",
+          "Banks provide proper documentation for loans, ensuring clarity and fairness.",
+          "In case of disputes, banks offer a Grievance Redressal Mechanism."
+        ]
+      },
+      {
+        "question": "What is the Grievance Redressal Mechanism of banks?",
+        "answer": [
+          "Every bank has a Grievance Redressal Officer whose details are published in bank branches and websites.",
+          "Complaints can be lodged with the bank’s Grievance Redressal Officer.",
+          "If not satisfied with the resolution, complaints can be escalated to the Banking Ombudsman of RBI."
+        ]
+      },
+      {
+        "question": "Is similar Grievance Redressal Mechanism available in case of formal sources?",
+        "answer": "No, informal sources do not have a grievance redressal mechanism, making them less transparent and riskier."
+      },
+      {
+        "question": "Why do banks sometimes take longer to give loans compared to money lenders?",
+        "answer": [
+          "Banks lend depositors’ money and must ensure proper utilization by borrowers.",
+          "Banks conduct detailed scrutiny before sanctioning loans to protect depositors' funds.",
+          "Though the process takes longer, it ensures fairness and prevents fraud."
+        ]
+      },
+      {
+        "question": "What are the types of loans offered by banks?",
+        "answer": [
+          "Housing loans",
+          "Education loans",
+          "Agriculture and related activity loans",
+          "Business enterprise loans",
+          "Consumption loans"
+        ]
+      },
+      {
+        "question": "How can I get a loan from a bank?",
+        "answer": [
+          "Submit a loan application indicating the purpose of the loan.",
+          "The bank verifies details and evaluates the repayment capacity.",
+          "If approved, the loan is sanctioned and must be repaid in installments with interest."
+        ]
+      },
+      {
+        "question": "What is the cost of borrowing from banks?",
+        "answer": [
+          "Interest charged on borrowed money is the cost of borrowing.",
+          "Banks transparently display interest rates and charges, which are uniform for all customers.",
+          "Unlike informal lenders, banks disclose real borrowing costs upfront."
+        ]
+      },
+      {
+        "question": "Do we have to offer some guarantee for the loan?",
+        "answer": [
+          "Small loans may not require a guarantee.",
+          "Higher amounts may require collateral such as land, house, or assets created using the loan."
+        ]
+      },
+      {
+        "question": "Why should we repay the loan?",
+        "answer": [
+          "Banks use depositors' money for lending; non-repayment weakens the bank’s financial position.",
+          "Repaying loans ensures banks can return depositors' money on time.",
+          "Only if we repay loans, banks will sanction us loans in the future."
+        ]
+      },
+      {
+        "question": "What if we do not repay the loan taken from the bank?",
+        "answer": [
+          "The bank has the right to take possession of the security offered as collateral.",
+          "The bank can initiate legal proceedings to recover the loan amount along with interest."
+        ]
+      }
+    ]
+  }
+  

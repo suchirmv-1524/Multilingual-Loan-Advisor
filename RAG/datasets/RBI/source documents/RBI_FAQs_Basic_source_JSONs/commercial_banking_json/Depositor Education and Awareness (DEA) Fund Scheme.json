@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is The Depositor Education and Awareness (DEA) Fund Scheme, 2014, and when did this Scheme come into effect?",
+        "answer": "The Depositor Education and Awareness Fund (DEA Fund) Scheme, 2014 was formulated by the Reserve Bank of India under Section 26A of the Banking Regulation Act, 1949. The Scheme came into effect on May 24, 2014, upon its notification in the Official Gazette of India."
+    },
+    {
+        "question": "Which are the amounts credited to the DEA Fund?",
+        "answer": "The amounts credited to the DEA Fund include credit balances in deposit accounts (savings, fixed, recurring, current), loan accounts after due appropriation, margin money against Letters of Credit, outstanding drafts and cheques, unadjusted NEFT balances, and other unclaimed amounts that have remained inactive for 10 years or more."
+    },
+    {
+        "question": "When are the above specified amounts credited to the DEA Fund?",
+        "answer": "Banks must transfer unclaimed deposits to the DEA Fund on the last working day of the month following the completion of 10 years of inactivity. For example, deposits becoming due in April will be transferred in May."
+    },
+    {
+        "question": "Is interest accrued on such amounts also transferred to the DEA Fund?",
+        "answer": "Yes, banks must transfer the entire amount, including accrued interest, to the DEA Fund at the time of transfer."
+    },
+    {
+        "question": "Can a customer or depositor claim a refund of their unclaimed amounts from the DEA Fund?",
+        "answer": "Yes, depositors can claim their unclaimed amounts from their respective banks. The bank will process the refund along with applicable interest (if any) and then seek reimbursement from the DEA Fund maintained by RBI."
+    },
+    {
+        "question": "Is there a time limit for claiming the amount from the DEA Fund?",
+        "answer": "No, there is no specific time limit for claiming a refund from the DEA Fund. However, depositors or legal heirs are encouraged to claim the amounts as soon as they become aware of them."
+    },
+    {
+        "question": "What is the procedure to claim from DEA Fund if a bank is under liquidation?",
+        "answer": "Depositors must approach the Liquidator of the bank, who will process claims as per guidelines. If the deposit was insured by DICGC (up to ₹5 lakh), the Liquidator can claim an equivalent amount from the DEA Fund. If the claim exceeds ₹5 lakh, the excess amount will be reimbursed by the DEA Fund only after the Liquidator settles the depositor’s claim."
+    },
+    {
+        "question": "How does the claim process work if a bank under liquidation has deposits covered by DICGC?",
+        "answer": "If a depositor had a claim of ₹4 lakh and DICGC insurance was available, the Liquidator would claim ₹4 lakh from the DEA Fund and transfer the amount to the depositor. If a depositor had a claim of ₹6 lakh, the Liquidator would claim ₹5 lakh from the DEA Fund and pay the remaining ₹1 lakh first before seeking reimbursement for the excess amount."
+    },
+    {
+        "question": "How does the claim process work if a bank under liquidation has deposits not covered by DICGC?",
+        "answer": "For deposits not covered by DICGC, the Liquidator must first settle the depositor’s claim and then seek reimbursement from the DEA Fund."
+    }
+]

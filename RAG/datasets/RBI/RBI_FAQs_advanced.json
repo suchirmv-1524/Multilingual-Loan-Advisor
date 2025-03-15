@@ -1,0 +1,2270 @@
+{
+    "faqs": [
+      {
+        "question": "What is Factoring?",
+        "answer": "Factoring, as defined by the Factoring Act, 2011, is the business of acquiring receivables from an assignor by accepting assignment of such receivables or providing financing against them. However, credit facilities provided by banks in the ordinary course of business and activities related to agricultural produce sales are excluded from factoring."
+      },
+      {
+        "question": "What is an NBFC-Factor?",
+        "answer": "An NBFC-Factor is a non-banking financial company that meets the principal business criteria, where at least 75% of its total assets and gross income come from factoring business, has a Net Owned Fund of Rs. 5 crore, and is registered with RBI under the Factoring Regulation Act, 2011."
+      },
+      {
+        "question": "What are the entry point norms for NBFC-Factors?",
+        "answer": "A company seeking registration as an NBFC-Factor under Section 3 of the Companies Act, 1956 must have a minimum Net Owned Fund (NOF) of Rs. 5 crore. Existing companies that do not meet this requirement may request time from RBI to comply."
+      },
+      {
+        "question": "What happens to existing NBFCs conducting factoring business with less than 75% of their total assets/income from factoring?",
+        "answer": "Such companies must submit a letter of intent to RBI, either to become a Factor or to unwind their factoring business. They will receive a Certificate of Registration (CoR) as an NBFC-Factor only after meeting the required asset and income criteria. If they fail to comply within the specified period, they must exit the factoring business."
+      },
+      {
+        "question": "Is it mandatory for all entities to register with RBI to conduct factoring business?",
+        "answer": "Yes, except for entities mentioned under Section 5 of the Factoring Act, 2011, such as banks, government corporations, and government companies."
+      },
+      {
+        "question": "Can a company that does not meet the principal business criteria for factoring continue to engage in factoring with its group entities?",
+        "answer": "No. According to Section 3 of the Factoring Act, 2011, an entity cannot conduct factoring business without obtaining a Certificate of Registration (CoR) from RBI and fulfilling the principal business criteria."
+      },
+      {
+        "question": "Can NBFC-Factors undertake import and export factoring?",
+        "answer": "Yes, but they must obtain authorization from the Foreign Exchange Department of the Reserve Bank under FEMA 1999 and comply with all FEMA regulations."
+      },
+      {
+        "question": "Is it mandatory for NBFC-Factors to register every factoring transaction with the Central Registry?",
+        "answer": "Yes. Under Section 19 of the Factoring Act, 2011, every Factor must file details of each assignment of receivables with the Central Registry within 30 days from the date of assignment or establishment of the registry."
+      },
+      {
+        "question": "Do NBFC-Factors have to comply with a separate set of prudential regulations?",
+        "answer": "No. NBFC-Factors must comply with the existing prudential norms applicable to loan companies under the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007."
+      },
+      {
+        "question": "Are NBFC-Factors required to submit separate returns to RBI?",
+        "answer": "No. NBFC-Factors must submit returns to the Reserve Bank as per the existing requirements for registered NBFCs."
+      },
+      {
+        "question": "Can a Joint Account be continued for family pension after the death of a pensioner?",
+        "answer": "Yes, if the spouse is authorized for family pension in the Pension Payment Order (PPO), the bank should credit the family pension to the existing account without insisting on opening a new one."
+      },
+      {
+        "question": "When is the pension credited to the pensioner's account by the paying branch?",
+        "answer": "Pension is credited based on the instructions given by the Pension Paying Authorities."
+      },
+      {
+        "question": "Can the pension paying bank recover the excess amount credited to the pensioner’s account?",
+        "answer": "Yes, banks should seek guidance from the Pension Sanctioning Authorities regarding recovery. If the excess payment was due to a bank error, the amount should be refunded to the Government immediately."
+      },
+      {
+        "question": "Should pension paying banks provide an acknowledgment when accepting Life Certificates from pensioners?",
+        "answer": "Yes, banks must issue a duly signed acknowledgment and should consider entering the receipt in their Core Banking System (CBS) or providing a system-generated acknowledgment."
+      },
+      {
+        "question": "Can a pensioner withdraw pension if they are unable to sign, put a thumb/toe impression, or be physically present in the bank?",
+        "answer": "Yes, banks must facilitate pension withdrawal for old/sick/disabled pensioners by obtaining a thumb/toe impression identified by two independent witnesses, one of whom should be a responsible bank official."
+      },
+      {
+        "question": "How is Dearness Relief at the revised rate paid to pensioners?",
+        "answer": "Banks must update and pay the revised Dearness Relief based on government orders received via post, fax, email, or accessed from the concerned government’s website."
+      },
+      {
+        "question": "Is a pensioner entitled to compensation for delayed credit of pension or arrears?",
+        "answer": "Yes, banks must compensate pensioners at a fixed interest rate of 8% per annum for delays in crediting pension or arrears beyond the due date. The compensation should be credited automatically."
+      },
+      {
+        "question": "What is the Liberalised Remittance Scheme (LRS) of USD 2,50,000?",
+        "answer": "Under the LRS, all resident individuals, including minors, can remit up to USD 2,50,000 per financial year for permissible current or capital account transactions. The scheme is not available to corporates, partnerships, HUFs, and trusts."
+      },
+      {
+        "question": "What are the prohibited transactions under LRS?",
+        "answer": "The scheme does not permit remittances for lottery ticket purchases, margin calls for overseas exchanges, foreign exchange trading, remittances to FATF-listed non-cooperative countries, and payments to entities linked to terrorism."
+      },
+      {
+        "question": "What are the purposes for which foreign exchange can be availed under LRS?",
+        "answer": "Foreign exchange under LRS can be availed for private visits, gifts, donations, employment abroad, emigration, maintenance of close relatives, medical treatment, education, and other current account transactions not restricted under FEMA."
+      },
+      {
+        "question": "Are residents required to repatriate income earned from investments abroad?",
+        "answer": "Residents can retain and reinvest income earned from overseas investments. However, unspent or unused foreign exchange must be repatriated within 180 days unless reinvested."
+      },
+      {
+        "question": "Can family members consolidate their LRS remittances?",
+        "answer": "Yes, family members can consolidate remittances for permitted transactions, but clubbing is not allowed for capital account transactions like opening bank accounts or investments unless they are joint owners."
+      },
+      {
+        "question": "Does an AD bank need to verify the purpose of remittances under LRS?",
+        "answer": "Yes, the AD bank must check the nature of the transaction based on Form A2 and ensure compliance with FEMA regulations. The remitter is responsible for ensuring adherence to the rules."
+      },
+      {
+        "question": "Is PAN mandatory for making remittances under LRS?",
+        "answer": "Yes, PAN is mandatory for all transactions under LRS made through authorized persons."
+      },
+      {
+        "question": "Are there restrictions on the frequency of remittances?",
+        "answer": "There are no restrictions on frequency, but the total remittance in a financial year must not exceed USD 2,50,000."
+      },
+      {
+        "question": "Can residents remit more than USD 2,50,000 if they have already sent their full salary abroad?",
+        "answer": "No, if a resident has exhausted the USD 2,50,000 limit through salary remittances, any additional remittances must be approved by the RBI."
+      },
+      {
+        "question": "Does the one-year banking relationship requirement apply to current account transactions?",
+        "answer": "No, the one-year requirement applies only to capital account transactions. Current account transactions such as travel and business visits can be processed by FFMCs."
+      },
+      {
+        "question": "Are remittances to Mauritius and Pakistan allowed under LRS?",
+        "answer": "Yes, remittances for current account transactions to Mauritius and Pakistan are allowed, except for those related to FATF-listed non-cooperative countries or terrorism-linked entities."
+      },
+      {
+        "question": "What documents are required for making remittances under LRS?",
+        "answer": "Individuals must designate a branch of an AD for all capital account transactions and provide Form A2, PAN, and relevant documents to ensure compliance with FEMA."
+      },
+      {
+        "question": "Can remittances be made only in USD?",
+        "answer": "No, remittances can be made in any freely convertible foreign currency."
+      },
+      {
+        "question": "Can banks act as intermediaries for overseas investments?",
+        "answer": "Banks must obtain RBI approval before soliciting deposits for foreign branches, acting as agents for overseas mutual funds, or promoting foreign financial services."
+      },
+      {
+        "question": "Are there restrictions on the type of investments individuals can make under LRS?",
+        "answer": "No specific guidelines exist on the quality of investments, but individuals must ensure compliance with Overseas Investment Rules and Regulations, 2022."
+      },
+      {
+        "question": "Can AD banks extend credit facilities to individuals for LRS remittances?",
+        "answer": "No, LRS does not allow AD banks to extend fund-based or non-fund-based credit for capital account transactions, but they may facilitate current account remittances."
+      },
+      {
+        "question": "Can resident individuals open foreign currency accounts in India under LRS?",
+        "answer": "No, foreign currency accounts in India cannot be opened under LRS."
+      },
+      {
+        "question": "Can Offshore Banking Units in India be treated like foreign bank branches for LRS purposes?",
+        "answer": "No, OBUs in India cannot be considered equivalent to foreign bank branches for LRS-related transactions."
+      },
+      {
+        "question": "Are tax documents like Form 15CA and 15CB required for all outward remittances?",
+        "answer": "RBI does not issue specific instructions under FEMA for tax deductions. AD banks must comply with applicable tax laws while processing remittances."
+      },
+      {
+        "question": "Can an LLP sponsor a partner's education expenses outside LRS limits?",
+        "answer": "Yes, since an LLP is a separate legal entity, education expenses sponsored by it for a partner would not count toward the partner’s individual LRS limit."
+      },
+      {
+        "question": "Can a sole proprietor remit funds under LRS separately for business and personal use?",
+        "answer": "No, since a sole proprietorship is not legally distinct from its owner, remittances are counted towards the individual's LRS limit."
+      },
+      {
+        "question": "Is prior RBI approval required to open a foreign currency account abroad under LRS?",
+        "answer": "No, prior approval is not required."
+      },
+      {
+        "question": "What LRS-related facilities are available for entities other than individuals?",
+        "answer": "Entities can donate funds, pay commissions, remit consultancy fees, and reimburse pre-incorporation expenses within specified limits. Any excess requires RBI approval."
+      },
+      {
+        "question": "Can a resident lend money to a close relative who is an NRI/PIO?",
+        "answer": "Yes, but the loan must be interest-free, have a minimum maturity of one year, and be within the LRS limit of USD 2,50,000 per financial year."
+      },
+      {
+        "question": "Can a resident gift money to a close relative who is an NRI/PIO?",
+        "answer": "Yes, a resident can gift money to an NRI/PIO relative, but the amount must be credited to the NRO account and should be within the LRS limit."
+      },
+      {
+        "question": "Can a resident continue to hold immovable property outside India which was acquired by him when he was a non-resident?",
+        "answer": "According to section 6(4) of the FEMA, a person resident in India can hold, own, transfer or invest in any immovable property situated outside India if such property was acquired, held or owned by him/her when he/she was resident outside India or inherited from a person resident outside India."
+      },
+      {
+        "question": "Can a resident individual send remittances and purchase property outside India?",
+        "answer": "A resident individual can send remittances under the Liberalised Remittance Scheme (LRS) for purchasing immovable property outside India. The remittance under the Liberalised Remittance Scheme may be consolidated in respect of relatives if such relatives, being persons resident in India, comply with the terms and conditions of the Scheme."
+      },
+      {
+        "question": "To whom do the restrictions of transferring property outside India not apply?",
+        "answer": "The prohibition of a resident acquiring property outside India is not applicable if:\n  a. The resident is a foreign national; or\n  b. The property was acquired before July 8, 1947 and continued to be held after obtaining permission of Reserve Bank; or\n  c. If it is acquired on a lease not exceeding five years."
+      },
+      {
+        "question": "How can immovable property be acquired outside India by a resident?",
+        "answer": "Immovable property can be acquired outside India:\n  (i) By way of inheritance, gift, or purchase from a resident in India who acquired it legally.\n  (ii) From a non-resident by inheritance, purchase from RFC account funds, or LRS remittances.\n  (iii) By an Indian entity for business/residential use of staff."
+      },
+      {
+        "question": "How can Non-resident Indians (NRIs) / Overseas Citizens of India (OCIs) acquire immovable property in India?",
+        "answer": "NRIs and OCIs can acquire immovable property (except agricultural land, farmhouse, and plantations) in India through purchase, gift, or inheritance from a resident, NRI, or OCI."
+      },
+      {
+        "question": "What are the accepted modes of payment for property acquired in India?",
+        "answer": "Payments must be made in India through banking channels and are subject to tax compliance. Funds can be sourced from NRE, FCNR(B), or NRO accounts but not through traveller's cheques or foreign currency notes."
+      },
+      {
+        "question": "Can Foreign Embassies/ Diplomats/ Consulate Generals acquire property in India?",
+        "answer": "Yes, they can acquire property (except agricultural land, farmhouses, or plantations) in India with clearance from the Government of India, Ministry of External Affairs, and using remitted foreign funds."
+      },
+      {
+        "question": "Can foreign nationals acquire property in India?",
+        "answer": "Foreign nationals of non-Indian origin residing outside India can acquire property in India only on a lease not exceeding five years, except by inheritance. Citizens of Pakistan, Bangladesh, Sri Lanka, Afghanistan, China, Iran, Nepal, Bhutan, Macau, Hong Kong, or DPRK require prior RBI approval."
+      },
+      {
+        "question": "Can a Long Term Visa (LTV) holder acquire property in India?",
+        "answer": "LTV holders from Pakistan, Bangladesh, or Afghanistan (Hindu, Christian, Sikh, Parsi, Buddhist, Jain communities) can acquire only one residential property for self-occupation and one for self-employment, subject to conditions under FEMA."
+      },
+      {
+        "question": "Can a spouse of an NRI/ OCI who is not an NRI/ OCI acquire property in India?",
+        "answer": "Yes, a non-NRI/OCI spouse of an NRI/OCI can acquire one immovable property (excluding agricultural land, farmhouses, and plantations) jointly with their NRI/OCI spouse under FEMA rules."
+      },
+      {
+        "question": "Can a non-resident repatriate the sale proceeds of immovable property in India?",
+        "answer": "NRIs/OCIs can repatriate sale proceeds of up to two residential properties, provided they were acquired legally with foreign exchange via banking channels or from an NRE/FCNR account."
+      },
+      {
+        "question": "What is the meaning of transfer?",
+        "answer": "As per section 2(ze) of FEMA, transfer includes sale, purchase, exchange, mortgage, pledge, gift, loan, or any other transfer of right, title, possession, or lien."
+      },
+      {
+        "question": "What is RBI's role with regard to conduct of Government's banking transaction?",
+        "answer": "In terms of Section 20 of the RBI Act 1934, RBI has the obligation to undertake the receipts and payments of the Central Government and to carry out the exchange, remittance and other banking operations, including the management of the public debt of the Union. Further, as per Section 21 of the said Act, RBI has the right to transact Government business of the Union in India. State Government transactions are carried out by RBI in terms of the agreement entered into with the State Governments in terms of section 21 A of the Act. As of now, such agreements exist between RBI and all the State Governments except Government of Sikkim."
+      },
+      {
+        "question": "How does Reserve Bank of India discharge its statutory obligation of being 'Banker to Government'?",
+        "answer": "RBI carries out the general banking business of the governments through its own offices and commercial banks, both public and private, appointed as its agents. Section 45 of the Reserve Bank of India Act, 1934, provides for appointment of scheduled commercial banks as agents at all places or at any place in India, for purposes that it may specify, 'having regard to public interest, convenience of banking, banking development and such other factors which in its opinion are relevant in this regard'."
+      },
+      {
+        "question": "How payment into government account is made?",
+        "answer": "All monies for credit to government account like taxes or other remittances can be made by filling the prescribed challans of the Government/Department concerned. The tax payers are encouraged to pay dues to Government electronically by logging into respective government portals. However, if they prefer to pay dues by way of cash, cheque, demand draft, these are required to be tendered with the authorized agency bank branches along with requisite challan."
+      },
+      {
+        "question": "When is the receipted challan for payment made into government account made available?",
+        "answer": "The receipted challans in case of cash tender are generally handed over to the remitter immediately across the counter. In case of payments made by cheque/DD, the receipted challan is issued only on realization of the instruments based on the clearing cycle of the local Clearing House."
+      },
+      {
+        "question": "What if the paper token is misplaced / lost?",
+        "answer": "In case of loss of original token, on a specific request and on payment of prescribed fees, the receipted challan is issued."
+      },
+      {
+        "question": "What if the Receipted Challan is misplaced?",
+        "answer": "No duplicate challan is issued under any circumstances. Instead, a 'Certificate of Credit' is issued on specific request with the requisite particulars and payment of prescribed fee."
+      },
+      {
+        "question": "Are agency banks compensated for conduct of Central/State Government banking?",
+        "answer": "The accredited banks are paid remuneration by RBI for conduct of State/Central Government transactions. Such remuneration is called Agency Commission. The rates of agency commission applicable at present (from July 1, 2019) are as under:\n\n(i) Receipts – Physical mode: ₹40 per transaction\n(ii) Receipts – e-mode: ₹9 per transaction\n(iii) Payments – Pension: ₹75 per transaction\n(iv) Payments – Other than pension: ₹100 turnover 6.5 paise"
+      },
+      {
+        "question": "What is RBI’s role in Goods and Service Tax regime?",
+        "answer": "The Reserve Bank of India is the aggregator for accounting of all GST collections in the respective government accounts. Agency banks who collect the GST for challans generated by taxpayers online on the GST portal report the collections for settlement to government accounts to RBI. RBI has also facilitated payment of GST by taxpayers directly into government accounts at RBI by using NEFT / RTGS payment options provided in the GST portal."
+      },
+      {
+        "question": "What is the ATS?",
+        "answer": "The ATS is an Application Tracking System, hosted on the public website of the Reserve Bank of India (RBI), which has been developed for members of the public to submit any individual application to RBI and keep track of the status of its disposal thereafter."
+      },
+      {
+        "question": "What is an application?",
+        "answer": "An application can be any application, addressed to any department of RBI, through which members of the public can apply (except such applications for which specific instructions have been given regarding mode of submission, etc.)."
+      },
+      {
+        "question": "How can the ATS be accessed?",
+        "answer": "A link to ATS has been provided in the RBI website http://www.rbi.org.in."
+      },
+      {
+        "question": "Who receives the application?",
+        "answer": "The Department / Office selected by the applicant, while submitting his/her application through ATS, will receive the application."
+      },
+      {
+        "question": "How does the ATS work?",
+        "answer": "1. A first-time user should register through ATS using his/her valid email ID.\n2. A system-generated password will be forwarded to the applicant’s email ID.\n3. Thereafter, the applicant can login and submit his/her application and track the same.\n4. As soon as an application is submitted through ATS, a unique application number is generated and forwarded to the applicant by the system.\n5. A mail is sent by the system automatically when the application is disposed of or transferred from one office/department/section to another."
+      },
+      {
+        "question": "Can the ATS application be transferred to any other office/department/section?",
+        "answer": "Yes. The applicant will immediately receive a mail conveying details of the original office/department where the application was submitted and the details of the office/department/section to which it has been transferred. The information can also be ascertained through ATS by the applicant under ‘My Application’. The entire history will be shown."
+      },
+      {
+        "question": "What happens when an application is transferred to another office/department?",
+        "answer": "The application is automatically inwarded in the receiving office/department and marked to the administrator of that department."
+      },
+      {
+        "question": "Whether any attachment can be sent along with the application?",
+        "answer": "Yes. One or more documents can be uploaded along with the application. However, each document size should not exceed 1 MB."
+      },
+      {
+        "question": "Whether applications submitted physically at the counters of RBI or sent through post can also be tracked through the ATS?",
+        "answer": "Yes. ATS is also available for all applications/letters, etc., submitted physically at the counters of RBI or received through post/courier, provided a valid email ID is given in the document. Receipt of all such applications as also its disposal will be advised to the applicant through email. Additionally, the status of such applications can also be tracked through the ATS number and the password sent to the valid email ID of the applicant."
+      },
+      {
+        "question": "If a borrower has aggregate sanctioned credit limit of Rs.25,000 crore on or before March 31, 2016, will it still qualify as a ‘Specified Borrower’?",
+        "answer": "In all such cases, the borrower will be deemed to be a ‘Specified Borrower’ from April 1, 2016, and the disincentive mechanism will be applicable from April 1, 2017, if the borrower borrows from the banking system beyond the NPLL."
+      },
+      {
+        "question": "If a borrower becomes a ‘Specified Borrower’ during the last quarter of the FY 2016-17, say on March 31, 2017, then what will be the date of application of the disincentive mechanism?",
+        "answer": "As the disincentive mechanism will be applicable from the FY succeeding the FY in which a borrower becomes a ‘Specified Borrower,’ the disincentive mechanism will be applicable from April 1, 2017, for any borrowing from the banking system beyond the NPLL."
+      },
+      {
+        "question": "Is there any restriction on borrowers tapping the market mechanism for their funding needs before they reach the ASCL?",
+        "answer": "Borrowers are free to raise their funding needs from any source at any level."
+      },
+      {
+        "question": "Whether ECB and Trade Credit raised from overseas branches of Indian banks be counted towards ASCL?",
+        "answer": "Yes, ECB and Trade Credit raised from overseas branches of Indian banks will count towards ASCL."
+      },
+      {
+        "question": "Whether borrowers under restructuring will be covered in the framework? Whether additional credit facilities extended during restructuring of stressed borrowers will be included in computing the ASCL?",
+        "answer": "In cases of accounts with ASCL above the cut-off where S4A is implemented, both the sustainable and unsustainable debt (Parts A & B) should be counted towards calculating ASCL. Restructured accounts where cut-off ASCL is achieved/likely to be achieved due to additional finance under the restructuring package under JLF and other RBI frameworks should not be subjected to the disincentive mechanism for the incremental exposure."
+      },
+      {
+        "question": "Can a resident person undertake forex transactions?",
+        "answer": "Resident persons are permitted to undertake forex transactions only with authorised persons and for permitted purposes, in terms of the Foreign Exchange Management Act, 1999 (FEMA)."
+      },
+      {
+        "question": "Who are authorised persons?",
+        "answer": "An authorised person is an entity authorised by the Reserve Bank of India to deal in forex. It can be an authorised dealer, money changer, off-shore banking unit, or any other person for the time being authorised under Sub-Section (1) of Section 10 of FEMA."
+      },
+      {
+        "question": "Can a resident person undertake forex transactions on internet/electronic trading portals?",
+        "answer": "Permitted forex transactions executed electronically should be undertaken only on electronic trading platforms (ETPs) authorised for the purpose by the Reserve Bank of India (RBI) or on recognised stock exchanges such as NSE, BSE, and MSE."
+      },
+      {
+        "question": "What is an Electronic Trading Platform (ETP)? Do they require authorisation from RBI to operate in India?",
+        "answer": "An Electronic Trading Platform (ETP) means any electronic system, other than a recognised stock exchange, on which transactions in eligible instruments like securities, money market instruments, foreign exchange instruments, and derivatives are contracted. No entity shall operate an ETP without obtaining prior authorisation from RBI."
+      },
+      {
+        "question": "Can a resident individual remit margin overseas under the Liberalised Remittance Scheme (LRS) for undertaking online forex trading?",
+        "answer": "No. Remittances under LRS can be made only for permissible current and capital account transactions. All other transactions, including remittance for margins or margin calls to overseas exchanges/overseas counterparties, are not allowed under the scheme."
+      },
+      {
+        "question": "Where can a resident person register complaints against unauthorised electronic trading platforms (ETPs) for forex transactions?",
+        "answer": "Complaints regarding unauthorised ETPs for forex transactions may be filed on the National Cyber Crime Reporting Portal (https://cybercrime.gov.in) or with the Enforcement Directorate (ed-del-rev@nic.in) and respective police authorities of States/UTs."
+      },
+      {
+        "question": "What is the meaning of capital account transaction? What are the permitted capital account transactions?",
+        "answer": "A 'capital account transaction' means a transaction which alters the assets or liabilities, including contingent liabilities, outside India of persons resident in India or assets or liabilities in India of persons resident outside India."
+      },
+      {
+        "question": "What is the meaning of current account transaction? What are the permitted current account transactions?",
+        "answer": "A 'current account transaction' means a transaction other than a capital account transaction. Examples include payments for foreign trade, remittances for living expenses of parents, spouse, and children residing abroad, and expenses for foreign travel, education, and medical care."
+      },
+      {
+        "question": "What is the difference between over-the-counter (OTC) and exchange-traded forex derivatives?",
+        "answer": "Forex derivatives traded on exchanges are referred to as exchange-traded forex derivatives, while all other forex derivatives, including those traded on ETPs, are called OTC forex derivatives."
+      },
+      {
+        "question": "What is a Systemically Important Core Investment Company (CIC-ND-SI)?",
+        "answer": "A CIC-ND-SI is a Non-Banking Financial Company (i) with asset size of Rs 100 crore and above, (ii) carrying on the business of acquisition of shares and securities, and (iii) satisfies conditions such as holding at least 90% of net assets in group company investments, maintaining at least 60% in equity shares, and not trading in its investments except for disinvestment."
+      },
+      {
+        "question": "Will existing Core Investment Companies (CICs) with asset size below Rs. 100 crore need to apply for exemption?",
+        "answer": "No, existing CICs with asset size below Rs 100 crore are exempt from registration as per RBI Notification No. DNBS.(PD) 220/CGM(US)-2011 dated January 5, 2011."
+      },
+      {
+        "question": "Do exempted CICs with asset size below Rs. 100 crore need to submit a Statutory Auditor’s Certificate?",
+        "answer": "No, exempted CICs with asset size below Rs 100 crore are not required to submit any auditor’s certificate confirming compliance."
+      },
+      {
+        "question": "Which company in a group with multiple Core Investment Companies should seek registration as a CIC?",
+        "answer": "All CICs within a group that have accessed public funds and meet the CIC-ND-SI criteria must obtain a Certificate of Registration from the RBI."
+      },
+      {
+        "question": "If a company in a group accesses public funds, do all CICs in the group require registration?",
+        "answer": "Only the specific CIC that has accessed public funds needs to be registered, provided it is not funding other CICs directly or indirectly."
+      },
+      {
+        "question": "Will investment in a subsidiary’s subsidiary (step-down subsidiary) count toward the 90% net asset requirement?",
+        "answer": "No, only direct investments in group companies, as appearing in the CIC’s balance sheet, are considered for this calculation."
+      },
+      {
+        "question": "Are Current Liabilities considered part of Outside Liabilities?",
+        "answer": "Yes, any liabilities that must be repaid are considered Outside Liabilities."
+      },
+      {
+        "question": "If an NBFC-ND-SI converts into a CIC-ND-SI, does it need a fresh application?",
+        "answer": "Yes, a fresh application is required as there is a separate registration process for CICs-ND-SI."
+      },
+      {
+        "question": "What constitutes the 10% of Net Assets that CICs/CICs-ND-SI can hold outside the group?",
+        "answer": "This includes real estate and fixed assets required for effective functioning but excludes financial investments/loans in non-group companies."
+      },
+      {
+        "question": "Do CICs-ND-SI require NOC from RBI for overseas investment?",
+        "answer": "Yes, CICs-ND-SI require NOC from RBI for investing in the financial sector, but no prior approval is required for non-financial sector investments."
+      },
+      {
+        "question": "Can CICs accept deposits?",
+        "answer": "No, CICs/CICs-ND-SI cannot accept deposits."
+      },
+      {
+        "question": "What does the term 'public funds' include?",
+        "answer": "Public funds include public deposits, inter-corporate deposits, bank finance, funds raised through commercial papers, debentures, and similar instruments."
+      },
+      {
+        "question": "Can CICs issue guarantees, and will this be considered part of public funds?",
+        "answer": "Yes, CICs can issue guarantees. While guarantees themselves are not public funds, a CIC must ensure it can meet obligations without accessing public funds."
+      },
+      {
+        "question": "What is a Group Company in the context of a CIC?",
+        "answer": "Group companies include subsidiaries, joint ventures, associates, promoter-promotee relationships, entities with common brand names, and companies with 20% or more equity investment."
+      },
+      {
+        "question": "How can a company register as a CIC-ND-SI?",
+        "answer": "The company must submit an application form, available on the RBI website, along with necessary documents to the RBI's regional office."
+      },
+      {
+        "question": "Can CICs make overseas investments or raise External Commercial Borrowings (ECBs)?",
+        "answer": "Yes, CICs can make overseas investments and raise ECBs, subject to RBI's ECB Policy and Foreign Exchange regulations."
+      },
+      {
+        "question": "Are CICs permitted to invest in Liquid Fund Schemes (Mutual Funds) with maturity of less than 91 days?",
+        "answer": "Yes, CICs can invest in money market instruments, including money market mutual funds and liquid fund schemes."
+      },
+      {
+        "question": "Do CICs with an asset size below Rs. 100 crore require RBI registration?",
+        "answer": "No, CICs with asset size below Rs. 100 crore are exempt from RBI registration unless they plan to make overseas financial sector investments."
+      },
+      {
+        "question": "Can a company that does not meet CIC criteria register as an NBFC?",
+        "answer": "If a company does not meet the CIC criteria, it may need to register as an NBFC and comply with NBFC regulations."
+      },
+      {
+        "question": "What are the asset classification norms for CICs?",
+        "answer": "CICs with assets < Rs. 500 crore follow Non-Systemically Important NBFC norms, while those with ≥ Rs. 500 crore follow Systemically Important NBFC norms."
+      },
+      {
+        "question": "Are CICs required to maintain standard asset provisioning?",
+        "answer": "Yes, CICs with assets < Rs. 500 crore must maintain 0.25% provisioning, while those with ≥ Rs. 500 crore must maintain 0.40% provisioning."
+      },
+      {
+        "question": "When should a CIC apply for RBI registration upon reaching Rs. 100 crore asset size?",
+        "answer": "A CIC must apply for registration within three months of achieving a balance sheet size of Rs. 100 crore."
+      },
+      {
+        "question": "What action the AD is required to take in case of any adverse reporting in Annual Activity Certificate (AAC) of LO/BO or non-submission of AACs?",
+        "answer": "In case the designated AD Category I bank notices any adverse findings by the auditor in respect of LO/BO or the LO/BO is defaulting in submission of AACs, then the same should be immediately reported to the Reserve Bank."
+      },
+      {
+        "question": "Can LO/BO maintain more than one account in India?",
+        "answer": "No, if an LO/BO wants to open more than one account it has to obtain prior permission of the Reserve Bank through its AD Category I bank justifying the reason for additional account."
+      },
+      {
+        "question": "Are LO/BO/PO required to register/report with Police authorities?",
+        "answer": "Only applicants from Bangladesh, Sri Lanka, Afghanistan, Iran, China, Hong Kong, Macau and Pakistan shall have to register with the State Police authorities."
+      },
+      {
+        "question": "Can an LO/BO/PO acquire property for its operation?",
+        "answer": "The BO /PO of a foreign entity, excluding an LO, are permitted to acquire property for their own use and to carry out permitted/incidental activities but not for leasing or renting out the property."
+      },
+      {
+        "question": "Can an LO upgraded into BO, continue to have same PAN and bank account?",
+        "answer": "Yes, provided the bank account is re-designated as a BO account."
+      },
+      {
+        "question": "Whether credit facility can be provided in foreign currency for PO?",
+        "answer": "Yes, the AD bank should ensure compliance to the extant instructions issued by the Department of Banking Regulation."
+      },
+      {
+        "question": "Can agents of overseas shipping or airline companies continue to maintain foreign currency account with the designated AD Bank in India after such airline or shipping companies have set up BO in India?",
+        "answer": "Yes, however, BO’s transactions should be restricted to its designated INR account and it should not put any transactions through the agent’s foreign currency account."
+      },
+      {
+        "question": "Can BO open FCY account for doing normal business transactions?",
+        "answer": "No."
+      },
+      {
+        "question": "Can BO/PO/LO have one more account with another AD bank (Agency bank for tax payment) for statutory payments when the AD with whom the account is maintained is not the agency bank?",
+        "answer": "Yes."
+      },
+      {
+        "question": "What are the permissible credits and debits to INR account of Project Office?",
+        "answer": "Credits include funds received from head office through banking channels for meeting expenses of the office and rupee amounts receivable under the contract. Debits are only for meeting local expenses and intermittent remittances pending project completion."
+      },
+      {
+        "question": "Can a branch office (BO) or project office (PO) send outward remittances, permissible under FEMA, through any AD Category I bank or it has to be through the designated AD Category I bank only?",
+        "answer": "BO or PO may remit funds outside India through any AD Category I bank of its choice, subject to obtaining no objection certificate (NOC) from the designated AD Category I bank."
+      },
+      {
+        "question": "Is it mandatory for the regulated entities (REs) to raise green deposits?",
+        "answer": "It is not mandatory but in case REs intend to raise green deposits from their customers they should follow the framework prescribed therein."
+      },
+      {
+        "question": "Is it permissible for REs to offer differential interest rates on green deposits?",
+        "answer": "No, the extant guidelines do not permit REs to offer differential interest rates on green deposits."
+      },
+      {
+        "question": "Are the green deposits raised prior to release of framework covered under it?",
+        "answer": "The framework is applicable for green deposits raised by REs on or after June 01, 2023."
+      },
+      {
+        "question": "Can banks allow overdraft facility to customers against Green Deposits?",
+        "answer": "Yes, subject to the instructions contained in the Consolidated Circular on Opening of Current Accounts and CC/OD Accounts by Banks dated April 19, 2022."
+      },
+      {
+        "question": "Are the deposits raised under the above framework covered by Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+        "answer": "Yes, the deposits raised under the framework are covered by DICGC as per the Deposit Insurance and Credit Guarantee Corporation Act, 1961."
+      },
+      {
+        "question": "What is Sovereign Gold Bond (SGB)? Who is the issuer?",
+        "answer": "SGBs are government securities denominated in grams of gold issued by the Reserve Bank of India on behalf of the Government of India."
+      },
+      {
+        "question": "Why should I buy SGB rather than physical gold? What are the benefits?",
+        "answer": "SGB offers protection against price fluctuations, eliminates storage risks, provides periodic interest, and can be held in demat form."
+      },
+      {
+        "question": "Can an investor hold more than one investor ID for subscribing to the Sovereign Gold Bond?",
+        "answer": "No, an investor can have only one unique investor ID linked to prescribed identification documents."
+      },
+      {
+        "question": "What is the minimum and maximum limit for investment?",
+        "answer": "Minimum investment is one gram; maximum is 4 kg for individuals and 20 kg for trusts per fiscal year."
+      },
+      {
+        "question": "Can I encash the bond anytime I want? Is premature redemption allowed?",
+        "answer": "Early redemption is allowed after the fifth year from the date of issue on coupon payment dates. The bonds are tradable on exchanges."
+      },
+      {
+        "question": "Are Sovereign Gold Bonds taxable?",
+        "answer": "Interest is taxable as per the Income Tax Act. Capital gains on redemption are exempt, but indexation benefits apply for transfers."
+      },
+      {
+        "question": "What is Digital Rupee?",
+        "answer": "Digital Rupee (e₹) is India’s Central Bank Digital Currency (CBDC), issued by the RBI in digital form. It offers features similar to physical cash and can be used for transactions via digital wallets."
+      },
+      {
+        "question": "How can e₹ be held and used?",
+        "answer": "e₹ can be held in digital wallets offered by banks and non-banks. Users can download the e₹ app and make transactions using QR codes."
+      },
+      {
+        "question": "Are e₹ wallets safe?",
+        "answer": "Yes, they are secure, and even if the mobile device is lost, the wallet can be recovered using the same phone number/SIM."
+      },
+      {
+        "question": "Can Digital Rupee be transacted outside banking hours?",
+        "answer": "Yes, e₹ transactions can be conducted 24/7."
+      },
+      {
+        "question": "Will interest be paid on e₹ balances?",
+        "answer": "No, e₹ functions like cash, so no interest is paid."
+      },
+      {
+        "question": "Is e₹ different from UPI?",
+        "answer": "Yes. e₹ is digital currency, while UPI is a payment method using bank accounts."
+      },
+      {
+        "question": "What is TReDS?",
+        "answer": "TReDS is an electronic platform for financing MSME trade receivables through multiple financiers."
+      },
+      {
+        "question": "Who can participate as a seller in TReDS?",
+        "answer": "Only MSMEs can participate as sellers."
+      },
+      {
+        "question": "What is a Factoring Unit (FU)?",
+        "answer": "An FU represents an invoice or bill of exchange in TReDS."
+      },
+      {
+        "question": "Who can participate as a financier?",
+        "answer": "Banks, NBFC-Factors, and other RBI-permitted financial institutions."
+      },
+      {
+        "question": "Does an MSME seller have to repay in case of buyer default?",
+        "answer": "No, transactions are without recourse to MSMEs."
+      },
+      {
+        "question": "What is Sovereign Gold Bond (SGB)?",
+        "answer": "SGBs are government securities issued by RBI, denominated in grams of gold, providing an alternative to physical gold."
+      },
+      {
+        "question": "What is the minimum and maximum investment limit?",
+        "answer": "Minimum investment is 1 gram; the maximum limit is 4 kg for individuals and 20 kg for trusts per fiscal year."
+      },
+      {
+        "question": "Are SGBs taxable?",
+        "answer": "Interest is taxable, but capital gains on redemption are exempt."
+      },
+      {
+        "question": "Can SGBs be prematurely redeemed?",
+        "answer": "Yes, after the fifth year on coupon payment dates."
+      },
+      {
+        "question": "What is Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS)?",
+        "answer": "PMGKDS is a scheme notified by the Government of India in 2016 for declarants of undisclosed income."
+      },
+      {
+        "question": "Will interest be paid on deposits under PMGKDS?",
+        "answer": "No, deposits made under PMGKDS do not earn interest."
+      },
+      {
+        "question": "Can deposits be prematurely withdrawn?",
+        "answer": "No, premature redemption is not allowed."
+      },
+      {
+        "question": "How will the deposit be repaid?",
+        "answer": "After 4 years, the redemption amount will be credited to the bank account provided by the depositor."
+      },
+      {
+        "question": "How will the new penal charges regime apply to existing loans?",
+        "answer": "The switchover will occur on the next review/renewal date falling on or after April 1, 2024, but no later than June 30, 2024."
+      },
+      {
+        "question": "Can penal interest be charged on trade credit and structured obligations?",
+        "answer": "No, these products follow the RBI Master Direction on External Commercial Borrowings, Trade Credits, and Structured Obligations (March 26, 2019)."
+      },
+      {
+        "question": "Are penal charges applicable to default in repayment?",
+        "answer": "Yes, but they shall be reasonable and only levied on the default amount, not on the outstanding loan."
+      },
+      {
+        "question": "Can banks levy additional penal charges on unpaid penal charges?",
+        "answer": "No, further penal charges cannot be levied on previous outstanding penal charges."
+      },
+      {
+        "question": "Will GST apply to penal charges?",
+        "answer": "GST applicability is subject to Central Board of Indirect Taxes & Customs (CBIC) guidelines."
+      },
+      {
+        "question": "Who is a person resident in India?",
+        "answer": "Defined under FEMA Sec 2(v) as someone residing in India for more than 182 days in the preceding financial year, with exceptions for employment, business, or other long-term stays abroad."
+      },
+      {
+        "question": "What is a Foreign Currency Account?",
+        "answer": "An account held in a currency other than Indian Rupees or that of Nepal/Bhutan."
+      },
+      {
+        "question": "In what form can a foreign currency account in India be opened?",
+        "answer": "Unless otherwise specifically stated in the features of the account, a foreign currency account maintained by a person resident in India with an authorized dealer in India can be opened, held and maintained in the form of current or savings or term deposit account in cases where the account holder is an individual, and in the form of current account or term deposit account in all other cases. The account can be held singly or jointly in the name of person eligible to open, hold and maintain such account."
+      },
+      {
+        "question": "When can a resident individual open a foreign currency account outside India?",
+        "answer": "A resident individual can open a foreign currency account with a bank outside India in the following cases:\n1) A resident student who has gone abroad for studies for the period of stay abroad...\n2) A resident who is on a visit to a foreign country for the period of stay abroad...\n3) A person going abroad to participate in an exhibition/ trade fair...\n4) A resident individual, being an exporter, for realisation of full export value...\n5) The following persons for remitting/ receiving their entire salary payable to them in India..."
+      },
+      {
+        "question": "Can a resident continue to maintain an account outside India which was opened by him when he was a non-resident?",
+        "answer": "A person resident in India may maintain a foreign currency account outside India if he had opened it when he was resident outside India or inherited it from a person resident outside India."
+      },
+      {
+        "question": "What is the status of the account held outside India on the demise of the account holder?",
+        "answer": "A resident nominee of an account held outside India has to close the account and bring back the proceeds to India through banking channels."
+      },
+      {
+        "question": "What does one mean by Government security?",
+        "answer": "Government security (G-Sec) means a security created and issued by the Government for the purpose of raising a public loan or any other purpose as notified by the Government in the Official Gazette."
+      },
+      {
+        "question": "What is the Government Securities Act, 2006?",
+        "answer": "The Government Securities Act, 2006 (G S Act) is an Act to consolidate and amend the laws relating to Government securities and its management by the RBI and for matters connected therewith."
+      },
+      {
+        "question": "What are the Government Securities Regulations, 2007?",
+        "answer": "Government Securities Regulations, 2007 (G S Regulations) have been framed by the RBI to carry out the purposes of the G S Act."
+      },
+      {
+        "question": "Are Relief/Savings Bonds also Government securities? Does the G S Act and the G S Regulations apply to them as well?",
+        "answer": "Yes. Relief/Savings Bonds are also Government securities. They are issued in the form of Stock Certificate and BLA by the RBI and in the form of BLA by the Agency Banks."
+      },
+      {
+        "question": "Who are eligible to invest in Government securities?",
+        "answer": "The G S Act and the G S Regulations do not specify the eligibility criteria for investment in a G-Sec. The eligibility criteria are specified in the respective Government Notifications."
+      },
+      {
+        "question": "What does one mean by the CSGL account?",
+        "answer": "CSGL, i.e. Constituents' Subsidiary General Ledger account, means an SGL account opened and maintained with RBI by an agent on behalf of the constituents of such agent."
+      },
+      {
+        "question": "Who is deemed to be the holder of the Government securities in CSGL account?",
+        "answer": "A CSGL account holder shall be deemed to be the holder of the securities held in the respective account with RBI. However, the constituents (GAHs) are the beneficial owners of the Government security."
+      },
+      {
+        "question": "Whether there has been any simplification in the process/documentation for recognition of title to Government security of deceased sole holder or joint holders?",
+        "answer": "Yes. The title to Government security can now be recognised not only on the basis of a Succession Certificate but also on a decree, order, or certificate issued by a competent authority."
+      },
+      {
+        "question": "What is STRIPS? What is the benefit of stripping Government securities?",
+        "answer": "STRIPS is the acronym for 'Separate Trading of Registered Interest and Principal of Securities'. These are 'zero-coupon' securities where the investor receives a payment at maturity only."
+      },
+      {
+        "question": "What is an EEFC Account and what are its benefits?",
+        "answer": "Exchange Earners' Foreign Currency Account (EEFC) is an account maintained in foreign currency with an Authorised Dealer Category - I bank. It is a facility provided to foreign exchange earners, including exporters, to credit 100% of their foreign exchange earnings to the account, minimizing transaction costs."
+      },
+      {
+        "question": "Who can open an EEFC account?",
+        "answer": "All categories of foreign exchange earners, such as individuals, companies, etc., who are resident in India, may open EEFC accounts."
+      },
+      {
+        "question": "What are the different types of EEFC accounts? Can interest be paid on these accounts?",
+        "answer": "An EEFC account can be held only in the form of a current account. No interest is payable on EEFC accounts."
+      },
+      {
+        "question": "How much of one’s foreign exchange earnings can be credited into an EEFC account?",
+        "answer": "100% foreign exchange earnings can be credited to the EEFC account, provided the sum total of accruals in the account during a calendar month is converted into Rupees before the last day of the succeeding calendar month."
+      },
+      {
+        "question": "Whether EEFC Account can be opened by Special Economic Zone (SEZ) Units?",
+        "answer": "No, SEZ Units cannot open EEFC Accounts. However, a unit located in an SEZ can open a Foreign Currency Account with an Authorised Dealer in India subject to certain conditions."
+      },
+      {
+        "question": "Is there any cheque facility available?",
+        "answer": "Yes, cheque facility is available for operation of the EEFC account."
+      },
+      {
+        "question": "Whether all members of a household are mandatorily required to become borrowers of a microfinance loan?",
+        "answer": "No. The directions require assessment of income and indebtedness at the household level, but all members do not have to be applicants/borrowers."
+      },
+      {
+        "question": "Whether loans for consumption without collateral would be treated as microfinance loans?",
+        "answer": "Yes. All collateral-free loans to individuals from low-income households (annual income up to ₹3,00,000) are treated as microfinance loans."
+      },
+      {
+        "question": "If a loan is backed by hypothecation of any security (gold, equipment, white goods, etc.), will it be considered collateral-free and classified as a microfinance loan?",
+        "answer": "No. Loans backed by hypothecation of any security shall not be treated as microfinance loans."
+      },
+      {
+        "question": "What should a customer keep in mind while availing a microfinance loan?",
+        "answer": "A customer should note that no deposit/margin/collateral is required, a loan card must be provided, non-credit products are voluntary, training is free, and penalty for delayed payment applies only to the overdue amount."
+      },
+      {
+        "question": "Whether banks can accept interest-free deposits?",
+        "answer": "Banks cannot accept interest-free deposits other than in current accounts."
+      },
+      {
+        "question": "Whether banks can pay interest on savings bank accounts quarterly?",
+        "answer": "Banks can pay interest on savings bank accounts at quarterly or longer rests."
+      },
+      {
+        "question": "Whether banks can pay interest on term deposits monthly?",
+        "answer": "Interest on term deposits is payable at quarterly or longer rests. Banks can pay interest monthly by discounting the quarterly interest accrued."
+      },
+      {
+        "question": "Whether banks can pay differential rates of interest on term deposits aggregating Rs.15 lakhs and above?",
+        "answer": "Differential rates of interest can be paid on single term deposits of Rs.15 lakhs and above and not on the aggregate of individual deposits where the total exceeds Rs.15 lakhs."
+      },
+      {
+        "question": "Whether banks can pay commission for mobilizing deposits?",
+        "answer": "Banks are prohibited from engaging individuals, firms, or institutions to collect deposits or sell deposit-linked products for a commission, except for door-to-door deposit collection under special schemes."
+      },
+      {
+        "question": "Whether banks can prematurely repay the term deposit on their own?",
+        "answer": "No, term deposits cannot be paid prematurely at the bank’s option. They can only be withdrawn prematurely at the request of the customer."
+      },
+      {
+        "question": "Whether banks can refuse premature withdrawal of term deposits?",
+        "answer": "Banks may not normally refuse premature withdrawal of term deposits of individuals and Hindu Undivided Families (HUF). However, they may disallow premature withdrawal for large deposits held by entities other than individuals and HUFs."
+      },
+      {
+        "question": "Whether banks can levy penalty for premature withdrawal?",
+        "answer": "Banks have the freedom to determine their own penal rates of interest for premature withdrawal of term deposits."
+      },
+      {
+        "question": "How and when are banks required to pay interest on deposits maturing on holidays?",
+        "answer": "Banks should pay interest at the originally contracted rate on the deposit amount for the holiday/non-business working day intervening before the next working day."
+      },
+      {
+        "question": "Whether additional interest admissible to bank’s staff can be paid on deposits held in the name of minor children of deceased staff members?",
+        "answer": "No. Children (including minors) are not eligible for additional interest admissible to bank staff members or retired staff members."
+      },
+      {
+        "question": "Whether banks are permitted to offer differential rates of interest on deposits?",
+        "answer": "Banks can offer special fixed deposit schemes specifically for senior citizens with higher interest rates than normal deposits."
+      },
+      {
+        "question": "Whether banks can open savings bank accounts in the name of Government Departments?",
+        "answer": "No, except for specific Government organizations/agencies such as Khadi and Village Industries Boards, Agriculture Produce Market Committees, and Societies registered under the Societies Registration Act, among others."
+      },
+      {
+        "question": "At what rate is interest payable on the deposit standing in the name of a deceased depositor?",
+        "answer": "Banks have discretion over the interest payable on matured term deposits standing in the name of a deceased depositor, as per their board-approved policy."
+      },
+      {
+        "question": "What are the guidelines for renewal of overdue deposits?",
+        "answer": "Banks should have a transparent policy regarding renewal of overdue deposits and notify customers about the terms and interest rates at the time of acceptance."
+      },
+      {
+        "question": "Whether concessional interest rates apply when a loan against FCNR(B) deposit is repaid in foreign currency?",
+        "answer": "Banks have the freedom to set interest rates on loans against FCNR(B) deposits, irrespective of repayment in Rupees or Foreign Currency."
+      },
+      {
+        "question": "Whether banks can accept recurring deposits under the FCNR(B) scheme?",
+        "answer": "No, banks cannot accept recurring deposits under the FCNR(B) scheme."
+      },
+      {
+        "question": "Who can fix the interest rates on NRE and FCNR(B) deposits?",
+        "answer": "The Board of Directors of banks can authorize the Asset-Liability Management Committee to fix interest rates on deposits within RBI's prescribed ceiling."
+      },
+      {
+        "question": "Whether banks are permitted to offer differential rates of interest on NRE/FCNR(B) deposits?",
+        "answer": "Yes. Banks can offer differential rates of interest on NRE deposits for amounts of Rs.15 lakhs and above and can determine minimum quantum for FCNR(B) deposits."
+      },
+      {
+        "question": "What is meant by Reinvestment Deposit?",
+        "answer": "A reinvestment deposit is a term deposit where interest is reinvested at the same contracted rate and paid along with the principal on maturity."
+      },
+      {
+        "question": "Whether FCNR(B) deposits can be renewed retrospectively?",
+        "answer": "Yes, but only if the overdue period does not exceed 14 days. The interest rate will be the lower of the rate on the date of maturity or the renewal request date."
+      },
+      {
+        "question": "Under what circumstances can additional interest be paid on FCNR(B) deposits?",
+        "answer": "Additional interest (up to 1%) can be paid for FCNR(B) deposits in the name of staff members or their spouses, provided the depositor is a non-resident of Indian nationality or origin."
+      },
+      {
+        "question": "Whether banks can pay interest on NRE and FCNR(B) deposits for intervening holidays?",
+        "answer": "Yes. If the maturity date falls on a holiday, banks can pay interest at the originally contracted rate for the intervening period."
+      },
+      {
+        "question": "What is meant by ‘Free’ in lending rate prescriptions?",
+        "answer": "Banks are free to set their Benchmark Prime Lending Rate (BPLR) with board approval. BPLR must be uniformly applicable across branches."
+      },
+      {
+        "question": "Whether banks can charge interest rates without reference to their own BPLR?",
+        "answer": "Yes, banks can set interest rates independent of BPLR for certain loans, including loans for consumer durables, advances against deposits, and intermediary financing."
+      },
+      {
+        "question": "Can banks have multiple BPLRs?",
+        "answer": "No. Banks should have a single BPLR, factoring in risk and term premia in their spreads."
+      },
+      {
+        "question": "Whether banks can grant fixed-rate loans for purposes other than project finance?",
+        "answer": "Yes, banks have the freedom to offer fixed or floating rate loans, subject to Asset Liability Management (ALM) Guidelines."
+      },
+      {
+        "question": "Whether revised BPLRs apply to existing advances?",
+        "answer": "Yes. Loan agreements should include a provision enabling banks to adjust interest rates based on RBI directives, except in the case of fixed-rate loans."
+      },
+      {
+        "question": "Whether banks may charge interest below BPLR on loans above Rs.2.00 lakhs?",
+        "answer": "Yes. Banks may offer loans below BPLR to exporters or other creditworthy borrowers, including public enterprises, based on a transparent and objective board-approved policy."
+      },
+      {
+        "question": "Whether banks are permitted to charge interest below their declared BPLR under a consortium arrangement?",
+        "answer": "No. Each member bank should charge interest on its portion of the credit limits extended to borrowers, subject to its own BPLR."
+      },
+      {
+        "question": "What should be the penal rate of interest?",
+        "answer": "Banks have the freedom to formulate a transparent policy for charging penal interest, subject to board approval. However, no penal interest should be charged on priority sector loans up to Rs.25,000."
+      },
+      {
+        "question": "Whether banks should pay DICGC Guarantee fees in respect of priority sector advances?",
+        "answer": "Banks have discretion to absorb or pass on the guarantee fees for advances over Rs.25,000, except for advances to weaker sections, for which banks should bear the fees."
+      },
+      {
+        "question": "Can interest on loans and advances be charged at varying periods, ranging from monthly to yearly rests?",
+        "answer": "Yes. Since April 1, 2002, banks have charged interest at monthly rests, except for agricultural advances, where existing practices continue."
+      },
+      {
+        "question": "What interest rate is chargeable on loans to staff members of banks or staff members of Co-operative Credit Societies?",
+        "answer": "RBI's interest rate directives do not apply to loans or advances given by banks to their own employees or to cooperative credit societies formed by their staff members."
+      },
+      {
+        "question": "Can banks sanction loans to Trusts and Endowments against shares and debentures?",
+        "answer": "No."
+      },
+      {
+        "question": "Can banks sanction loans against the equity shares of the banking company to its directors?",
+        "answer": "No."
+      },
+      {
+        "question": "Is there a ceiling on banks' exposure to the capital market?",
+        "answer": "Yes. A bank's total capital market exposure, including direct investments in shares and lending against shares, should not exceed 5% of its total outstanding advances as of the previous March 31."
+      },
+      {
+        "question": "Can banks make short sales of shares?",
+        "answer": "No. Banks are prohibited from making short sales of shares."
+      },
+      {
+        "question": "Which bills should not be discounted by banks?",
+        "answer": "Bills covering payment of electricity charges, customs duty, hire purchase/lease rental installments, sale of securities, and other financial accommodations should not be discounted."
+      },
+      {
+        "question": "Can banks invest in fixed deposits of non-financial companies?",
+        "answer": "Yes, but such investments should be classified as loans/advances in their balance sheets."
+      },
+      {
+        "question": "Can banks purchase letters of allotment for PSU Bonds?",
+        "answer": "Yes, subject to conditions such as transactions being conducted through recognized stock exchanges and ensuring clear title to the security."
+      },
+      {
+        "question": "What is the valuation method for advances against shares, debentures, and bonds?",
+        "answer": "They should be valued at prevailing market prices."
+      },
+      {
+        "question": "Can banks sanction bridge loans to companies?",
+        "answer": "Yes, for up to one year against expected equity flows, provided firm arrangements for raising funds are in place."
+      },
+      {
+        "question": "What is the ceiling on loans to individuals against shares, debentures, and PSU bonds?",
+        "answer": "Rs.10 lakhs if held in physical form and Rs.20 lakhs if held in dematerialized form."
+      },
+      {
+        "question": "What is the margin requirement for advances against shares?",
+        "answer": "A uniform margin of 50% must be maintained, with a minimum cash margin of 25% for capital market-related guarantees."
+      },
+      {
+        "question": "Can banks make donations?",
+        "answer": "Yes, profit-making banks can donate up to 1% of the previous year's published profit. Donations to the Prime Minister’s Relief Fund and professional bodies are exempt from this limit."
+      },
+      {
+        "question": "Can loss-making banks make donations?",
+        "answer": "Yes, but only up to Rs.5 lakhs per financial year."
+      },
+      {
+        "question": "Can overseas branches of banks make donations?",
+        "answer": "Yes, provided the total donations do not exceed 1% of their previous year's published profit."
+      },
+      {
+        "question": "What are RBI's norms for acquiring premises on lease/rental for bank use?",
+        "answer": "Banks must have a board-approved policy governing premises acquisition, landlord loans, and grievance redressal mechanisms."
+      },
+      {
+        "question": "Is there a ceiling on service charges levied by banks?",
+        "answer": "No. Banks have the freedom to set service charges, subject to board approval."
+      },
+      {
+        "question": "Who are Authorised Persons under FEMA?",
+        "answer": "Entities authorized by the RBI to deal in foreign exchange, including banks (Authorised Dealers Category-I), non-trade service providers (Category-II), specific institutions (Category-III), and Full-Fledged Money Changers."
+      },
+      {
+        "question": "What is the objective behind allowing Full-Fledged Money Changers (FFMCs)?",
+        "answer": "To widen access to foreign exchange facilities while ensuring efficient customer service through competition."
+      },
+      {
+        "question": "Is a license mandatory for money-changing business?",
+        "answer": "Yes. No person can undertake money-changing business without a valid RBI license."
+      },
+      {
+        "question": "What is Cheque Truncation?",
+        "answer": "Cheque Truncation is the process of stopping the physical movement of cheques issued by a drawer and instead transmitting an electronic image to the paying bank through the clearing house, along with relevant information like MICR data, date of presentation, and presenting bank details."
+      },
+      {
+        "question": "What is the process flow in the Cheque Truncation System (CTS)?",
+        "answer": "In CTS, the presenting bank captures cheque data and images, digitally signs and encrypts them, and transmits them to the clearing house. The clearing house processes the data, settles transactions, and forwards the cheque images to the paying bank. The paying bank can return unpaid instruments, completing the clearing cycle."
+      },
+      {
+        "question": "What type of instruments can be presented for clearing through CTS? What is a CTS-2010 Standard Cheque?",
+        "answer": "Only CTS-2010 standard cheques can be presented. These cheques follow uniform security and design features, including watermark, bank logo in invisible ink, and standardized field placements for efficient image-based processing."
+      },
+      {
+        "question": "Are non-CTS cheques invalid?",
+        "answer": "No, non-CTS cheques remain valid as negotiable instruments. However, banks are advised to withdraw them from circulation, and they cannot be processed under CTS since December 31, 2018."
+      },
+      {
+        "question": "What are the benefits of CTS to customers?",
+        "answer": "CTS enables faster and more cost-effective cheque clearing. It eliminates outstation cheque collection charges if both banks are in the same CTS grid. Corporates can request cheque images for internal use."
+      },
+      {
+        "question": "What is the status of CTS implementation in India?",
+        "answer": "CTS is operational in three grids: Chennai, Mumbai, and New Delhi, covering all states and union territories. Banks must ensure all branches are connected to CTS."
+      },
+      {
+        "question": "What is the 'One Nation, One Grid' project?",
+        "answer": "The project aims to merge the three CTS grids into a single nationwide grid, enabling faster clearance of outstation cheques and improving fund management for banks."
+      },
+      {
+        "question": "What precautions should customers take while writing cheques?",
+        "answer": "Customers should use image-friendly ink, avoid alterations, and ensure cheques are written clearly. Any modifications, except for date validation, are not permitted under CTS."
+      },
+      {
+        "question": "What is the Positive Pay System (PPS) for cheques?",
+        "answer": "PPS is a fraud prevention mechanism where customers issuing cheques of ₹50,000 and above can provide cheque details to the bank. It helps detect tampering and unauthorized alterations."
+      },
+      {
+        "question": "What precautions should banks take in CTS?",
+        "answer": "Banks must ensure clear image capture, avoid stamping over critical cheque details, and verify security features to prevent fraud and processing errors."
+      },
+      {
+        "question": "Can a customer request the physical cheque after truncation?",
+        "answer": "Physical cheques are retained by the presenting bank. Customers can request certified images, and if necessary, the physical cheque can be retrieved with an associated cost."
+      },
+      {
+        "question": "What is meant by 'Remittance of Assets'?",
+        "answer": "It refers to remittance outside India of funds from bank deposits, provident fund balances, superannuation benefits, insurance claims, proceeds from the sale of securities, immovable property, or other assets."
+      },
+      {
+        "question": "Who can remit assets outside India?",
+        "answer": "Foreign nationals (except Nepal/Bhutan/PIOs) who have retired from Indian employment, inherited assets from Indian residents, or expatriates returning to their home country can remit up to USD 1 million per financial year."
+      },
+      {
+        "question": "Who is classified as a 'Resident' under FEMA?",
+        "answer": "A person residing in India for more than 182 days in the preceding financial year, except those who have left India for employment, business, or indefinite stay abroad."
+      },
+      {
+        "question": "What is meant by 'Not Permanently Resident'?",
+        "answer": "A person residing in India for employment or a specific job duration that does not exceed three years."
+      },
+      {
+        "question": "When is RBI approval required for the remittance of assets?",
+        "answer": "RBI approval is needed if the remittance exceeds USD 1 million per financial year or if the remittance is required to avoid hardship to an individual."
+      },
+      {
+        "question": "What are the tax implications for remittance of assets?",
+        "answer": "All remittances are subject to applicable taxes in India. Authorized Dealers must ensure compliance before processing the remittance."
+      },
+      {
+        "question": "What are the RBI guidelines on education loans?",
+        "answer": "RBI issued circulars advising all Scheduled Commercial Banks to adopt the Model Education Loan Scheme (MELS), 2022, formulated by the Indian Banks' Association (IBA). The guidelines provide a broad framework, but banks have the discretion to make changes as deemed fit."
+      },
+      {
+        "question": "Is the Model Education Loan Scheme, 2022, applicable to Regional Rural Banks, Cooperative Banks, NBFCs, and Fintech companies?",
+        "answer": "No, the scheme is applicable only to Scheduled Commercial Banks (SCBs)."
+      },
+      {
+        "question": "Can education loans be availed from banks without collateral?",
+        "answer": "Yes, banks must not obtain collateral security for education loans up to ₹4 lakh, as per RBI guidelines."
+      },
+      {
+        "question": "What is the rate of interest applicable for education loans?",
+        "answer": "Interest rates on education loans are deregulated, and banks determine them with approval from their Board of Directors, following RBI's Master Direction on Interest Rate on Advances."
+      },
+      {
+        "question": "Can banks reject education loan applications based on service area restrictions?",
+        "answer": "No, banks cannot reject applications solely because the applicant's residence is outside the bank's service area."
+      },
+      {
+        "question": "What is the grievance redressal mechanism for education loans?",
+        "answer": "Complaints should first be filed with the concerned bank. If unresolved within a month, complaints can be lodged under 'The Reserve Bank - Integrated Ombudsman Scheme, 2021' via the RBI CMS portal."
+      },
+      {
+        "question": "What is the National Electronic Funds Transfer (NEFT) system?",
+        "answer": "NEFT is a nationwide centralized payment system operated by the RBI for electronic fund transfers between banks."
+      },
+      {
+        "question": "What are the advantages of using NEFT?",
+        "answer": "NEFT offers 24x7 availability, near-real-time fund transfers, pan-India coverage, digital access, transaction tracking, and no charges for online transfers from savings accounts."
+      },
+      {
+        "question": "How does the NEFT system operate?",
+        "answer": "Customers initiate a transfer via internet banking or at a bank branch. The originating bank sends transaction details to the RBI, which processes and forwards them to the beneficiary bank for final credit."
+      },
+      {
+        "question": "What is the Indian Financial System Code (IFSC)?",
+        "answer": "IFSC is an 11-digit alphanumeric code that uniquely identifies a bank branch participating in NEFT transactions."
+      },
+      {
+        "question": "Who can use NEFT for fund transfers?",
+        "answer": "Individuals, firms, and corporates with accounts at NEFT-enabled banks can transfer funds electronically."
+      },
+      {
+        "question": "Is there a limit on the amount that can be remitted via NEFT?",
+        "answer": "No, the RBI does not impose any limits. However, banks may set limits based on risk perception."
+      },
+      {
+        "question": "Can NEFT be used for cash-based transfers?",
+        "answer": "Yes, individuals without bank accounts can deposit cash at NEFT-enabled branches to remit up to ₹50,000 per transaction."
+      },
+      {
+        "question": "Can NEFT be used for international transfers?",
+        "answer": "NEFT can be used only for remittances to Nepal under the Indo-Nepal Remittance Facility (INRF) Scheme."
+      },
+      {
+        "question": "What are NEFT operating hours?",
+        "answer": "NEFT operates 24x7, with transactions processed in half-hourly batches."
+      },
+      {
+        "question": "What details are required for an NEFT transfer?",
+        "answer": "The sender must provide the beneficiary's name, bank name, branch name, account number, account type, and IFSC."
+      },
+      {
+        "question": "Are there charges for NEFT transactions?",
+        "answer": "Online NEFT transactions from savings accounts are free. For branch-based transfers, charges range from ₹2.50 to ₹25, plus GST, based on the transaction amount."
+      },
+      {
+        "question": "Can NEFT be used to transfer funds from NRE and NRO accounts?",
+        "answer": "Yes, subject to FEMA and Wire Transfer Guidelines compliance."
+      },
+      {
+        "question": "How can a customer track an NEFT transaction?",
+        "answer": "Customers can track transactions via their bank’s NEFT Customer Facilitation Centre (CFC) using the Unique Transaction Reference (UTR) number."
+      },
+      {
+        "question": "What happens if an NEFT transaction fails?",
+        "answer": "If funds cannot be credited, the transaction is reversed within two hours of batch processing."
+      },
+      {
+        "question": "What are the penalties for delayed NEFT credits?",
+        "answer": "If credit is delayed beyond two hours after batch settlement, the bank must pay penal interest at RBI’s LAF Repo Rate plus 2%."
+      },
+      {
+        "question": "What happens if incorrect beneficiary details are provided?",
+        "answer": "Funds are credited based on the provided account number. The remitter is responsible for ensuring accuracy."
+      },
+      {
+        "question": "How can a customer file a complaint regarding an NEFT transaction?",
+        "answer": "Complaints should be filed with the bank first. If unresolved in 30 days, they can be escalated under the RBI Integrated Ombudsman Scheme."
+      },
+      {
+        "question": "How can a customer ensure safe digital transactions?",
+        "answer": "Customers should refer to RBI’s 'RBI Kehta Hai' campaign and 'BE(A)WARE' magazine for secure digital payment practices."
+      },
+      {
+        "question": "What is the Legal Entity Identifier (LEI) in NEFT transactions?",
+        "answer": "LEI is a unique identifier for large-value NEFT transactions, as per RBI guidelines."
+      },
+      {
+        "question": "Which banks are insured by the DICGC?",
+        "answer": "All commercial banks including foreign bank branches in India, local area banks, regional rural banks, and cooperative banks operating in states where RBI has control over their regulation. Primary cooperative societies are not insured."
+      },
+      {
+        "question": "What does the DICGC insure?",
+        "answer": "The DICGC insures savings, fixed, current, and recurring deposits, except deposits of foreign and Indian governments, inter-bank deposits, and those specifically exempted by RBI."
+      },
+      {
+        "question": "What is the maximum deposit amount insured by the DICGC?",
+        "answer": "Each depositor is insured up to ₹5,00,000, including both principal and interest, per bank in the same right and capacity."
+      },
+      {
+        "question": "How can one verify if their bank is insured by the DICGC?",
+        "answer": "Banks registered with the DICGC display printed leaflets in branches indicating their insurance status. Depositors can also inquire with bank officials."
+      },
+      {
+        "question": "Are deposits across multiple branches of the same bank separately insured?",
+        "answer": "No, deposits across different branches of the same bank are aggregated for insurance purposes, with a maximum coverage of ₹5,00,000."
+      },
+      {
+        "question": "Does the DICGC insure both principal and accrued interest?",
+        "answer": "Yes, principal and interest are insured up to a total of ₹5,00,000 per depositor per bank."
+      },
+      {
+        "question": "Can deposit insurance be increased by opening multiple accounts in the same bank?",
+        "answer": "No, all deposits in the same bank in the same ownership type are aggregated for insurance coverage."
+      },
+      {
+        "question": "Are deposits in different banks separately insured?",
+        "answer": "Yes, each bank is insured separately, meaning deposits in different banks have independent ₹5,00,000 coverage."
+      },
+      {
+        "question": "If two banks are closed on the same day, will deposits be combined for insurance purposes?",
+        "answer": "No, deposits in each closed bank are insured separately, even if they close on the same day."
+      },
+      {
+        "question": "What does 'same capacity and same right' mean in deposit insurance?",
+        "answer": "Deposits in the same ownership type (e.g., individual savings and FD accounts) are aggregated for insurance purposes, whereas deposits in different capacities (e.g., as a trustee, partner, or guardian) are insured separately."
+      },
+      {
+        "question": "How are joint accounts insured?",
+        "answer": "If multiple joint accounts exist with the same names and order, they are aggregated. However, if the names appear in different orders, they are treated separately and insured individually."
+      },
+      {
+        "question": "Can banks deduct dues from deposits before insurance payout?",
+        "answer": "Yes, banks have the right to set off their dues from the deposit amount before deposit insurance applies."
+      },
+      {
+        "question": "Who bears the cost of deposit insurance?",
+        "answer": "The premium for deposit insurance is entirely borne by the insured bank."
+      },
+      {
+        "question": "When does the DICGC pay deposit insurance?",
+        "answer": "In case of bank liquidation, DICGC pays the insured amount to the liquidator within two months of receiving the claim list. If a bank is reconstructed or merged, DICGC pays the difference between the insured amount and the amount received under the merger scheme."
+      },
+      {
+        "question": "Does DICGC directly deal with depositors of failed banks?",
+        "answer": "No, the liquidator or transferee bank handles payments to depositors."
+      },
+      {
+        "question": "Can an insured bank withdraw from DICGC coverage?",
+        "answer": "No, deposit insurance is compulsory, and no bank can opt out."
+      },
+      {
+        "question": "Can DICGC withdraw insurance coverage from a bank?",
+        "answer": "Yes, if a bank fails to pay premiums for three consecutive periods, DICGC can cancel its registration. Public notification is issued in such cases."
+      },
+      {
+        "question": "What happens to insured deposits if a bank is de-registered?",
+        "answer": "Deposits remain covered until the date of de-registration. If the bank is liquidated, DICGC pays claims for deposits existing at the time of de-registration."
+      },
+      {
+        "question": "Who is an Authorized Dealer (AD)?",
+        "answer": "An Authorized Dealer (AD) is any person specifically authorized by the Reserve Bank under Section 10(1) of FEMA, 1999, to deal in foreign exchange or foreign securities. It typically includes banks."
+      },
+      {
+        "question": "Who are authorized by the Reserve Bank to sell foreign exchange for travel purposes?",
+        "answer": "Foreign exchange can be purchased from any authorized person, such as an AD Category-I bank, AD Category-II entity, or Full-Fledged Money Changers (FFMCs) for business and private visits."
+      },
+      {
+        "question": "How much foreign currency can be carried in cash for travel abroad?",
+        "answer": "Travelers can carry up to USD 3000 in cash per visit. The balance can be carried in store value cards, travelers cheques, or bank drafts. Exceptions apply to Iraq, Libya (USD 5000 limit), and Iran, Russia, and CIS countries (full USD 250,000 in cash)."
+      },
+      {
+        "question": "How much Indian currency can be brought in while coming into India?",
+        "answer": "A resident returning from abroad can bring Indian currency notes up to ₹25,000, except from Nepal and Bhutan. Non-residents (except those from Pakistan and Bangladesh) can also bring up to ₹25,000 while entering through an airport."
+      },
+      {
+        "question": "How much foreign exchange can be brought in while visiting India?",
+        "answer": "There is no limit on bringing foreign exchange into India. However, amounts exceeding USD 10,000 (in any form) or USD 5,000 (in cash) must be declared to Customs using the Currency Declaration Form (CDF)."
+      },
+      {
+        "question": "Can one pay by cash the full rupee equivalent of foreign exchange being purchased for travel abroad?",
+        "answer": "For amounts below ₹50,000, rupee payment in cash is allowed. For ₹50,000 and above, payment must be made via cheque, demand draft, debit/credit card, or prepaid card."
+      },
+      {
+        "question": "Is there any timeframe for a traveler who has returned to India to surrender foreign exchange?",
+        "answer": "Travelers must surrender unspent foreign exchange within 180 days of return. However, up to USD 2,000 can be retained for future use or credited to a Resident Foreign Currency (RFC) Domestic Account."
+      },
+      {
+        "question": "Should foreign coins be surrendered to an Authorized Dealer on return from abroad?",
+        "answer": "No, residents can hold foreign coins without any limit."
+      },
+      {
+        "question": "Is there any category of visit that requires prior approval from the Reserve Bank or the Government of India?",
+        "answer": "Yes, dance troupes, artists, and cultural groups require prior approval from the Ministry of Human Resource Development before traveling abroad."
+      },
+      {
+        "question": "Whether permission is required for receiving grants or donations from abroad under the Foreign Contribution Regulation Act (FCRA), 1976?",
+        "answer": "FCRA, 1976 is administered by the Ministry of Home Affairs. No specific approval from RBI is required, but compliance with FCRA regulations is necessary."
+      },
+      {
+        "question": "Who is permitted to hold International Credit Cards (ICC) and International Debit Cards (IDC) for undertaking foreign exchange transactions?",
+        "answer": "Resident individuals can use ICCs and IDCs for current account transactions within the Liberalized Remittance Scheme (LRS) limit. Usage for prohibited transactions like lottery purchases is not allowed."
+      },
+      {
+        "question": "How much jewellery can be carried while going abroad?",
+        "answer": "Jewellery export is governed by Customs Department rules. No RBI approval is required, but necessary customs approvals must be obtained."
+      },
+      {
+        "question": "Can a resident extend local hospitality to a non-resident?",
+        "answer": "Yes, residents can make rupee payments for a non-resident’s boarding, lodging, and travel expenses in India."
+      },
+      {
+        "question": "Can residents purchase air tickets in India for their travel not touching India?",
+        "answer": "Yes, residents can book international tickets in India for travel between two foreign countries. However, this will count towards their overall LRS limit of USD 250,000."
+      },
+      {
+        "question": "Is meeting medical expenses of an NRI close relative in India by Resident Individuals permitted?",
+        "answer": "Yes, such payments are allowed under 'services related thereto' as per FEMA Notification No. FEMA 14(R)/2016-RB."
+      },
+      {
+        "question": "Can a person resident in India hold assets outside India?",
+        "answer": "Yes, if acquired while being a non-resident or inherited from a non-resident. Residents can also acquire property and assets overseas under the LRS."
+      },
+      {
+        "question": "What is the definition of MSME?",
+        "answer": "As per Government of India Gazette Notification S.O. 2119 (E) dated June 26, 2020: (i) Micro enterprise: Investment in plant and machinery or equipment ≤ ₹1 crore, turnover ≤ ₹5 crore. (ii) Small enterprise: Investment ≤ ₹10 crore, turnover ≤ ₹50 crore. (iii) Medium enterprise: Investment ≤ ₹50 crore, turnover ≤ ₹250 crore. Registration on Udyam Registration Portal is required."
+      },
+      {
+        "question": "What is the status of lending by banks to MSMEs?",
+        "answer": "Bank loans to MSMEs engaged in manufacturing or services are classified under Priority Sector Lending (PSL), per Government of India guidelines and RBI circulars."
+      },
+      {
+        "question": "Can retail and wholesale trade be classified under MSME?",
+        "answer": "Yes. The Ministry of MSME, via Office Memorandum dated July 2, 2021, allowed Udyam registration for retail and wholesale trade."
+      },
+      {
+        "question": "What is meant by Priority Sector Lending?",
+        "answer": "Priority sector lending focuses on sectors impacting large populations, weaker sections, and employment-intensive industries such as agriculture and MSMEs."
+      },
+      {
+        "question": "Are there any targets prescribed for lending by banks to MSMEs?",
+        "answer": "Yes. A sub-target of 7.5% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE) is prescribed for lending to Micro enterprises."
+      },
+      {
+        "question": "How do banks assess the working capital requirements of MSME borrowers?",
+        "answer": "Banks appraise credit needs based on the business cycle and short-term requirements. As per the Nayak Committee Report, working capital limits are computed as a minimum of 20% of estimated turnover (up to ₹5 crore credit limit)."
+      },
+      {
+        "question": "Is there a provision for granting composite loans by banks?",
+        "answer": "Yes. Banks can sanction composite loans up to ₹1 crore covering both working capital and term loan requirements under a Single Window."
+      },
+      {
+        "question": "What is Cluster Financing?",
+        "answer": "Cluster financing is a full-service approach catering to the diverse needs of MSMEs in specific geographic clusters. It helps banks in risk assessment, cost reduction, and targeted financial services."
+      },
+      {
+        "question": "What are the RBI guidelines on interest rates for loans disbursed by banks?",
+        "answer": "Interest rates are deregulated and governed by banks' lending policies. From October 1, 2019, MSME loans are linked to an external benchmark for better monetary policy transmission."
+      },
+      {
+        "question": "Can MSME borrowers get collateral-free loans from banks?",
+        "answer": "Yes. Banks are mandated not to accept collateral for loans up to ₹10 lakh for MSME units."
+      },
+      {
+        "question": "What is the Credit Guarantee Fund Trust Scheme for MSEs?",
+        "answer": "The scheme, set up by the Ministry of MSME and SIDBI, provides credit guarantees up to ₹200 lakh for collateral-free loans to MSMEs."
+      },
+      {
+        "question": "Is credit rating mandatory for MSME borrowers?",
+        "answer": "No. Credit rating by external agencies is not mandatory if total exposure to a counterparty does not exceed ₹7.5 crore."
+      },
+      {
+        "question": "What are the guidelines for delayed payment of dues to MSME borrowers?",
+        "answer": "(i) Payment must be made within 45 days of the agreed date. (ii) Failure to pay results in compound interest at three times the RBI Bank Rate. (iii) Disputes are referred to the Micro and Small Enterprises Facilitation Council."
+      },
+      {
+        "question": "How can a bank or creditor identify incipient stress in an MSME account?",
+        "answer": "Banks classify stressed accounts into SMA-0 (potential stress), SMA-1 (overdue 31-60 days), and SMA-2 (overdue 61-90 days) before they turn into NPAs."
+      },
+      {
+        "question": "What is the Framework for Revival and Rehabilitation of MSMEs?",
+        "answer": "(i) MSMEs can voluntarily initiate proceedings. (ii) Banks categorize stressed accounts as SMA-0, SMA-1, and SMA-2. (iii) A Committee decides on Corrective Action Plans (CAP), including rectification, restructuring, or recovery."
+      },
+      {
+        "question": "Which MSME accounts are covered under the Framework for Revival and Rehabilitation?",
+        "answer": "The framework applies to MSMEs with loan limits up to ₹25 crore, including consortium and multiple banking arrangements."
+      },
+      {
+        "question": "What are the RBI guidelines on the One Time Settlement Scheme (OTS) for MSMEs?",
+        "answer": "Banks are advised to implement a non-discretionary OTS scheme, approved by their Boards, to settle NPAs of MSMEs."
+      },
+      {
+        "question": "Do banks provide guidance to MSME entrepreneurs?",
+        "answer": "Yes. Banks offer training via Rural Self Employment Training Institutes (RSETIs) and Financial Literacy Centres (FLCs) to educate MSMEs on financial planning and credit management."
+      },
+      {
+        "question": "Is there a guideline for facilitating timely and adequate credit flow during the MSME life cycle?",
+        "answer": "Yes. Banks must extend standby credit, additional working capital, and mid-term reviews based on actual sales."
+      },
+      {
+        "question": "What is Trade Receivables Discounting System (TReDS)?",
+        "answer": "TReDS is an electronic platform that enables MSMEs to discount trade receivables and access finance quickly."
+      },
+      {
+        "question": "What is the Certified Credit Counsellors (CCC) Scheme?",
+        "answer": "Certified Credit Counsellors (CCCs) are professionals registered with SIDBI who assist MSMEs in preparing project reports to improve bank credit decisions."
+      },
+      {
+        "question": "When did the Payment and Settlement Systems Act, 2007 (PSS Act, 2007) come into effect?",
+        "answer": "The PSS Act, 2007 received the assent of the President on December 20, 2007, and came into force on August 12, 2008."
+      },
+      {
+        "question": "What is the objective of the PSS Act, 2007?",
+        "answer": "The Act regulates and supervises payment systems in India, designating the Reserve Bank of India (RBI) as the authority for related matters. It also provides the legal basis for 'netting' and 'settlement finality'."
+      },
+      {
+        "question": "What are the regulations made under the PSS Act, 2007 and when did they come into force?",
+        "answer": "Two regulations were introduced: (i) The Board for Regulation and Supervision of Payment and Settlement Systems Regulations, 2008, and (ii) The Payment and Settlement Systems Regulations, 2008. Both came into force on August 12, 2008."
+      },
+      {
+        "question": "What are the objectives of these two regulations?",
+        "answer": "The first regulation deals with the composition, powers, and functions of the Board for Regulation and Supervision of Payment and Settlement Systems (BPSS). The second covers authorization, payment instructions, reporting requirements, and compliance for system providers."
+      },
+      {
+        "question": "Does the PSS Act, 2007 define key terms like 'payment obligation', 'payment instruction', and 'payment system'?",
+        "answer": "Yes, these terms are defined under Section 2(1) of the Act."
+      },
+      {
+        "question": "What is a 'Payment Obligation'?",
+        "answer": "It refers to what one participant owes another in a payment system, resulting from clearing, settlement, or payment instructions."
+      },
+      {
+        "question": "What is a 'Payment Instruction'?",
+        "answer": "It is any instrument, authorization, or order (manual or electronic) that facilitates a payment between individuals or participants in a payment system."
+      },
+      {
+        "question": "What is a 'Settlement'?",
+        "answer": "It is the settlement of payment instructions, including those related to securities, foreign exchange, derivatives, or other transactions, which may occur on a net or gross basis."
+      },
+      {
+        "question": "What is a 'Payment System' under the PSS Act, 2007?",
+        "answer": "A system that enables payment between a payer and a beneficiary, involving clearing, payment, or settlement services, excluding stock exchanges and their clearing corporations."
+      },
+      {
+        "question": "Are entities operating a payment system required to get authorization?",
+        "answer": "Yes. As per Section 4 of the Act, no person except the RBI can operate a payment system without authorization."
+      },
+      {
+        "question": "Is there an application fee for authorization?",
+        "answer": "Yes, a fee of ₹10,000 (excluding GST) is required, payable via cash, cheque, demand draft, or electronic transfer."
+      },
+      {
+        "question": "Are foreign entities allowed to operate a payment system in India?",
+        "answer": "Yes, the PSS Act does not differentiate between foreign and domestic entities. However, they must obtain authorization from RBI."
+      },
+      {
+        "question": "What are Financial Market Infrastructures (FMIs)?",
+        "answer": "FMIs are multilateral systems for clearing, settling, or recording financial transactions, including payment systems, central securities depositories (CSDs), and trade repositories (TRs)."
+      },
+      {
+        "question": "What factors does the RBI consider while granting authorization?",
+        "answer": "The RBI assesses the need for the system, technical standards, security, risk management, financial status, experience of management, consumer protection, and impact on monetary policies."
+      },
+      {
+        "question": "Can the RBI refuse or revoke authorization?",
+        "answer": "Yes. The RBI can refuse authorization with written notice and a hearing opportunity. It can also revoke authorization if the entity violates terms of authorization."
+      },
+      {
+        "question": "Is there an appellate authority for applicants whose authorization is refused?",
+        "answer": "Yes, they can appeal to the Central Government within 30 days of receiving the refusal notice."
+      },
+      {
+        "question": "Can the RBI impose security deposits or fees?",
+        "answer": "Yes, the RBI is empowered to collect authorization fees and request security deposits from system providers."
+      },
+      {
+        "question": "Can the RBI lay down operational standards for payment systems?",
+        "answer": "Yes, the RBI can prescribe payment instruction formats, operational timings, netting procedures, and membership criteria."
+      },
+      {
+        "question": "Does the RBI have the authority to inspect system providers?",
+        "answer": "Yes, RBI officials can inspect premises, equipment, and documents related to payment systems."
+      },
+      {
+        "question": "Can RBI issue directions to payment system providers?",
+        "answer": "Yes, RBI can direct providers to ensure compliance and smooth operation of payment systems."
+      },
+      {
+        "question": "Does the PSS Act deal with netting and settlement finality?",
+        "answer": "Yes, it legally recognizes settlement finality and ensures that settlements remain irrevocable even if a system participant becomes insolvent."
+      },
+      {
+        "question": "What are the duties of a system provider under the PSS Act, 2007?",
+        "answer": "A system provider must comply with the Act, its regulations, and RBI directions while ensuring operational transparency, confidentiality, and fair treatment of system participants."
+      },
+      {
+        "question": "How are disputes in payment systems settled?",
+        "answer": "Disputes between system participants are resolved through an internal panel. If unresolved, they can be referred to the RBI or, in certain cases, the Central Government."
+      },
+      {
+        "question": "What are the consequences of dishonoring an electronic fund transfer under the PSS Act, 2007?",
+        "answer": "Dishonoring an electronic transfer due to insufficient funds is an offense punishable with imprisonment or fine, similar to cheque dishonor under the Negotiable Instruments Act."
+      },
+      {
+        "question": "What penalties can be imposed under the PSS Act, 2007?",
+        "answer": "Operating a payment system without authorization, non-compliance with RBI directions, or providing false information can result in fines or criminal prosecution."
+      },
+      {
+        "question": "For what purposes can I seek a first-time home loan?",
+        "answer": "You can seek a first-time home loan for purchasing a house or flat, renovation, extension, and repairs to an existing house. Some banks have separate policies for those buying a second house."
+      },
+      {
+        "question": "How does a bank determine home loan eligibility?",
+        "answer": "A bank assesses eligibility based on repayment capacity, which considers disposable income, spouse's income, assets, liabilities, and stability of income. Typically, banks assume 55-60% of disposable income is available for loan repayment."
+      },
+      {
+        "question": "What is an EMI?",
+        "answer": "An EMI (Equated Monthly Installment) is a fixed monthly payment comprising both principal and interest. It starts from the month after full loan disbursement."
+      },
+      {
+        "question": "What documents are required for loan approval?",
+        "answer": "Required documents include identity and residence proof, latest salary slip or Form 16, last six months' bank statements, legal documents of the property, and a completed application form with photographs."
+      },
+      {
+        "question": "What are the different interest rate options offered by banks?",
+        "answer": "Banks offer Fixed Rate Loans (interest remains constant) and Floating Rate Loans (varies with market rates). Some banks also provide step-up and step-down repayment options."
+      },
+      {
+        "question": "What is the monthly reducing balance method?",
+        "answer": "In this method, interest is calculated on the outstanding principal at the end of each month. As principal reduces, the interest component also decreases over time."
+      },
+      {
+        "question": "How does tenure affect the cost of a loan?",
+        "answer": "Longer tenure results in lower EMIs but higher total interest paid, whereas shorter tenure increases EMI but reduces the overall cost of the loan."
+      },
+      {
+        "question": "What is an amortization schedule?",
+        "answer": "An amortization schedule details the periodic principal and interest payments along with the remaining loan balance over time."
+      },
+      {
+        "question": "What is pre-EMI interest?",
+        "answer": "Pre-EMI interest is payable on partial disbursement of the loan before full disbursement. It is calculated on the amount disbursed and paid monthly until EMI starts."
+      },
+      {
+        "question": "What security is required for a home loan?",
+        "answer": "Typically, banks require a first mortgage of the property. Additional collateral such as life insurance policies, securities, or third-party guarantees may be required."
+      },
+      {
+        "question": "What precautions should be taken when purchasing an old property?",
+        "answer": "Ensure original documents, check for encumbrances, verify the title, and review tax papers to confirm ownership legitimacy."
+      },
+      {
+        "question": "How should borrowers deal with banks when applying for a loan?",
+        "answer": "Borrowers should compare loan offers, check interest rates, fees, and repayment terms, negotiate terms, and get written agreements before finalizing a loan."
+      },
+      {
+        "question": "Can home loans be repaid ahead of schedule?",
+        "answer": "Yes, but some banks charge prepayment penalties of 2-3%. Some banks waive prepayment charges if payments are made from personal savings rather than another loan."
+      },
+      {
+        "question": "What are switch-over or balance transfer charges?",
+        "answer": "Banks charge a switch-over fee when transferring a loan from one bank to another offering lower interest rates. It is typically lower than prepayment charges."
+      },
+      {
+        "question": "Are tax benefits available on home loans?",
+        "answer": "Yes. Interest payments up to ₹1,50,000 per year and principal repayments up to ₹1,00,000 per year qualify for tax benefits under the Income Tax Act, 1961."
+      },
+      {
+        "question": "What are the minimum standards banks must follow when offering home loans?",
+        "answer": "Banks must provide clear information on interest rates, fees, and charges, supply authenticated copies of loan documents, and give valid reasons for loan rejection."
+      },
+      {
+        "question": "How can borrowers file complaints against banks regarding home loans?",
+        "answer": "Borrowers can file complaints with the bank. If unresolved within 30 days, complaints can be submitted to the Banking Ombudsman via www.bankingombudsman.rbi.org.in."
+      },
+      {
+        "question": "What is a Reverse Mortgage Loan?",
+        "answer": "Reverse mortgage loans are available for senior citizens (above 60) who own a house but lack sufficient income. They receive periodic payments while retaining homeownership."
+      },
+      {
+        "question": "What is an Automated Teller Machine (ATM)?",
+        "answer": "An ATM is a computerized machine that allows bank customers to access their accounts for cash withdrawal and other financial & non-financial transactions without visiting a bank branch."
+      },
+      {
+        "question": "What are White Label ATMs (WLAs)?",
+        "answer": "WLAs are ATMs set up, owned, and operated by non-bank entities authorized by the RBI under the Payment & Settlement Systems Act, 2007."
+      },
+      {
+        "question": "Are there differences in facilities available at bank ATMs and WLAs?",
+        "answer": "For customers, using a WLA is similar to using a bank ATM. However, certain services like mobile recharges are not available at WLAs."
+      },
+      {
+        "question": "Why were WLAs introduced?",
+        "answer": "WLAs were introduced to improve ATM availability, especially in semi-urban and rural areas."
+      },
+      {
+        "question": "What services are available at ATMs/WLAs?",
+        "answer": "Services include cash withdrawal, account information, bill payments, mini-statements, PIN change, and cheque book requests."
+      },
+      {
+        "question": "What types of cards can be used at ATMs/WLAs?",
+        "answer": "ATM cards, debit cards, credit cards, and prepaid cards, as permitted by the issuer, can be used at ATMs/WLAs."
+      },
+      {
+        "question": "What are the prerequisites for using an ATM/WLA?",
+        "answer": "Customers need a valid card and PIN. RBI has also permitted cardless withdrawals at ATMs."
+      },
+      {
+        "question": "What is a PIN?",
+        "answer": "A PIN (Personal Identification Number) is a numeric password provided by the bank to secure transactions. Customers should change their PIN regularly and not share it."
+      },
+      {
+        "question": "Can ATM cards issued by banks in India be used at any ATM/WLA?",
+        "answer": "Yes, ATM cards issued by banks in India can be used at any ATM/WLA in the country."
+      },
+      {
+        "question": "What are On-Us and Off-Us transactions?",
+        "answer": "An On-Us transaction occurs at an ATM of the card-issuing bank, whereas an Off-Us transaction occurs at an ATM of another bank or a WLA."
+      },
+      {
+        "question": "Are customers entitled to free transactions at ATMs?",
+        "answer": "Yes, banks must provide a minimum number of free ATM transactions for savings account holders, including at their own ATMs and other bank ATMs."
+      },
+      {
+        "question": "Can banks offer more free ATM transactions?",
+        "answer": "Yes, while RBI mandates a minimum number of free transactions, banks may offer additional free transactions."
+      },
+      {
+        "question": "Are Basic Savings Bank Deposit Accounts (BSBDA) eligible for free ATM transactions?",
+        "answer": "The prescribed free transaction limit does not apply to BSBDA accounts, as the number of withdrawals is subject to account-specific conditions."
+      },
+      {
+        "question": "Are there any transactions excluded from the free transaction count?",
+        "answer": "Non-cash withdrawal transactions at the issuing bank’s ATMs and failed transactions due to technical reasons are not counted as chargeable ATM transactions."
+      },
+      {
+        "question": "How can a customer determine if an ATM is in a metro or non-metro location?",
+        "answer": "ATM locations must display clear signage indicating whether they are in a metro or non-metro area."
+      },
+      {
+        "question": "Are customers charged for ATM transactions?",
+        "answer": "Yes, customers are charged beyond the free transaction limit. Charges are capped at ₹21 per transaction (plus taxes)."
+      },
+      {
+        "question": "What are the charges for using credit cards at ATMs or making withdrawals abroad?",
+        "answer": "Charges for cash withdrawals using credit cards and withdrawals at ATMs abroad are determined by individual banks."
+      },
+      {
+        "question": "What should a customer do if an ATM transaction fails but the account is debited?",
+        "answer": "Banks are expected to reverse such transactions automatically, but customers should also lodge a complaint with the issuing bank."
+      },
+      {
+        "question": "Where can customers find contact details for lodging ATM transaction complaints?",
+        "answer": "Banks/WLA operators must display contact details (toll-free numbers/help desk contacts) at ATMs."
+      },
+      {
+        "question": "What is the time limit for banks to reverse failed ATM transactions?",
+        "answer": "Banks must recredit the customer’s account within a maximum of 5 calendar days (T+5, where ‘T’ is the transaction date)."
+      },
+      {
+        "question": "Are customers compensated for delays in reversing failed transactions?",
+        "answer": "Yes, banks must compensate customers ₹100 per day for delays beyond 5 days, without requiring a claim from the customer."
+      },
+      {
+        "question": "What can a customer do if the bank does not process a reversal or compensation?",
+        "answer": "If unresolved within 30 days, customers can file a complaint under the RBI Ombudsman Scheme via https://cms.rbi.org.in."
+      },
+      {
+        "question": "What should be done with an expired ATM card or a closed account?",
+        "answer": "Expired or closed-account ATM cards should be cut into four pieces through the magnetic strip/chip before disposal."
+      },
+      {
+        "question": "How can customers ensure security during ATM/WLA transactions?",
+        "answer": "Customers should keep PINs private, avoid sharing cards, register for SMS alerts, be aware of skimming devices, and report suspicious activity."
+      },
+      {
+        "question": "What should be done if an ATM card is lost or stolen?",
+        "answer": "Customers should immediately contact their bank to block the card."
+      },
+      {
+        "question": "What are Magnetic Stripe cards and EMV Chip & PIN cards?",
+        "answer": "Magnetic Stripe cards store data on a stripe, while EMV Chip & PIN cards store data in an embedded chip for enhanced security."
+      },
+      {
+        "question": "What is the RBI mandate on Magnetic Stripe and EMV Chip & PIN cards?",
+        "answer": "All banks were required to replace Magnetic Stripe cards with EMV Chip & PIN cards by December 31, 2018."
+      },
+      {
+        "question": "Which types of cards are allowed for withdrawing cash at PoS terminals?",
+        "answer": "Cardholders can withdraw cash using their debit cards and full KYC prepaid cards issued by banks and non-banks in India. Credit cards cannot be used for this facility. Cash can also be withdrawn through UPI and electronic cards linked with overdraft facilities under PMJDY accounts."
+      },
+      {
+        "question": "Is there any limit on the amount of cash that can be withdrawn under this facility?",
+        "answer": "Yes, a cardholder can withdraw up to ₹2,000 per transaction within an overall monthly limit of ₹10,000."
+      },
+      {
+        "question": "What are the charges for availing this facility?",
+        "answer": "Charges, if any, shall not exceed 1% of the transaction amount."
+      },
+      {
+        "question": "Is this facility available at all merchant establishments? How will I know if the facility is available at a particular merchant PoS?",
+        "answer": "No, this facility is available only at designated merchant establishments selected by acquirer banks after due diligence. Merchants offering this service must clearly display its availability along with applicable charges."
+      },
+      {
+        "question": "Is withdrawal of cash using PoS terminals deployed by other banks (i.e. banks other than my card issuer) at designated merchant establishments permitted?",
+        "answer": "Yes, cash can be withdrawn from PoS terminals at designated merchant establishments, regardless of whether the card issuer and acquiring bank are the same."
+      },
+      {
+        "question": "Is it mandatory for the cardholder to purchase some goods or services from the merchant establishment to avail this facility?",
+        "answer": "No, cash withdrawal at PoS terminals is permitted even without making a purchase."
+      },
+      {
+        "question": "Will a receipt be provided for the cash withdrawn at a PoS terminal?",
+        "answer": "Yes, the merchant is required to provide a printed receipt generated by the PoS terminal. If the withdrawal is made alongside a purchase, the receipt must separately indicate the cash withdrawal amount."
+      },
+      {
+        "question": "Where can a grievance in respect of this facility be lodged?",
+        "answer": "Customers can lodge grievances with their card issuer. If the issue remains unresolved or the response is unsatisfactory, they can approach the RBI Integrated Ombudsman Scheme, 2021 for redressal."
+      },
+      {
+        "question": "Does the acquirer bank need any permission from the Reserve Bank of India (RBI) for providing this facility at its PoS terminals?",
+        "answer": "No, acquirer banks (except local area banks) can provide this facility with the approval of their Board. Local area banks require RBI approval."
+      },
+      {
+        "question": "Where can more information about this facility be found?",
+        "answer": "More information can be found in the following RBI circulars:\n- DPSS.CO.PD.No.147/02.14.003/2009-10 (July 22, 2009)\n- DPSS.CO.PD.No.563/02.14.003/2013-14 (September 5, 2013)\n- DPSS.CO.PD.No.449/02.14.003/2015-16 (August 27, 2015)\n- DPSS.CO.PD.No.501/02.14.003/2019-20 (August 29, 2019)\n- DPSS.CO.PD.No.1465/02.14.003/2019-20 (January 31, 2020)\n- DPSS.CO.PD.No.S-99/02.14.006/2021-22 (May 19, 2021)"
+      },
+      {
+        "question": "What is the Indian currency called and what is its symbol?",
+        "answer": "The Indian currency is called the Indian Rupee (INR). One Rupee consists of 100 Paise. The symbol of the Indian Rupee is ₹, resembling both the Devanagari letter '₹' (ra) and the Latin capital letter 'R' with a double horizontal line."
+      },
+      {
+        "question": "What is legal tender?",
+        "answer": "Legal Tender refers to coins or banknotes that must be accepted for the payment of debt or obligations. Banknotes issued by the RBI and ₹1 notes issued by the Government of India are legal tender. Coins up to ₹1,000 and fifty paise coins up to ₹10 are legal tender unless voluntarily accepted beyond these limits."
+      },
+      {
+        "question": "Where are banknotes and coins produced/minted?",
+        "answer": "Banknotes are printed at four currency presses in India (Nasik, Dewas, Mysuru, and Salboni). Coins are minted at four government-owned mints (Mumbai, Hyderabad, Kolkata, NOIDA)."
+      },
+      {
+        "question": "What is a currency chest?",
+        "answer": "A currency chest is a storehouse maintained by scheduled banks, authorized by the RBI, for storing and distributing banknotes and coins on behalf of the Reserve Bank. As of March 31, 2024, there were 2,794 currency chests in India."
+      },
+      {
+        "question": "What is a small coin depot?",
+        "answer": "A small coin depot is an authorized bank facility that stocks and distributes small denomination coins (less than ₹1) to other bank branches. As of March 31, 2024, there were 2,460 small coin depots."
+      },
+      {
+        "question": "What is the role of the Reserve Bank of India in currency management?",
+        "answer": "The RBI has the sole right to issue banknotes in India, determines the quantity of notes to be printed, ensures circulation of good quality notes, and destroys soiled or mutilated notes. The Government of India designs and mints coins, while the RBI is responsible for their distribution."
+      },
+      {
+        "question": "Where can one find information regarding notes/coins supplied by RBI or currently in circulation?",
+        "answer": "Information on notes and coins supplied by the RBI is available at: https://rbi.org.in/Scripts/AnnualReportMainDisplay.aspx"
+      },
+      {
+        "question": "How does the Reserve Bank distribute currency to the people?",
+        "answer": "The RBI manages currency operations through 19 Issue Offices and a network of currency chests and small coin depots maintained by scheduled banks. Fresh banknotes are sent from printing presses to RBI Issue Offices and then to currency chests, while coins are sent from mints to RBI offices and then distributed to small coin depots."
+      },
+      {
+        "question": "What is the meaning of 'I promise to pay' clause on the banknotes?",
+        "answer": "The 'I promise to pay the bearer the sum of Rupees …' clause represents the RBI's obligation to pay the value of the banknote on demand."
+      },
+      {
+        "question": "Which denomination banknotes are currently in circulation?",
+        "answer": "Banknotes of ₹10, ₹20, ₹50, ₹100, ₹200, ₹500, and ₹2000 are in circulation. ₹1 notes are issued by the Government of India. ₹2 and ₹5 notes have been discontinued but remain legal tender."
+      },
+      {
+        "question": "Can banknotes be issued only in these denominations?",
+        "answer": "Not necessarily. As per Section 24 of the RBI Act, banknotes can be issued in values up to ₹10,000 or other denominations specified by the Central Government."
+      },
+      {
+        "question": "What was the highest denomination note ever printed?",
+        "answer": "The highest denomination banknote ever printed by the RBI was ₹10,000, first issued in 1938, demonetized in 1946, reintroduced in 1954, and finally demonetized in 1978."
+      },
+      {
+        "question": "What is currency paper made up of?",
+        "answer": "Indian banknotes are printed on 100% cotton-based paper."
+      },
+      {
+        "question": "How many languages appear in the language panel of Indian banknotes?",
+        "answer": "In addition to Hindi and English, 15 languages appear on the language panel of Indian banknotes."
+      },
+      {
+        "question": "Is it possible to have two or more banknotes with the same serial number?",
+        "answer": "Yes, banknotes can have the same serial number but will differ in the Inset Letter, year of printing, or the signature of a different RBI Governor."
+      },
+      {
+        "question": "What is non-sequential numbering?",
+        "answer": "Non-sequential numbering, introduced in 2011, allows banknote packets of 100 notes to have random serial numbers to improve efficiency and cost-effectiveness in printing."
+      },
+      {
+        "question": "What is a 'star series' banknote?",
+        "answer": "Star series banknotes are replacement notes for defectively printed banknotes in a 100-piece packet. They have a * (star) symbol in the number panel."
+      },
+      {
+        "question": "Who decides on the design and volume of new banknotes?",
+        "answer": "The design is approved by the Central Government after recommendations from the RBI. The volume of notes is determined based on demand, replacement needs, and macroeconomic factors."
+      },
+      {
+        "question": "Are the banknotes issued by RBI backed by any assets?",
+        "answer": "Yes, all banknotes issued by the RBI are backed by assets such as gold, Government Securities, and Foreign Currency Assets as per Section 33 of the RBI Act, 1934."
+      },
+      {
+        "question": "What are the various types of banknotes issued since independence?",
+        "answer": "India has issued multiple series of banknotes:\n1. **Ashoka Pillar Series (1949-1987)** - Featured the Ashoka Pillar instead of King George.\n2. **Mahatma Gandhi Series (1996 & 2005)** - Featured Gandhi’s portrait and advanced security features.\n3. **Mahatma Gandhi (New) Series (2016-Present)** - Introduced smaller-sized notes with new themes."
+      },
+      {
+        "question": "Which denomination banknotes have been demonetized?",
+        "answer": "₹500, ₹1000, and ₹10000 notes were demonetized in 1946. ₹1000, ₹5000, and ₹10000 notes were demonetized in 1978. ₹500 and ₹1000 notes were withdrawn on November 8, 2016."
+      },
+      {
+        "question": "What is the status of withdrawal of pre-2005 series banknotes?",
+        "answer": "Pre-2005 banknotes were withdrawn due to fewer security features. They can still be exchanged at RBI Issue Offices."
+      },
+      {
+        "question": "What happens to the old design banknotes when a new design is introduced?",
+        "answer": "Both old and new design notes circulate together for a while, after which old design notes are gradually withdrawn."
+      },
+      {
+        "question": "What is the need for printing different series of banknotes?",
+        "answer": "Central banks the world over change the design of their banknotes and introduce new security features primarily to make counterfeiting difficult and to stay ahead of counterfeiters. India also follows the same policy."
+      },
+      {
+        "question": "What are the Security Features of banknotes in circulation?",
+        "answer": {
+          "Security Thread": "Silver-colored, machine-readable thread in ₹10, ₹20, and ₹50 is windowed on the front and fully embedded on the reverse. ₹100 and above have a color-shifting thread (green to blue).",
+          "Intaglio Printing": "Portrait of Mahatma Gandhi, RBI seal, Governor's signature, and other features printed in intaglio for ₹100 and above.",
+          "See Through Register": "Part of the numeral is printed on the obverse and the other part on the reverse, appearing as one when held against light.",
+          "Water Mark": "Mahatma Gandhi's portrait with light and shade effect and an electrotype mark displaying the denomination.",
+          "Colour Shifting Ink": "Numerals in ₹200, ₹500, and ₹2000 appear green when held flat and change to blue at an angle.",
+          "Fluorescence": "Number panels and optical fibers fluoresce under UV light.",
+          "Latent Image": "Vertical band near Gandhi's portrait contains a latent image showing the denomination (₹20 and above).",
+          "Micro Letterings": "Small inscriptions visible under a magnifying glass.",
+          "New Features (2015 Onwards)": {
+            "New Numbering Pattern": "Numerals in the number panels increase in size from left to right.",
+            "Angular Bleed Lines": "Different patterns in ₹100, ₹200, ₹500, and ₹2000 banknotes for identification."
+          }
+        }
+      },
+      {
+        "question": "How can one distinguish the MG series-2005 banknotes?",
+        "answer": "The MG Series-2005 banknotes have the year of printing on the reverse, a feature not present in the pre-2005 series."
+      },
+      {
+        "question": "What features on the Mahatma Gandhi (New) Series (MGNS) banknotes help visually challenged people?",
+        "answer": "The banknotes have a sharp color contrast, angular bleed lines, and identification marks in different shapes: Rectangle for ₹2000, Circle for ₹500, 'H' for ₹200, Triangle for ₹100. The numerals are also prominently displayed in raised print."
+      },
+      {
+        "question": "What is Mobile Aided Note Identifier (MANI)?",
+        "answer": "MANI is an RBI-launched mobile app for visually impaired persons to identify Indian banknotes using front or reverse side scans. The app does not authenticate a note as genuine or counterfeit."
+      },
+      {
+        "question": "What are the quality control measures in currency note printing?",
+        "answer": "Banknote quality is maintained within strict tolerance parameters for dimensions, design placement, and print features, following global best practices."
+      },
+      {
+        "question": "What are soiled, mutilated, and imperfect banknotes?",
+        "answer": {
+          "Soiled Note": "A note that has become dirty due to wear and tear, including two-piece notes pasted together.",
+          "Mutilated Banknote": "A note with a missing portion or composed of more than two pieces.",
+          "Imperfect Banknote": "A note that is obliterated, shrunk, washed, altered, or indecipherable but not mutilated."
+        }
+      },
+      {
+        "question": "Where can soiled/mutilated banknotes be exchanged?",
+        "answer": "All commercial banks are authorized to accept and exchange soiled and mutilated banknotes. Small Finance Banks and Payment Banks may exchange them at their discretion."
+      },
+      {
+        "question": "What is Clean Note Policy?",
+        "answer": "RBI's initiative to maintain the quality of banknotes by urging the public not to staple, write on, or misuse banknotes."
+      },
+      {
+        "question": "What are the legal provisions for counterfeit notes?",
+        "answer": "Sections 489A to 489E of the Indian Penal Code criminalize counterfeiting banknotes, possession, and circulation, with punishments ranging from fines to life imprisonment."
+      },
+      {
+        "question": "Which denominations of coins are currently in circulation?",
+        "answer": "Coins of 50 paise, ₹1, ₹2, ₹5, ₹10, and ₹20 are in circulation. Coins can be issued up to ₹1000 under The Coinage Act, 2011."
+      },
+      {
+        "question": "Where can one complain against the non-acceptance of coins or exchange of notes and coins by banks?",
+        "answer": "Complaints can be lodged at the concerned bank branch. If unresolved, complaints can be taken to the Banking Ombudsman Scheme, 2006 or RBI’s Consumer Education and Protection Cell."
+      },
+      {
+        "question": "Whether a lending transaction would fall under the definition of digital lending only if all the processes in the life cycle of a loan, viz., customer acquisition, credit assessment, loan approval, disbursement, recovery, and associated customer service, are carried out digitally or some of the aforesaid processes can be carried out in physical mode also?",
+        "answer": "The phrase ‘largely by use of seamless digital technologies’ has been used in the Digital Lending definition to accord operational flexibility to REs in ‘Digital Lending’. Therefore, even if some physical interface with customer is present, the lending will still fall under the definition of Digital Lending. However, while doing so, the REs should ensure that the intent behind the Guidelines is adhered to."
+      },
+      {
+        "question": "Whether any service provider to whom RE has outsourced some of its credit intermediation activities would fall within the definition of Lending Service Provider (LSP) even if the lending transaction in question does not fall under the definition of ‘Digital Lending’?",
+        "answer": "Para 1 of the Annex I to the Circular dated September 02, 2022 specifies that these Guidelines are applicable to ‘Digital Lending’. Hence, only if a lending transaction qualifies under the definition of ‘Digital Lending’, will the service provider facilitating such lending be designated as LSP."
+      },
+      {
+        "question": "Whether all LSPs need to appoint Grievance Redressal Officers?",
+        "answer": "Only those LSPs which have an interface with the borrowers would need to appoint a nodal Grievance Redressal Officer. However, it may be reiterated that the RE shall remain responsible for ensuring resolution of complaints arising out of actions of all LSPs engaged by them."
+      },
+      {
+        "question": "Will EMI programmes on Credit Card undertaken in accordance with the Master Direction on Credit Card and Debit Card – Issuance and Conduct, 2022 be covered within the ambit on Digital Lending Guidelines?",
+        "answer": "EMI programmes on Credit Card are governed specifically by Para 6(b)(iii) of the ‘Master Direction on Credit Card and Debit Card – Issuance and Conduct, 2022’. Such transactions shall not be covered under the Guidelines on Digital Lending. However, other loan products offered on Credit Cards which are not covered/ envisaged under the aforesaid para of the Master Direction shall be governed by the stipulations laid down under the Guidelines on Digital Lending. Further, the Guidelines will also be applicable to all loans offered on Debit Card, including EMI programmes."
+      },
+      {
+        "question": "How to disclose APR in case of floating rate loans?",
+        "answer": "In case of floating rate loans, APR may be disclosed at the time of origination based on the prevailing rate as per the format of KFS. However, as and when the floating rate changes, only the revised APR may be disclosed to the customer via SMS/ e-mail each time the revised APR becomes applicable."
+      },
+      {
+        "question": "Is it mandatory to include insurance charges in the calculation of APR?",
+        "answer": "The insurance charges shall be included in the computation of APR only for the insurance which is linked/integrated in loan products as these charges are intrinsic to the nature of such digital loans."
+      },
+      {
+        "question": "Whether the flow of funds between the bank accounts of borrower and lender in a lending transaction can be controlled directly or indirectly by a third-party including LSP?",
+        "answer": "No"
+      },
+      {
+        "question": "Can the services of Payment Aggregators (PA) be used for loan disbursals and repayments?",
+        "answer": "The principle underlying the Digital Lending Guidelines is that a LSP should not be involved in handling of funds flowing from the lender to the borrower or vice versa. While entities offering only PA services shall remain out of the ambit of ‘Guidelines on Digital Lending’, any PA also performing the role of an LSP must comply with the Digital Lending Guidelines."
+      },
+      {
+        "question": "In case of delinquent loans, recovery/ servicing of digital loans may be undertaken by a recovery agent collecting cash from borrowers. Will such cases be exempted from the requirement of direct repayment of loan in the RE’s bank account?",
+        "answer": "In case of delinquent loans, REs can deploy physical interface to recover loans in cash, where absolutely necessary. In order to afford operational flexibility to REs, such transactions are exempted from the requirement of direct repayment of loan in the RE’s bank account. However, any recovery by cash should be duly reflected in the borrower’s account and REs shall ensure that any fees, charges, etc., payable to LSPs are paid directly by them (REs) and are not charged by LSP to the borrower directly or indirectly from the recovery proceeds."
+      },
+      {
+        "question": "In certain cases, such as loan products involving advances against salary, though the loan is disbursed directly to the bank account of the borrower, the repayment is from the corporate employer, which deducts the EMI amount from the salary. Whether in such cases, it still has to be ensured that repayment is directly from the bank account of the borrower?",
+        "answer": "Such repayments can be allowed subject to the condition that the loan is repaid by the corporate employer by deducting the amount from the borrower’s salary. Further, REs should ensure that LSPs do not have any control over the flow of funds directly or indirectly in such transactions. It has also to be ensured that repayment is directly from the bank account of the employer to the RE."
+      },
+      {
+        "question": "For co-lending transactions, exemption has been granted from direct disbursal to the bank account of the borrower to the extent of flow of money between REs. Is such exemption available only for co-lending transactions undertaken for priority sector lending?",
+        "answer": "The exemption can be extended to co-lending arrangements between REs for non-PSL loans subject to the condition that no third party other than the REs in a co-lending transaction should have direct or indirect control over the flow of funds at any point of time."
+      },
+      {
+        "question": "Whether the Guidelines are also applicable for corporate including MSME loans?",
+        "answer": "The Guidelines are applicable to all transactions meeting the definition of ‘Digital Lending’ as per Digital Lending Guidelines."
+      },
+      {
+        "question": "Whether the Guidelines are also applicable to mobile banking apps/websites of banks where, as an additional feature, personal loans or loans against deposits are being offered on the applications?",
+        "answer": "The Guidelines are applicable to ‘digital loans’ offered over any digital platform which meet the definition of ‘Digital Lending Apps/ Platforms’ (DLAs) as per our circular dated September 02, 2022 on Guidelines on Digital Lending."
+      },
+      {
+        "question": "Para 4.2 of the Digital Lending Guidelines mandate that penal interest/charges levied shall be based on the outstanding amount of the loan. Whether penal interest/charges can be levied on a lower base?",
+        "answer": "The amount under default shall act as the ceiling on which the penal charges can be levied."
+      },
+      {
+        "question": "Cheque bounce or mandate failure charges are levied on per instance/occurrence basis. Is it mandatory to annualize these charges also?",
+        "answer": "Penal charges such as cheque bounce/mandate failure charges, which are necessarily levied on a per instance basis may not be annualized. However, these charges must be disclosed separately in the KFS under ‘Details about Contingent Charges’."
+      },
+      {
+        "question": "Is processing fees required to be refunded if customer exits the loan during cooling-off period?",
+        "answer": "Reasonable one-time processing fee can be retained if the customer exits the loan during cooling-off period. This, if applicable, should be disclosed to the customer upfront in KFS. However, the processing fee has to be mandatorily included for the computation of APR."
+      },
+      {
+        "question": "If APR is disclosed in KFS, is there a need to also disclose annualised rate of interest to the borrowers as required under Fair Practices Code applicable to NBFCs?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Who is an NRI?",
+        "answer": "A ‘Non-resident Indian’ (NRI) is a person resident outside India who is a citizen of India."
+      },
+      {
+        "question": "Who is a PIO?",
+        "answer": "A ‘Person of Indian Origin (PIO)’ is a person resident outside India who is a citizen of any country other than Bangladesh or Pakistan or such other country as may be specified by the Central Government, satisfying certain conditions."
+      },
+      {
+        "question": "Can a Bangladeshi/Pakistani national or an entity owned/controlled from Bangladesh/Pakistan have an account in India?",
+        "answer": "Opening of accounts by individuals/entities of Pakistan nationality/ownership and entities of Bangladesh ownership requires prior approval of the Reserve Bank. However, individuals of Bangladesh nationality can open an NRO account subject to valid visa and residential permit."
+      },
+      {
+        "question": "What are the accounts that a tourist visiting India can open?",
+        "answer": "An NRO (current/savings) account can be opened by a foreign national of non-Indian origin visiting India, with funds remitted from outside India or by sale of foreign exchange brought to India."
+      },
+      {
+        "question": "What is an SNRR account? How is it different from an NRO account?",
+        "answer": "An SNRR (Special Non-Resident Rupee) account is for business-related transactions by non-residents, whereas an NRO account is primarily for personal transactions by non-residents."
+      },
+      {
+        "question": "What are the deposits that foreign Diplomatic missions/personnel and their family members in India can hold?",
+        "answer": "Foreign diplomatic missions and personnel can open rupee deposits, Diplomatic Bond Stores Accounts, and foreign currency accounts in India with specific conditions."
+      },
+      {
+        "question": "Can persons resident in Nepal and Bhutan have accounts in India?",
+        "answer": "Yes, persons resident in Nepal and Bhutan can open Indian rupee accounts with an authorised dealer in India."
+      },
+      {
+        "question": "Can multilateral organisations have deposits in India?",
+        "answer": "Yes, any multilateral organization, of which India is a member nation, or its subsidiary/affiliate bodies and officials in India can open deposits with an authorised dealer in India."
+      },
+      {
+        "question": "Can an Indian company accept deposits from non-residents in compliance with section 160 of the Companies Act, 2013?",
+        "answer": "Yes, such acceptance of deposits and refunds, if required, will be covered under current account transactions and can be made freely without any restriction from FEMA perspective."
+      },
+      {
+        "question": "Can a Foreign Portfolio Investor or a Foreign Venture Capital Investor open a foreign currency account in India?",
+        "answer": "Yes, both Foreign Portfolio Investors and Foreign Venture Capital Investors, registered with SEBI, can open and maintain a non-interest bearing foreign currency account for investment purposes."
+      },
+      {
+        "question": "Who can open an Escrow Account in India and for what purpose?",
+        "answer": "Resident and Non-resident acquirers can open an Escrow Account in INR with an AD bank in India for acquisition/transfer of capital instruments/convertible notes as per Foreign Exchange Management regulations."
+      },
+      {
+        "question": "What is the definition of 'Basic Savings Bank Deposit Account' (BSBDA)?",
+        "answer": "All existing ‘No-frills’ accounts converted into BSBDA in compliance with the guidelines issued on August 17, 2012, as well as fresh accounts opened under the same circular, should be treated as BSBDA."
+      },
+      {
+        "question": "Whether the guidelines on 'No-frills' accounts with 'nil' or low minimum balances continue after the introduction of BSBDA?",
+        "answer": "No. Banks must now offer 'Basic Savings Bank Deposit Account' instead of 'No-frills' accounts and must convert all existing 'No-frills' accounts into BSBDA."
+      },
+      {
+        "question": "Can an individual have multiple 'Basic Savings Bank Deposit Accounts' in one bank?",
+        "answer": "No. An individual is eligible to have only one 'Basic Savings Bank Deposit Account' in one bank."
+      },
+      {
+        "question": "Can a 'Basic Savings Bank Deposit Account' holder open another savings bank account in the same bank?",
+        "answer": "No. Holders of BSBDA cannot open another savings bank account in the same bank. If they already have one, they must close it within 30 days of opening a BSBDA."
+      },
+      {
+        "question": "Can a BSBDA holder have other deposit accounts such as Fixed Deposits or Recurring Deposits?",
+        "answer": "Yes. BSBDA holders can open Term Deposits, Fixed Deposits, or Recurring Deposits in the same bank."
+      },
+      {
+        "question": "Is BSBDA only for economically weaker sections of the population?",
+        "answer": "No. BSBDA is a normal banking service available to all customers."
+      },
+      {
+        "question": "Are there any restrictions on age, income, or balance for opening a BSBDA?",
+        "answer": "No. Banks are not allowed to impose any such restrictions."
+      },
+      {
+        "question": "Is BSBDA part of the RBI's Financial Inclusion initiative?",
+        "answer": "Yes. The introduction of BSBDA is part of RBI's efforts for furthering Financial Inclusion."
+      },
+      {
+        "question": "What are the KYC norms for BSBDA? Are there any relaxations?",
+        "answer": "BSBDA is subject to RBI's KYC/AML norms. If opened with simplified KYC, it is treated as a 'BSBDA-Small Account' and subject to additional conditions."
+      },
+      {
+        "question": "Can a customer hold both a ‘Small Account’ and a 'Basic Savings Bank Deposit Account' in the same bank?",
+        "answer": "No. If BSBDA is opened with simplified KYC, it will also be considered a 'Small Account' and subject to additional conditions."
+      },
+      {
+        "question": "What are the conditions for 'BSBDA-Small Accounts'?",
+        "answer": "Conditions include credit limits of ₹1 lakh per year, maximum balance of ₹50,000, withdrawal limit of ₹10,000 per month, and restrictions on foreign remittances."
+      },
+      {
+        "question": "What services are available for free in a BSBDA?",
+        "answer": "Free services include deposit/withdrawal of cash, receipt of money via electronic payment channels, and cheque deposit at bank branches and ATMs."
+      },
+      {
+        "question": "Is there any minimum deposit required for opening a BSBDA?",
+        "answer": "No. There is no requirement for any initial deposit."
+      },
+      {
+        "question": "Can banks offer additional facilities beyond the basic services in a BSBDA?",
+        "answer": "Yes, banks may offer additional facilities but must transparently disclose any applicable charges. Accounts availing additional chargeable services will not be classified as BSBDA."
+      },
+      {
+        "question": "If a BSBDA holder exceeds four withdrawals in a month or requests a cheque book, will it still be considered a BSBDA?",
+        "answer": "No. If additional chargeable facilities are availed, the account ceases to be a BSBDA."
+      },
+      {
+        "question": "Do BSBDA holders get the same five free ATM withdrawals per month as regular savings accounts?",
+        "answer": "No. Banks must provide a minimum of four free withdrawals per month, including all modes of withdrawal."
+      },
+      {
+        "question": "Can banks charge an annual fee for ATM Debit Cards issued under BSBDA?",
+        "answer": "No. ATM Debit Cards must be provided free of charge with no annual fees."
+      },
+      {
+        "question": "Does checking balance at an ATM count as one of the four free withdrawals in a BSBDA?",
+        "answer": "No. Balance inquiries at ATMs should not be counted as withdrawals."
+      },
+      {
+        "question": "Can a BSBDA holder opt not to have an ATM Debit Card?",
+        "answer": "Yes. ATM Debit Cards should be issued only if requested in writing by the customer."
+      },
+      {
+        "question": "How should banks handle illiterate or elderly customers regarding ATM Debit Cards?",
+        "answer": "Banks should educate such customers on ATM usage and security. If they choose not to have an ATM card, banks should not force them to accept one."
+      },
+      {
+        "question": "Are BSBDA holders entitled to free passbooks?",
+        "answer": "Yes. Banks must provide passbooks free of charge."
+      },
+      {
+        "question": "What happens if a customer does not close their existing savings account after opening a BSBDA?",
+        "answer": "The bank may close the existing savings account after 30 days with prior written consent from the customer."
+      },
+      {
+        "question": "Can banks allow more than four withdrawals in a month for MGNREGA-linked accounts?",
+        "answer": "Yes, but any additional withdrawals beyond four may be chargeable at the discretion of the bank."
+      },
+      {
+        "question": "What is the interest rate on a BSBDA balance?",
+        "answer": "Interest rates on BSBDA follow RBI's deregulation guidelines for savings bank deposits."
+      },
+      {
+        "question": "Can banks prescribe a minimum balance requirement if a BSBDA customer requests a payable-at-par or multi-city cheque book?",
+        "answer": "No. Banks may provide cheque books for free (keeping the account as BSBDA) or charge for them, in which case the account will not be classified as BSBDA."
+      },
+      {
+        "question": "What is the deadline for banks to convert 'No-Frills' accounts to BSBDA and issue ATM Cards?",
+        "answer": "All existing 'No-Frills' accounts should have been converted to BSBDA from August 17, 2012. New accounts should be provided with prescribed facilities immediately upon opening."
+      },
+      {
+        "question": "Can an existing savings account be converted into a BSBDA upon request?",
+        "answer": "Yes. Customers must give written consent, and banks must inform them of the features and limitations of BSBDA."
+      },
+      {
+        "question": "What are various types of cards?",
+        "answer": "Cards can be classified into three types based on their issuance, usage, and payment by the cardholder: (a) Debit cards, (b) Credit cards, and (c) Prepaid cards."
+      },
+      {
+        "question": "Who issues these cards?",
+        "answer": "Debit cards are issued by banks and linked to bank accounts. Credit cards are issued by scheduled commercial banks (excluding payments banks), Regional Rural Banks (in collaboration with other banks), Urban Cooperative Banks, and Non-Banking Financial Companies (subject to RBI approval). Prepaid cards are issued by eligible banks and authorized non-banks."
+      },
+      {
+        "question": "What are the usages of debit cards?",
+        "answer": "Debit cards can be used for cash withdrawals at ATMs, purchases at PoS terminals, and e-commerce transactions. They can be used domestically or internationally."
+      },
+      {
+        "question": "What are the usages of credit cards?",
+        "answer": "Credit cards can be used for purchasing goods and services at PoS terminals or through e-commerce platforms, both domestically and internationally (if enabled). They can also be used for cash advances at ATMs, subject to applicable terms and conditions."
+      },
+      {
+        "question": "What are the usages of prepaid cards?",
+        "answer": "Prepaid cards can be Small PPIs or Full-KYC PPIs. Small PPIs can be used only at specific merchant locations. Full-KYC PPIs can be used for purchases, funds transfer, and cash withdrawal."
+      },
+      {
+        "question": "What are various methods of using a card at a PoS terminal?",
+        "answer": "Cards can be used at PoS terminals in three ways: (a) Dipping (Chip-based card), (b) Tapping (Contactless NFC Card), and (c) Swiping (Magnetic Stripe Card)."
+      },
+      {
+        "question": "What are Magnetic Stripe cards, EMV Chip & PIN cards, and Contactless NFC cards?",
+        "answer": "EMV Chip & PIN cards store data in a chip, while Magnetic Stripe cards store data on a magnetic stripe. Contactless NFC cards use near-field communication to make transactions without physical contact. EMV Chip & PIN and Contactless NFC cards are considered safer than Magnetic Stripe cards."
+      },
+      {
+        "question": "What are Card Present (CP) and Card Not Present (CNP) transactions?",
+        "answer": "CP transactions require physical presence of the card (e.g., ATM or PoS transactions). CNP transactions do not require the physical presence of the card (e.g., online or mobile banking transactions)."
+      },
+      {
+        "question": "Who decides the limits for cash withdrawal or purchases using a card?",
+        "answer": "The card issuer sets limits on cash withdrawal and purchases. Cardholders can modify transaction limits for domestic, international, PoS, ATM, online, and contactless transactions."
+      },
+      {
+        "question": "How can a customer know if a fraudulent transaction has taken place on their card?",
+        "answer": "RBI mandates card issuers to send alerts for all transactions via SMS/email. Cardholders should register for alerts to stay informed."
+      },
+      {
+        "question": "How are transactions carried out through cards protected against fraudulent usage?",
+        "answer": "All CP and CNP transactions require an Additional Factor of Authentication (AFA) like PIN, OTP, or static code. Contactless NFC transactions up to ₹5,000 per transaction do not require AFA."
+      },
+      {
+        "question": "What are the liabilities of a card issuer in case of fraudulent use of a card by an unauthorized person?",
+        "answer": "For CNP transactions without AFA, the issuer must reimburse the loss to the customer. Customer liability is limited as per RBI guidelines on unauthorized electronic payment transactions."
+      },
+      {
+        "question": "Can I continue to withdraw money from my Paytm Payments Bank account after March 15, 2024?",
+        "answer": "Yes. You can withdraw or transfer funds up to the available balance in your account."
+      },
+      {
+        "question": "Can I deposit or transfer money into my Paytm Payments Bank account after March 15, 2024?",
+        "answer": "No. Deposits and transfers into Paytm Payments Bank accounts will not be allowed after March 15, 2024, except for interest, cashback, sweep-ins, and refunds."
+      },
+      {
+        "question": "Can refunds be credited to my Paytm Payments Bank account after March 15, 2024?",
+        "answer": "Yes. Refunds, cashbacks, and interest can be credited even after March 15, 2024."
+      },
+      {
+        "question": "What will happen to deposits maintained with partner banks through ‘sweep in/out’ arrangements after March 15, 2024?",
+        "answer": "Existing deposits can be brought back (sweep-in) to Paytm Payments Bank accounts, subject to a balance limit of ₹2 lakh per customer."
+      },
+      {
+        "question": "Can I continue receiving my salary in my Paytm Payments Bank account after March 15, 2024?",
+        "answer": "No. Salary credits will not be allowed after March 15, 2024. Customers should arrange an alternative bank account before this date."
+      },
+      {
+        "question": "Can I continue receiving government subsidies and benefits in my Paytm Payments Bank account after March 15, 2024?",
+        "answer": "No. Customers should update their bank details to a different bank before March 15, 2024."
+      },
+      {
+        "question": "Can my automatic bill payments through Paytm Payments Bank continue after March 15, 2024?",
+        "answer": "Auto-debits will continue until balance is available, but no new deposits will be allowed after March 15, 2024."
+      },
+      {
+        "question": "Can I continue using my Paytm Payments Bank wallet after March 15, 2024?",
+        "answer": "Yes. You can use the balance in your wallet, but you cannot add new funds after March 15, 2024."
+      },
+      {
+        "question": "Can I recharge my FASTag issued by Paytm Payments Bank after March 15, 2024?",
+        "answer": "No. Recharges will not be allowed after March 15, 2024. You should obtain a new FASTag from another bank."
+      },
+      {
+        "question": "Can I continue using my National Common Mobility Card (NCMC) issued by Paytm Payments Bank after March 15, 2024?",
+        "answer": "Yes. You can use the existing balance, but no top-ups or recharges will be allowed after March 15, 2024."
+      },
+      {
+        "question": "Can I make payments using Bharat Bill Payment System (BBPS) from my Paytm Payments Bank account?",
+        "answer": "Yes. Payments can be made until the available balance is exhausted, but no further deposits will be allowed."
+      },
+      {
+        "question": "Can I transfer money into my Paytm Payments Bank account using UPI/IMPS after March 15, 2024?",
+        "answer": "No. You cannot transfer money into your Paytm Payments Bank account after March 15, 2024."
+      },
+      {
+        "question": "Can I withdraw money from my Paytm Payments Bank account using UPI/IMPS after March 15, 2024?",
+        "answer": "Yes. Withdrawals will be allowed up to the available balance."
+      },
+      {
+        "question": "What happens to my Paytm Payments Bank account if it has been frozen due to legal orders?",
+        "answer": "Any legal freeze or lien on your account will continue as per the orders of law enforcement or judicial authorities."
+      },
+      {
+        "question": "What happens to my Paytm Payments Bank account if there is an internal freeze?",
+        "answer": "Withdrawals and transfers will be allowed up to the available balance, subject to internal bank policies."
+      },
+      {
+        "question": "Can Paytm Payments Bank onboard new customers after March 11, 2022?",
+        "answer": "No. RBI has restricted Paytm Payments Bank from onboarding new customers since March 11, 2022."
+      },
+      {
+        "question": "What should a customer do if a credit card is issued without his/her consent (unsolicited card)?",
+        "answer": "Card issuers are prohibited from issuing unsolicited credit cards and must seek explicit consent. If a customer receives an unsolicited card, they should refrain from activating it and file a complaint with the issuer. If no consent is received, the issuer must close the credit card account within seven working days and notify the customer."
+      },
+      {
+        "question": "Can a card be issued to other loan accounts such as overdraft facility, cash credit facility, working capital loan, etc.?",
+        "answer": "Yes, credit cards can be linked to loan accounts like overdrafts or business credit cards, subject to the terms of the loan. However, debit cards cannot be issued to cash credit or loan accounts."
+      },
+      {
+        "question": "What can be considered as activation of a credit card?",
+        "answer": "Activation includes customer-initiated actions such as PIN generation, modifying transaction controls, IVR calls, or SMS confirmation. If the card is not activated within 30 days, issuers must seek OTP-based consent."
+      },
+      {
+        "question": "Can a credit card be considered as ‘used’ even if no financial transactions have been undertaken?",
+        "answer": "Yes, activities like generating a statement, changing PIN, or modifying transaction controls are considered usage. However, calls to customer care for other reasons are not considered usage."
+      },
+      {
+        "question": "Can consent for activation and closure of a business credit card be obtained from the corporate entity instead of the cardholder?",
+        "answer": "Yes, for business credit cards, consent must be obtained from the principal account holder (corporate entity). For retail credit cards, consent is required from the primary cardholder, not add-on cardholders."
+      },
+      {
+        "question": "In case a cardholder makes partial payment, can a card-issuer charge interest/levy late payment charges on the total amount due?",
+        "answer": "No, interest should be charged only on the outstanding amount after adjusting payments/refunds. Late payment fees should also be applied only to the outstanding amount and not the total amount due."
+      },
+      {
+        "question": "Can a credit card-issuer levy interest on unpaid taxes/levies/charges?",
+        "answer": "No, issuers are not allowed to capitalize interest on unpaid taxes/levies/charges. This rule has been in effect since October 1, 2022."
+      },
+      {
+        "question": "What transactions can be adjusted towards outstanding dues or credited to the cardholder’s bank account?",
+        "answer": "Refunds received before bill generation adjust the Total Amount Due (TAD). Refunds after bill generation adjust the outstanding balance. Refunds after payment require explicit consent for adjustment; otherwise, they are credited to the bank account."
+      },
+      {
+        "question": "Can a cardholder modify the billing cycle of a credit card to any date?",
+        "answer": "Yes, cardholders must be given the option to select or modify the billing cycle at least once through multiple channels like helpline, email, IVR, internet banking, or mobile apps."
+      },
+      {
+        "question": "Can a card-issuer allow a credit card to be used beyond the sanctioned credit limit and charge overlimit fees?",
+        "answer": "No, overlimit usage requires prior explicit consent from the cardholder. Issuers must provide an option to enable/disable overlimit transactions through online banking or mobile apps."
+      },
+      {
+        "question": "Can interest, taxes, or other charges be considered for computing a cardholder’s credit limit usage for overlimit fees?",
+        "answer": "No, interest or other charges should not be included when computing a cardholder’s credit limit for levying overlimit charges."
+      },
+      {
+        "question": "Does liability towards credit card dues rest only with the principal cardholder?",
+        "answer": "Yes, the principal cardholder is solely responsible for credit card dues, except for business credit cards where liability is governed by the agreement terms."
+      },
+      {
+        "question": "Are card-issuers required to provide insurance cover on debit and credit cards?",
+        "answer": "No, RBI does not mandate insurance for debit or credit cards. However, if issuers provide insurance, they must inform customers about coverage details and insurer contact information in statements."
+      },
+      {
+        "question": "Can a card-issuer partner with more than one co-branding partner for a card?",
+        "answer": "Yes, a card-issuer can collaborate with multiple co-branding partners."
+      },
+      {
+        "question": "Can a co-branding partner acting as a business correspondent (BC) or technology service provider access cardholder transaction data?",
+        "answer": "No, co-branding partners cannot access transaction data. Data can only be displayed securely on their platform without storage or access."
+      },
+      {
+        "question": "Does deactivation/blocking of a credit card amount to closure of the card account?",
+        "answer": "No, blocking a credit card temporarily suspends transactions but does not close the account. Closure requires a formal request, which must be processed within seven working days."
+      },
+      {
+        "question": "What is the procedure for filing a complaint against a card issuer?",
+        "answer": "Customers should first approach the card issuer. If unresolved within 30 days, they can file a complaint with the RBI Ombudsman via: \n1. Online at https://cms.rbi.org.in \n2. By post to the Centralized Receipt and Processing Centre, RBI, Sector-17, Chandigarh - 160017."
+      },
+      {
+        "question": "What is tokenisation?",
+        "answer": "Tokenisation refers to the replacement of actual card details with an alternate code called the 'token,' which is unique for a combination of card, token requestor, and device."
+      },
+      {
+        "question": "What is de-tokenisation?",
+        "answer": "De-tokenisation is the process of converting the token back to actual card details."
+      },
+      {
+        "question": "What is the benefit of tokenisation?",
+        "answer": "Tokenised card transactions are considered safer because actual card details are not shared with merchants during transaction processing."
+      },
+      {
+        "question": "How can tokenisation be carried out?",
+        "answer": "The cardholder can request tokenisation via an app provided by the token requestor. The token requestor forwards the request to the card network, which, with the issuer's consent, issues a corresponding token."
+      },
+      {
+        "question": "What are the charges for availing tokenisation services?",
+        "answer": "The customer does not need to pay any charges for tokenisation services."
+      },
+      {
+        "question": "What are the use cases for which tokenisation has been allowed?",
+        "answer": "Tokenisation is allowed on consumer devices such as mobile phones, tablets, laptops, desktops, wearables (wristwatches, bands, etc.), and IoT devices for various transactions like contactless card payments, QR code payments, and in-app payments."
+      },
+      {
+        "question": "Can tokenisation be enabled through a smartwatch or similar devices?",
+        "answer": "Yes, tokenisation is available on devices such as smartwatches, mobile phones, tablets, desktops, and IoT devices."
+      },
+      {
+        "question": "Who can perform tokenisation and de-tokenisation?",
+        "answer": "Tokenisation and de-tokenisation can be performed by the authorised card network or the card issuer."
+      },
+      {
+        "question": "Who are the stakeholders in a tokenisation transaction?",
+        "answer": "A tokenised card transaction involves multiple stakeholders: merchant, merchant’s acquirer, token service provider (card network or issuer), token requestor, card issuer, and customer."
+      },
+      {
+        "question": "Are customer card details safe after tokenisation?",
+        "answer": "Yes, actual card data, tokens, and relevant details are stored securely by the token service provider. The token requestor cannot store the card number or other details."
+      },
+      {
+        "question": "Is tokenisation of a card mandatory for customers?",
+        "answer": "No, customers can choose whether or not to have their card tokenised."
+      },
+      {
+        "question": "Can customers select tokenisation for a specific use case?",
+        "answer": "Yes, customers can register or de-register their card for specific use cases such as contactless payments, QR code transactions, and in-app payments."
+      },
+      {
+        "question": "How does the process of registration for a tokenisation request work?",
+        "answer": "Registration for tokenisation requires explicit customer consent through Additional Factor of Authentication (AFA). The customer can also select use cases and set transaction limits."
+      },
+      {
+        "question": "Can customers set their own limits for tokenised transactions?",
+        "answer": "Yes, customers can set and modify per-transaction and daily transaction limits for tokenised card transactions."
+      },
+      {
+        "question": "Is there a limit on the number of cards a customer can tokenise?",
+        "answer": "No, customers can request tokenisation for any number of cards."
+      },
+      {
+        "question": "Can customers select which card to use if they have multiple tokenised cards?",
+        "answer": "Yes, customers are free to use any of their tokenised cards for a transaction."
+      },
+      {
+        "question": "Is there a limit on the number of devices on which a card can be tokenised?",
+        "answer": "No, customers can request tokenisation of their card on any number of devices."
+      },
+      {
+        "question": "Whom should customers contact in case of issues with their tokenised card? Where can they report loss of a device?",
+        "answer": "Customers should contact their card issuer for any issues or to report the loss of a device."
+      },
+      {
+        "question": "Can a card issuer refuse tokenisation of a particular card?",
+        "answer": "Yes, based on risk perception, card issuers may decide whether to allow tokenisation for specific cards."
+      },
+      {
+        "question": "Where can more information on RBI instructions on tokenisation be found?",
+        "answer": "More details can be found in RBI circulars issued on January 8, 2019, August 25, 2021, and September 7, 2021."
+      }
+    ]
+  }
+  

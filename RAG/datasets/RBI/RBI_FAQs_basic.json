@@ -1,0 +1,2284 @@
+{
+    "faqs": [  
+        {
+            "question": "What is The Depositor Education and Awareness (DEA) Fund Scheme, 2014, and when did this Scheme come into effect?",
+            "answer": "The Depositor Education and Awareness Fund (DEA Fund) Scheme, 2014 was formulated by the Reserve Bank of India under Section 26A of the Banking Regulation Act, 1949. The Scheme came into effect on May 24, 2014, upon its notification in the Official Gazette of India."
+        },
+        {
+            "question": "Which are the amounts credited to the DEA Fund?",
+            "answer": "The amounts credited to the DEA Fund include credit balances in deposit accounts (savings, fixed, recurring, current), loan accounts after due appropriation, margin money against Letters of Credit, outstanding drafts and cheques, unadjusted NEFT balances, and other unclaimed amounts that have remained inactive for 10 years or more."
+        },
+        {
+            "question": "When are the above specified amounts credited to the DEA Fund?",
+            "answer": "Banks must transfer unclaimed deposits to the DEA Fund on the last working day of the month following the completion of 10 years of inactivity. For example, deposits becoming due in April will be transferred in May."
+        },
+        {
+            "question": "Is interest accrued on such amounts also transferred to the DEA Fund?",
+            "answer": "Yes, banks must transfer the entire amount, including accrued interest, to the DEA Fund at the time of transfer."
+        },
+        {
+            "question": "Can a customer or depositor claim a refund of their unclaimed amounts from the DEA Fund?",
+            "answer": "Yes, depositors can claim their unclaimed amounts from their respective banks. The bank will process the refund along with applicable interest (if any) and then seek reimbursement from the DEA Fund maintained by RBI."
+        },
+        {
+            "question": "Is there a time limit for claiming the amount from the DEA Fund?",
+            "answer": "No, there is no specific time limit for claiming a refund from the DEA Fund. However, depositors or legal heirs are encouraged to claim the amounts as soon as they become aware of them."
+        },
+        {
+            "question": "What is the procedure to claim from DEA Fund if a bank is under liquidation?",
+            "answer": "Depositors must approach the Liquidator of the bank, who will process claims as per guidelines. If the deposit was insured by DICGC (up to ₹5 lakh), the Liquidator can claim an equivalent amount from the DEA Fund. If the claim exceeds ₹5 lakh, the excess amount will be reimbursed by the DEA Fund only after the Liquidator settles the depositor’s claim."
+        },
+        {
+            "question": "How does the claim process work if a bank under liquidation has deposits covered by DICGC?",
+            "answer": "If a depositor had a claim of ₹4 lakh and DICGC insurance was available, the Liquidator would claim ₹4 lakh from the DEA Fund and transfer the amount to the depositor. If a depositor had a claim of ₹6 lakh, the Liquidator would claim ₹5 lakh from the DEA Fund and pay the remaining ₹1 lakh first before seeking reimbursement for the excess amount."
+        },
+        {
+            "question": "How does the claim process work if a bank under liquidation has deposits not covered by DICGC?",
+            "answer": "For deposits not covered by DICGC, the Liquidator must first settle the depositor’s claim and then seek reimbursement from the DEA Fund."
+        },
+        {
+            "question": "As per Para 6 of the Guidelines on Default Loss Guarantee (DLG) in Digital Lending dated June 08, 2023, RE shall ensure that total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed five per cent of the amount of that loan portfolio. How to ensure that the portfolio on which DLG has been given is specified upfront?",
+            "answer": "The portfolio over which DLG can be offered shall consist of identifiable and measurable loan assets which have been sanctioned (the ‘DLG set’). This portfolio will remain fixed for the purpose of DLG cover and is not meant to be dynamic."
+        },
+        {
+            "question": "On which amount will the cap of five per cent be calculated?",
+            "answer": "The cap is applicable on the total amount disbursed out of the DLG set at any given time."
+        },
+        {
+            "question": "In case DLG is invoked due to a default occurring in portfolio, can the subsequent recoveries made from the borrowers on the defaulted amount be added back to the DLG cover?",
+            "answer": "No. DLG amount once invoked by the RE cannot be reinstated, including through loan recovery."
+        },
+        {
+            "question": "Is the name of the RE also required to be published along with the disclosure in terms of Para 11 of the Guidelines?",
+            "answer": "No. Not required."
+        },
+        {
+            "question": "In case an RE functioning as an LSP is providing DLG, does it also need to have a Board approved policy?",
+            "answer": "While the Guidelines mandate the REs accepting DLG cover to have a Board approved policy in place, the REs acting as DLG providers shall also put in place Board approved policy as a prudent measure."
+        },
+        {
+            "question": "Whether the guidelines on DLG are also applicable for loans sourced by REs under arrangements outside the scope of the Digital Lending Guidelines?",
+            "answer": "No."
+        },
+        {
+            "question": "Whether DLG is permitted for loans arranged on the NBFC-P2P platforms?",
+            "answer": "No. DLG is not permitted on loans arranged on NBFC-P2P platforms."
+        },
+        {
+            "question": "Para 12.3 of guidelines require a declaration from DLG provider, certified by the statutory auditor. Whether the same is required to be certified by the statutory auditor of the RE or the DLG provider?",
+            "answer": "The declaration has to be certified by the statutory auditor of the DLG provider."
+        },
+        {
+            "question": "Whether REs are allowed to enter into DLG arrangements for credit cards as defined under Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022?",
+            "answer": "No. DLG arrangements for credit cards are not permitted."
+        },
+        {
+            "question": "Whether REs are allowed to enter into DLG arrangements for revolving credit facilities offered through Digital Lending channel?",
+            "answer": "No."
+        },
+        {
+            "question": "In case the DLG provider is a Regulated Entity (RE), what will be the applicable capital requirement?",
+            "answer": "RE providing DLG shall deduct full amount of the DLG which is outstanding from its capital."
+        },
+        {
+            "question": "Whether REs are allowed to enter into DLG arrangements for loans covered under any of the credit guarantee schemes of National Credit Guarantee Trustee Company Limited (NCGTC)?",
+            "answer": "DLG arrangements are not permitted on the loans which are covered by the credit guarantee schemes administered by trust funds as specified under para 2 of Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS) dated September 07, 2022, as amended from time to time."
+        },
+        {
+            "question": "What should a customer do if a credit card is issued without his/her consent (unsolicited card)?",
+            "answer": "Card issuers are prohibited from issuing unsolicited credit cards and are required to seek prior and explicit consent from the customer before issuing a card. If the customer receives an unsolicited card, they should refrain from activating it or providing consent through OTP or any other means. The card issuer must close the credit card account without any cost to the customer within seven working days and notify the customer. The customer may also file a complaint with the card issuer and escalate it to the RBI Ombudsman."
+        },
+        {
+            "question": "Can a card be issued to other loan accounts such as overdraft facility, cash credit facility, working capital loan, etc.?",
+            "answer": "Yes, credit cards can be customized to access limits available in different loan accounts, aligned with the terms and conditions of the concerned loan account. However, banks cannot issue debit cards to cash credit or loan accounts."
+        },
+        {
+            "question": "What can be considered as activation of a credit card?",
+            "answer": "Customer-initiated actions such as PIN generation, modification of transaction control, Interactive Voice Response, recorded calls to customer care, or SMS may be considered as activation. If the card is not activated within 30 days from issuance, card issuers must seek OTP-based consent."
+        },
+        {
+            "question": "Can a credit card be considered as ‘used’ even if no financial transactions have been undertaken?",
+            "answer": "Yes, non-financial activities such as statement generation, PIN change, and modification of transaction controls are considered as usage. Calls made to customer care for other reasons do not count towards card usage."
+        },
+        {
+            "question": "Whether consent for activation and closure of a business credit card can be obtained from the corporate/business entity instead of the cardholder?",
+            "answer": "For business credit cards issued based on an application by a corporate or business entity, consent for activation and closure must be obtained from the principal account holder (corporate/business entity) unless otherwise specified in the agreement."
+        },
+        {
+            "question": "In case a cardholder makes partial payment, can a card issuer charge interest/levy late payment charges on the total amount due?",
+            "answer": "Interest may be levied on the outstanding amount from the transaction date if the total amount due is not cleared by the due date. Late payment fees and other charges shall be levied only on the outstanding amount, not the total amount due."
+        },
+        {
+            "question": "Whether a credit card issuer can levy interest on unpaid taxes/levies/charges?",
+            "answer": "No, card issuers shall not capitalize or levy interest on unpaid taxes, levies, or charges. This provision has been effective since October 1, 2022."
+        },
+        {
+            "question": "What transactions are eligible to be adjusted towards outstanding dues and which should be credited to the bank account of the cardholder?",
+            "answer": "Refunds or reversed transactions before bill generation are adjusted with other debits. If a refund occurs after bill generation but before payment, it is adjusted towards the total amount due. If payment has already been made, explicit consent is required to adjust the refund; otherwise, it will be credited to the bank account."
+        },
+        {
+            "question": "Can a cardholder modify the billing cycle of a credit card to any date?",
+            "answer": "Yes, the cardholder is allowed to modify the billing cycle at least once. Card issuers should provide this option through multiple channels such as helpline, email, IVR, internet banking, and mobile applications."
+        },
+        {
+            "question": "Can a card issuer allow a credit card to be used beyond the sanctioned credit limit and charge over-limit fees?",
+            "answer": "Cardholders must provide explicit consent before using a credit card beyond the sanctioned limit. Without such consent, over-limit charges cannot be levied."
+        },
+        {
+            "question": "Whether interest, taxes, or any other charges can be considered for computing a cardholder’s credit limit usage for the purpose of levying over-limit charges?",
+            "answer": "No, interest and other fees shall not be factored in for computing a cardholder’s credit limit usage or levying over-limit charges."
+        },
+        {
+            "question": "Whether the liability towards credit card dues lies only with the principal cardholder?",
+            "answer": "Yes, the principal cardholder is solely responsible for dues. However, for international credit cards, payment responsibilities are governed by FEMA regulations."
+        },
+        {
+            "question": "Are card issuers required to provide an insurance cover on debit and credit cards?",
+            "answer": "RBI has not mandated insurance on debit or credit cards. If an issuer offers insurance, relevant details must be recorded and disclosed in the card statement, along with contact information for claims."
+        },
+        {
+            "question": "Can a card issuer partner with more than one co-branding partner for a card?",
+            "answer": "Yes."
+        },
+        {
+            "question": "Can a co-branding partner acting as a business correspondent (BC) or technology service provider access transaction data of a cardholder?",
+            "answer": "No, a co-branding partner cannot access transaction data. Transaction-related information may be displayed in an encrypted form through the card issuer’s system but should not be accessed or stored by the co-branding partner."
+        },
+        {
+            "question": "Does deactivation/blocking of a credit card amount to closure of the card account?",
+            "answer": "No, deactivation or blocking a credit card temporarily restricts transactions but does not terminate the account. Closure of a credit card account terminates the relationship between the cardholder and issuer, which must be completed within seven working days upon request."
+        },
+        {
+            "question": "What is the procedure for filing a complaint against a card issuer?",
+            "answer": "Customers should first approach the card issuer. If the issue is unresolved within 30 days, they can file a complaint with the RBI Ombudsman through the online portal (https://cms.rbi.org.in) or by mailing a physical complaint to the Centralized Receipt and Processing Centre at RBI, Chandigarh."
+        },
+        {
+            "question": "Whether a Joint Account can be continued for family pension after death of a pensioner?",
+            "answer": "Yes, the banks should not insist on opening of a new account in case of Central Government pensioner if the spouse in whose favour an authorization for family pension exists in the Pension Payment Order (PPO) is the survivor. The family pension should be credited to the existing account without opening a new account by the family pensioner for this purpose."
+        },
+        {
+            "question": "When is the pension credited to the pensioner's account by the paying branch?",
+            "answer": "The pension paying banks credit the pension amount in the accounts of the pensioners based on the instructions given by the Pension Paying Authorities."
+        },
+        {
+            "question": "Can the pension paying bank recover the excess amount credited to the pensioner’s account?",
+            "answer": "Agency banks are requested to seek guidance from respective Pension Sanctioning Authorities regarding the process to be followed for recovery of excess pension paid to the pensioners, if any. Where excess pension payment has arisen on account of mistakes committed by the bank, the amount paid in excess should be refunded to the Government in lump-sum immediately after detection of the same and without waiting for recovery of any amount from the pensioners."
+        },
+        {
+            "question": "Should acknowledgement be given by pension paying banks while accepting Life Certificates from pensioners?",
+            "answer": "Yes, to alleviate the hardships faced by pensioners, agency banks were instructed to mandatorily issue duly signed acknowledgements. They were also requested to consider entering the receipt of life certificates in their CBS and issue a system generated acknowledgement which would serve the twin purpose of acknowledgement as well as real-time updation of records. Banks may provide digital acknowledgements in respect of digital life certificates submitted by the pensioners."
+        },
+        {
+            "question": "Can a pensioner withdraw pension from his/ her account when he/she is not able to sign or put thumb/toe impression or unable to be present in the bank?",
+            "answer": "Yes, instructions have been issued by RBI to pension disbursing banks to allow withdrawal of pension by following certain procedures. If a pensioner is too ill to sign a cheque or unable to be physically present in the bank, or even unable to put their thumb impression due to a physical defect, agency banks may follow a procedure where independent witnesses, including a responsible bank official, verify the withdrawal. The responsible bank official should preferably be from the same branch where the pensioner holds the pension account."
+        },
+        {
+            "question": "How the payment of Dearness Relief at revised rate is to be paid to the pensioners?",
+            "answer": "The pension paying agency banks have to revise the Dearness Relief based on the copies of government orders provided by government to them through post, fax, e-mails, or by accessing the information from the website of the concerned governments, and authorize their pension paying branches to make payments to the pensioners immediately."
+        },
+        {
+            "question": "Whether a pensioner is entitled for any compensation from the agency banks for delayed credit of pension/ arrears of pension?",
+            "answer": "Yes, pension paying banks should compensate the pensioner for delay in crediting pension/ arrears thereof at a fixed interest rate of 8 per cent per annum for the delay after the due date of payment. This compensation should be credited to the pensioner's account automatically without any claim from the pensioner on the same day when the bank affords credit for revised pension/ pension arrears, in respect of all delayed pension payments made since October 1, 2008."
+        },
+        {
+            "question": "Certain aspects of Master Direction on Regulatory Framework for Microfinance Loans may require additional time for drafting of new policies, getting board-level approvals, making changes in technology systems, training of staff, etc. Whether the timeline for complete rollout of these directions may be extended, while keeping the effective date as April 1, 2022?",
+            "answer": "The effective date of these directions is April 1, 2022. However, in view of implementation-related difficulties expressed by some regulated entities (REs), REs are advised to implement these directions completely at the earliest on best effort basis, but not later than October 1, 2022."
+        },
+        {
+            "question": "Whether all members of a household are mandatorily required to become borrowers of a microfinance loan?",
+            "answer": "The directions require assessment of income and indebtedness at household level. There is no requirement of treating all members of the household as applicants/borrowers of a loan which can be provided to an individual member. Board-approved policies of REs may include the methodologies/operational frameworks to assess income and indebtedness of all members of the household."
+        },
+        {
+            "question": "Whether loans for consumption (i.e., for buying gadgets, meeting expenses on ceremonies, etc.) without collateral would be treated as microfinance loans?",
+            "answer": "All collateral-free loans to individual/s belonging to low-income households, i.e., households having annual income up to ₹3,00,000 are treated as microfinance loans."
+        },
+        {
+            "question": "If a loan is backed by hypothecation of any security (gold, equipment, white goods, underlying assets etc.), will this loan be considered collateral-free and classified as a microfinance loan?",
+            "answer": "Loans backed by hypothecation of any security shall not be treated as microfinance loans."
+        },
+        {
+            "question": "Whether the instructions related to limit of 50 per cent on monthly loan repayment obligations of a household as a percentage of monthly household income apply to non-microfinance loans given to low-income households?",
+            "answer": "Yes, for providing a non-microfinance loan to a low-income household (as defined under the directions), it should be ensured that the limit of 50 per cent on monthly loan repayment obligations of a household as a percentage of monthly household income is not breached. In other words, the limit of 50 per cent shall include both microfinance as well as non-microfinance loans."
+        },
+        {
+            "question": "How should credit facilities not having an EMI feature be treated for arriving at total monthly repayment obligations of the household?",
+            "answer": "Board-approved policies of REs should cover such operational aspects. One possible way could be to distribute the annualized repayment obligations over twelve months to estimate monthly outgo of the household towards debt repayment."
+        },
+        {
+            "question": "Can expected income from an asset/activity financed by a microfinance loan be included for estimation of household income?",
+            "answer": "No."
+        },
+        {
+            "question": "What type of insurance charges are to be disclosed in the factsheet and included for computation of effective annualized interest rate? Whether charges related to non-credit products should also be provided in the factsheet?",
+            "answer": "The insurance charges included in the factsheet are only for credit-linked insurance product as these charges are linked to the microfinance loan. A borrower would not have incurred these charges if he had not taken the loan. The factsheet should contain information related to only pricing of microfinance loans to keep it uncluttered. Disclosures related to other non-credit products should be provided separately from the factsheet."
+        },
+        {
+            "question": "Are REs allowed to review and revise interest rates applicable to existing loans during the loan tenure apart from cases of restructured loans?",
+            "answer": "The directions are applicable to loans sanctioned on or after April 1, 2022. Accordingly, pricing of the existing loans of NBFC-MFIs i.e., sanctioned prior to April 1, 2022 shall continue to be as per the guidelines applicable as on March 31, 2022. Other REs were already free to decide pricing of loans sanctioned, they are allowed to review and revise interest rates applicable to the existing loans also, subject to compliance with the relevant guidelines."
+        },
+        {
+            "question": "Is the practice of calling a borrower before 9.00 am and after 6.00 pm being considered as harsh practice only for recovery of overdue loans or also for normal conduct of business?",
+            "answer": "This clause is applicable only for recovery from borrowers having overdue loans. For other borrowers, REs can continue with the existing timing/process for business like group meetings, collection in regular accounts, etc. as per borrowers’ convenience."
+        },
+        {
+            "question": "Is there any specific reason for including a dedicated mechanism for redressal of recovery-related grievances when there is already a customer grievance redress mechanism?",
+            "answer": "The purpose of having a dedicated redress mechanism for recovery-related grievances is that these grievances should be promptly addressed. Treating them as other complaints (e.g., operational issues) may result in delayed action. However, this does not imply that a separate redress mechanism for recovery-related grievances is being mandated. REs can restructure/re-organise the existing customer grievance redress mechanism to identify and promptly address recovery-related grievances."
+        },
+        {
+            "question": "What is the purpose of assessment of household expenses as provided under Annex-I on ‘Indicative Methodology for Household Income Assessment’? Does it mean that household income for computing the limit on loan repayment obligations of a household is the household income net of expenses?",
+            "answer": "Annex I provides only an indicative methodology for assessment of household income, and REs are required to put in place a board-approved policy for household income assessment. References to household expenses and assessment of household profile are only for the purpose of validation of the household income reported by the borrowers."
+        },
+        {
+            "question": "Is the regulatory framework for microfinance loans applicable to all entities operating in the microfinance sector including trusts and societies?",
+            "answer": "The regulatory framework for microfinance loans is applicable only to REs/entities as defined under para 2.14 and para 9.25 of the directions. However, it may be prudent for other lenders operating in the microfinance sector to follow these customer-centric directions."
+        },
+        {
+            "question": "What should a customer keep in mind while availing a microfinance loan?",
+            "answer": "The customer should keep in mind, among others, the following: (a) There is no requirement of keeping any deposit/margin/collateral/primary security with the lender at any stage of the microfinance loan. (b) Lender is required to provide a loan card to the borrower with all necessary details. (c) Purchase of any non-credit products is purely voluntary. (d) Training provided by the lenders is free of cost."
+        },
+        {
+            "question": "What are the charges that a customer is required to pay for a microfinance loan?",
+            "answer": "A customer is required to pay only those charges which are explicitly mentioned in the factsheet provided by the lender. There is no pre-payment penalty on microfinance loans. Penalty for delayed payment can be applied only on the overdue amount and not on the entire loan amount."
+        },
+        {
+            "question": "How can a borrower find about the current interest rates being charged on the microfinance loans?",
+            "answer": "RBI has made it mandatory for lenders to display the minimum, maximum, and average interest rates charged on microfinance loans in all their offices, in the literature issued by them, and on their website."
+        },
+        {
+            "question": "Does the circular apply to all loan products or only to Personal Loans?",
+            "answer": "The circular is applicable to all equated periodic instalment based personal loans only. The circular is not applicable to other types of loans. The Reserve Bank circular DBR.No.BP.BC.99/08.13.100/2017-18 on “XBRL Returns – Harmonization of Banking Statistics” dated January 04, 2018 may be referred for the definition of personal loans."
+        },
+        {
+            "question": "In terms of paragraph 2(i) and paragraph 4 of the circular, REs have been advised to communicate to the borrowers the impact of interest rate reset on EMI, in a floating rate personal loan, both at the time of sanction as well as during the tenure of the loan. In this context, when and at what frequency shall REs communicate with the borrower? What will be the content of the communication?",
+            "answer": "Communications to borrowers envisaged in the circular are:\n(a) At the time of sanction:\n  (i) Annualised rate of interest/Annual Percentage Rate (APR), as applicable, shall be disclosed in the Key Fact Statement (KFS) and the loan agreement.\n  (ii) The possible impact of change in benchmark interest rate on the loan.\n(b) During the tenure of the loan:\n  (i) Any increase in the EMI/tenor on account of the external benchmark rate shall be communicated.\n  (ii) Quarterly statements shall be provided disclosing at the minimum, the principal and interest recovered till date, EMI amount, number of EMIs left, and annualized rate of interest for the tenor of the loan."
+        },
+        {
+            "question": "In terms of paragraph 4 of the circular, REs have been advised to intimate the different options available to address the increase in EMI in a rising interest rate scenario. What are the different options available to borrowers during a rising interest rate cycle in respect of equated installment based personal loans?",
+            "answer": "Whenever there is a reset of interest rates for an entire class of borrowers in a particular loan category, say home loan, due to an increase in the reference benchmark, the RE shall provide the following options to the borrowers:\n(a) Either enhancement in EMI or elongation of number of EMIs, keeping the EMI unchanged or a combination of both options;\n(b) Switch to fixed interest rate for the remaining portion of the loan; and\n(c) To prepay, either in part or in full, at any point during the residual tenor of the loan."
+        },
+        {
+            "question": "One of the options allowed to the borrower vide paragraph 2(ii) of the circular is the option to switch from a floating interest rate loan to a fixed interest rate as per their Board approved policy. If the REs presently do not have any fixed interest rate product in any loan category, say home loan, then is it mandatory for the RE to introduce such a product?",
+            "answer": "Yes, REs have to mandatorily offer a fixed interest rate product in all equated installment-based personal loan categories. As stated in paragraph 2(ii) of the circular, REs shall provide the option to the borrowers to switch over to a fixed rate as per their Board approved policy at the time of reset of interest rates."
+        },
+        {
+            "question": "Once the customer has exercised the option to switch over from floating interest rate loan to a fixed interest rate loan, as allowed vide paragraph 2(ii) of the circular, then is the RE required to give the option to the borrower to again switch back to a floating rate loan?",
+            "answer": "Yes, the intent of the circular is to allow flexibility to the customer to switch from floating rate loan to fixed rate loan or vice versa subject to applicable charges. The RE is required to specify the number of times a borrower will be allowed to exercise the switch option during the tenor of the loan under its Board approved policy."
+        },
+        {
+            "question": "Whether the circular intends to cover only those loans which are linked to External Benchmark or the loans linked to Internal Benchmarks (Base Rate/MCLR/BPLR) also?",
+            "answer": "It is clarified that the circular covers all equated installment-based personal loans, irrespective of whether they are linked to an external benchmark or an internal benchmark."
+        },
+        {
+            "question": "Whether the instructions in the circular allow REs to levy applicable charges for switching of loan from fixed interest rate to floating interest rate and vice versa?",
+            "answer": "Yes, as stated in paragraph 2(iv) of the circular, REs can levy applicable charges for switching of loans from floating to fixed rate or vice versa and/or any other service charges/administrative costs incidental to the exercise of the switchover options. The same shall be transparently disclosed in the sanction letter and also at the time of revision of such charges/costs by the RE. The applicable charges shall be as approved by the board of the RE and shall be displayed on their website as per extant instructions."
+        },
+        {
+            "question": "Extant instructions applicable to UCBs allow for a maximum tenure of 20 years in case of housing loans. One of the options allowed vide paragraph 2(ii) of the circular is elongation of the tenor of the loan. Whether UCBs are allowed to extend the housing loan of the borrower for more than 20 years, during switch over from floating rate to fixed rate and vice versa or if the borrower opts for elongation of tenor for a floating rate loan, at the time of reset of interest rates?",
+            "answer": "The options prescribed vide circular on ‘Reset of Floating Interest Rate on Equated Monthly Instalments (EMI) based Personal Loans’ dated August 18, 2023 shall be allowed for housing loans extended by UCBs, subject to the regulations prescribed vide Master Circular on ‘Housing Finance for UCBs’ dated April 11, 2023 or as amended in the future."
+        },
+        {
+            "question": "Will the circular be applicable to existing borrowers?",
+            "answer": "Yes, the circular will be applicable to the existing borrowers."
+        },
+        {
+            "question": "What is UDGAM portal?",
+            "answer": "UDGAM refers to Unclaimed Deposits-Gateway to Access inforMation, an online portal developed by RBI. It facilitates registered users to search unclaimed deposits/accounts across multiple banks in a centralized manner."
+        },
+        {
+            "question": "Are all banks part of the UDGAM portal? What percentage of the unclaimed deposits do they represent?",
+            "answer": "No. As of March 4, 2024, 30 banks are part of the UDGAM portal, covering around 90% of unclaimed deposits (in value terms) in the Depositor Education and Awareness (DEA) Fund of RBI. The list of these banks is available on the UDGAM homepage and in the RBI Press Release dated October 5, 2023. The remaining banks are in the process of getting on-boarded."
+        },
+        {
+            "question": "What types of deposits/accounts are covered in the UDGAM portal?",
+            "answer": "All unclaimed deposits/accounts that are part of the Depositor Education and Awareness (DEA) Fund of RBI can be searched in the UDGAM portal."
+        },
+        {
+            "question": "What inputs are required to search unclaimed deposits of individuals and non-individuals on UDGAM portal?",
+            "answer": "A user must register on the portal by providing their name and mobile number. For individuals, the search requires the account holder's name, bank name(s), and at least one of the following: PAN, Driving License Number, Voter ID Number, Passport Number, or Date of Birth. For non-individuals, the search requires the entity’s name, bank name(s), and at least one of the following: Name of the authorized signatory, PAN, Corporate Identification Number (CIN), or Date of Incorporation. Alternatively, users can search using the address of the account holder or entity."
+        },
+        {
+            "question": "Can users settle or claim their unclaimed deposits through the UDGAM portal or from RBI?",
+            "answer": "No, the UDGAM portal only facilitates searching for unclaimed deposits/accounts and provides information on the claim/settlement process of each bank. Unclaimed deposits can only be claimed from the respective bank."
+        },
+        {
+            "question": "What is Unclaimed Deposit Reference Number (UDRN)?",
+            "answer": "UDRN is a unique number generated by banks' Core Banking Solution (CBS) and assigned to each unclaimed account/deposit transferred to the Depositor Education and Awareness (DEA) Fund of RBI. It ensures that the account holder or the bank branch cannot be identified by third parties. UDRN enables seamless claim settlement for customers who successfully search for their deposits on the UDGAM portal."
+        },{
+            "question": "Who is an NRI?",
+            "answer": "A ‘Non-resident Indian’ (NRI) is a person resident outside India who is a citizen of India."
+        },
+        {
+            "question": "Who is a PIO?",
+            "answer": "A ‘Person of Indian Origin (PIO)’ is a person resident outside India who is a citizen of any country other than Bangladesh or Pakistan or such other country as may be specified by the Central Government, satisfying certain conditions, including being a former citizen of India, belonging to a territory that became part of India after August 15, 1947, or being a descendant of such individuals."
+        },
+        {
+            "question": "What are the major accounts that can be opened in India by a non-resident?",
+            "answer": "The major accounts are: (1) Non-Resident (External) Rupee Account Scheme (NRE Account), (2) Foreign Currency (Non-Resident) Account Scheme [FCNR(B) Account], (3) Non-Resident Ordinary Rupee Account Scheme (NRO Account)."
+        },
+        {
+            "question": "Can a Bangladeshi/Pakistani national or an entity owned/controlled from Bangladesh/Pakistan have an account in India?",
+            "answer": "Individuals/entities of Pakistan and Bangladesh require prior approval from the Reserve Bank of India (RBI). However, Bangladesh nationals holding a valid visa and residential permit may open an NRO account."
+        },
+        {
+            "question": "What accounts can a tourist visiting India open?",
+            "answer": "A tourist visiting India can open an NRO (current/savings) account with funds remitted from outside India or from the sale of foreign exchange brought into India. The balance can be repatriated upon departure if the account was maintained for less than six months."
+        },
+        {
+            "question": "What is a SNRR account? How is it different from an NRO account?",
+            "answer": "A Special Non-Resident Rupee (SNRR) account is for non-residents having a business interest in India. Unlike an NRO account, it is non-interest bearing and repatriable, while NRO accounts are primarily for local transactions and have repatriation restrictions."
+        },
+        {
+            "question": "What deposits can foreign Diplomatic missions/personnel and their family members in India hold?",
+            "answer": "Foreign diplomatic missions, personnel, and family members can hold rupee deposits, Diplomatic Bond Stores Accounts, and foreign currency accounts with specific conditions."
+        },
+        {
+            "question": "Can persons resident in Nepal and Bhutan have accounts in India?",
+            "answer": "Yes, they can open Indian rupee accounts with an authorized dealer in India."
+        },
+        {
+            "question": "Can a multilateral organization have deposits in India?",
+            "answer": "Yes, any multilateral organization of which India is a member or its subsidiaries/affiliates can hold deposits with an authorized dealer in India."
+        },
+        {
+            "question": "Can an Indian company accept deposits from non-residents under Section 160 of the Companies Act, 2013?",
+            "answer": "Yes, such deposits and refunds are covered under current account transactions and can be freely made without FEMA restrictions."
+        },
+        {
+            "question": "Can a Foreign Portfolio Investor or a Foreign Venture Capital Investor open a foreign currency account in India?",
+            "answer": "Yes, registered Foreign Portfolio Investors (FPIs) and Foreign Venture Capital Investors (FVCIs) can maintain a non-interest bearing foreign currency account for investment purposes."
+        },
+        {
+            "question": "Who can open an Escrow Account in India and for what purpose?",
+            "answer": "Resident and non-resident acquirers can open an Escrow Account in INR with an AD bank for capital instrument acquisitions or transfers, as per FEMA and related regulations."
+        },
+        {
+            "question": "What is meant by contravention and compounding of contravention?",
+            "answer": "Contravention is a breach of the provisions of the Foreign Exchange Management Act (FEMA), 1999 and associated regulations. Compounding refers to voluntarily admitting the contravention, pleading guilty, and seeking redressal by paying a specified sum after a personal hearing."
+        },
+        {
+            "question": "Who can apply for compounding?",
+            "answer": "Any person who contravenes any provision of FEMA, 1999 (except section 3(a)) or any related rule, regulation, notification, or condition can apply for compounding to the Reserve Bank. Applications related to section 3(a) contraventions should be submitted to the Directorate of Enforcement (DOE)."
+        },
+        {
+            "question": "When should one apply for compounding?",
+            "answer": "A person can apply for compounding upon becoming aware of a contravention, either suo moto or after receiving a Memorandum of Contraventions from the Reserve Bank or any statutory authority."
+        },
+        {
+            "question": "What is the procedure for applying for compounding?",
+            "answer": "A contravener must submit a compounding application form physically or through the PRAVAAH Portal of the Reserve Bank, along with the necessary documents outlined in Annexures I, II, and III of the Directions – Compounding of Contraventions under FEMA, 1999."
+        },
+        {
+            "question": "Are any fees required to be paid for seeking compounding?",
+            "answer": "Yes, a fee of ₹10,000 plus 18% GST must be paid via demand draft in favor of the Reserve Bank of India or through NEFT/RTGS. If the application is returned, the fee is non-refundable but does not need to be repaid if the application is re-submitted."
+        },
+        {
+            "question": "What details are required in the application form?",
+            "answer": "The application must include details as per the relevant annexures, an undertaking confirming no ongoing DOE investigation, a canceled cheque, and a copy of the Memorandum of Association."
+        },
+        {
+            "question": "Where should one apply for compounding?",
+            "answer": "The application should be submitted to the Reserve Bank as specified in the Directions – Compounding of Contraventions under FEMA, 1999."
+        },
+        {
+            "question": "Can an application for compounding be submitted before fulfilling obligations?",
+            "answer": "No, all requisite approvals and compliances must be completed before seeking compounding."
+        },
+        {
+            "question": "What are sensitive contraventions?",
+            "answer": "Sensitive contraventions involve serious offenses such as money laundering, terror financing, or threats to national security. These cases cannot be compounded by the Reserve Bank."
+        },
+        {
+            "question": "Is it mandatory to appear for the personal hearing?",
+            "answer": "No, attending a personal hearing is optional. If an applicant chooses not to attend, the decision will be based on submitted documents."
+        },
+        {
+            "question": "Can the applicant authorize another person to attend the personal hearing?",
+            "answer": "Yes, an authorized representative can attend with written authorization. However, RBI encourages applicants to attend directly."
+        },
+        {
+            "question": "How is the compounding process concluded?",
+            "answer": "The Compounding Authority issues an order specifying the contravention and the payable amount. The process is concluded upon payment of the specified amount."
+        },
+        {
+            "question": "What is the criteria for calculating the compounding amount?",
+            "answer": "The amount is determined based on the guidance in paragraph 5.4 of the Directions – Compounding of Contraventions under FEMA, 1999, considering various case-specific factors."
+        },
+        {
+            "question": "When should the compounding amount be paid?",
+            "answer": "The amount must be paid within 15 days from the date of the order via demand draft or electronic transfer."
+        },
+        {
+            "question": "How does the application for compounding get disposed of?",
+            "answer": "Once payment is made, a certificate is issued confirming compliance with the compounding order."
+        },
+        {
+            "question": "What happens if the amount is not paid within 15 days?",
+            "answer": "Failure to pay within 15 days results in the case being treated as if no compounding application was made, and it may be referred to the Directorate of Enforcement (DOE) for further action."
+        },
+        {
+            "question": "Can there be an appeal against the order of the Compounding Authority?",
+            "answer": "No, since compounding is voluntary, there is no provision for appeal or reduction of the imposed amount."
+        },
+        {
+            "question": "What is the timeframe for completing the compounding process?",
+            "answer": "The process is completed within 180 days from the date of receipt of a complete application."
+        },
+        {
+            "question": "Where can one get more details about compounding?",
+            "answer": "More details can be found in the Directions – Compounding of Contraventions under FEMA, 1999, available on the Reserve Bank's website."
+        },
+        {
+            "question": "Who is a person resident in India?",
+            "answer": "A person resident in India, as per Section 2(v) of FEMA, 1999, is someone residing in India for more than 182 days during the preceding financial year, excluding those who have left India for employment, business, or other purposes indicating an indefinite stay abroad."
+        },
+        {
+            "question": "What is a foreign currency account?",
+            "answer": "A Foreign Currency Account is an account held in a currency other than the Indian Rupee, Nepalese Rupee, or Bhutanese Ngultrum."
+        },
+        {
+            "question": "What are the major foreign currency accounts that can be opened in India by a resident individual?",
+            "answer": "Resident individuals can open accounts such as Resident Foreign Currency (RFC) Account, Exchange Earners Foreign Currency (EEFC) Account, and Resident Foreign Currency (Domestic) [RFC(D)] Account, each with specific eligibility criteria and usage conditions."
+        },
+        {
+            "question": "In what form can a foreign currency account in India be opened?",
+            "answer": "A foreign currency account in India can be maintained as a current, savings, or term deposit account for individuals, while for others, it can be held as a current or term deposit account."
+        },
+        {
+            "question": "When can a resident individual open a foreign currency account outside India?",
+            "answer": "A resident individual can open a foreign currency account abroad when studying overseas, traveling, participating in trade fairs, receiving foreign salary payments, or remitting funds under the Liberalized Remittance Scheme (LRS)."
+        },
+        {
+            "question": "Can a resident continue to maintain an account outside India which was opened by him when he was a non-resident?",
+            "answer": "Yes, a resident can continue to hold a foreign currency account abroad if it was opened while they were a non-resident or if they inherited it from a person residing outside India."
+        },
+        {
+            "question": "What is the status of the account held outside India on the demise of the account holder?",
+            "answer": "A resident nominee must close the foreign currency account and repatriate the funds to India through banking channels."
+        },
+        {
+            "question": "How is the Special Rupee Vostro Account (SRVA) different from the already existing Rupee Vostro Account?",
+            "answer": "SRVA requires prior approval before opening, unlike the existing Rupee Vostro Account, and is part of an additional arrangement to facilitate trade settlement in INR."
+        },
+        {
+            "question": "What is new in this arrangement?",
+            "answer": "This arrangement allows international trade to be settled in INR as a complementary system to existing settlements in freely convertible currencies, reducing dependence on hard currencies."
+        },
+        {
+            "question": "Is RBI approval required for opening Special Rupee Vostro Accounts?",
+            "answer": "Yes, RBI approval is required. The AD bank must meet financial health and correspondent banking relationship criteria."
+        },
+        {
+            "question": "What is Correspondent banking?",
+            "answer": "Correspondent banking involves one bank acting as an intermediary for another, facilitating wire transfers, deposits, and foreign transactions."
+        },
+        {
+            "question": "Is this a bank-to-bank arrangement or a country-to-country arrangement?",
+            "answer": "This is primarily a bank-to-bank arrangement similar to a correspondent banking setup."
+        },
+        {
+            "question": "What is the procedure for opening a Special Rupee Vostro Account?",
+            "answer": "AD banks must submit a request to RBI with details of the correspondent banking arrangement, due diligence confirmations, financial parameters, and compliance with FATF guidelines."
+        },
+        {
+            "question": "Can the Indian branch of a foreign bank open an SRVA for its head office or another branch abroad?",
+            "answer": "Yes, provided the Indian branch is an AD bank and obtains RBI approval."
+        },
+        {
+            "question": "Can existing Rupee Vostro Accounts be converted into Special Rupee Vostro Accounts?",
+            "answer": "No, existing Rupee Vostro Accounts cannot be used as SRVAs under this mechanism."
+        },
+        {
+            "question": "Can a foreign bank maintain multiple Special Rupee Vostro Accounts with different AD banks?",
+            "answer": "Yes, a foreign bank can maintain multiple SRVAs with different AD banks."
+        },
+        {
+            "question": "Can an AD bank in India open multiple Special Rupee Vostro Accounts for banks from the same country?",
+            "answer": "Yes, an AD bank in India can open multiple SRVAs for different banks from the same country."
+        },
+        {
+            "question": "How is the exchange rate determined?",
+            "answer": "The exchange rate between trading partner currencies and INR will be market-determined."
+        },
+        {
+            "question": "How is the exchange rate determined if no direct quote exists for a currency pair?",
+            "answer": "A cross-currency rate will be derived using the exchange rate of both currencies against global benchmarks like USD or EUR."
+        },
+        {
+            "question": "Is this mechanism designed to address cross-border payment issues with specific countries?",
+            "answer": "No, this is a general policy to enhance the use of INR in international transactions."
+        },
+        {
+            "question": "Can balances in Special Rupee Vostro Accounts be repatriated?",
+            "answer": "Yes, balances can be repatriated in freely convertible currency or the trading partner’s domestic currency, depending on the transaction type."
+        },
+        {
+            "question": "Can income from INR balances in SRVA be repatriated?",
+            "answer": "Yes, subject to applicable regulatory guidelines and tax provisions."
+        },
+        {
+            "question": "Can balances in SRVA be used for FDI or ECB?",
+            "answer": "Yes, SRVA balances can be used for any permissible current and capital account transactions under FEMA."
+        },
+        {
+            "question": "Where can surplus SRVA balances be invested?",
+            "answer": "Funds can be invested in Government Treasury Bills, government securities, and other mutually agreed investments subject to compliance with regulatory guidelines."
+        },
+        {
+            "question": "Can INR balances in SRVA be hedged?",
+            "answer": "Yes, INR exposure can be hedged per applicable guidelines based on underlying transactions."
+        },
+        {
+            "question": "Does a foreign bank need an FPI license to invest SRVA funds in T-Bills or government securities?",
+            "answer": "No, an FPI license is not required."
+        },
+        {
+            "question": "Who is responsible for reporting cross-border transactions?",
+            "answer": "The AD bank in India is responsible for reporting transactions in SRVA accounts."
+        },
+        {
+            "question": "How does this mechanism benefit Indian traders?",
+            "answer": "Settlement in INR reduces exchange rate risk for Indian exporters and importers, making trade more predictable."
+        },
+        {
+            "question": "What are the processes to be adopted for transactions undertaken through SNRR Account?",
+            "answer": "Payments initiated to the debit of SNRR Accounts must be communicated as SNRR transactions with purpose code and country details. Payments received for credit to SNRR Accounts must be confirmed as SNRR transactions. AD banks must ensure compliance with FEMA provisions for all such transactions."
+        },
+        {
+            "question": "Who is responsible for FEMA compliance for trade transactions?",
+            "answer": "For debit to SNRR A/c (onward domestic credit), the AD bank handling export documents ensures compliance with export-related FEMA regulations. The AD bank maintaining the SNRR account performs due diligence on the overseas client and provides complete KYC details. For credit to SNRR A/c (received from a domestic account), the AD bank handling import documents ensures compliance with import-related FEMA regulations. In case of ECB, Trade Credits, or foreign investments, the designated AD bank ensures FEMA compliance, including FIRC issuance where applicable."
+        },
+        {
+            "question": "Does A2 reporting need to be undertaken by the bank remitting the funds?",
+            "answer": "Yes, any domestic Indian party conducting a transaction that requires A2 reporting for an overseas remittance must undertake the same for a domestic remittance credited to an SNRR Account."
+        },
+        {
+            "question": "Is a purpose code required, and who is responsible for FETERS reporting?",
+            "answer": "Yes, purpose codes are required. The AD bank maintaining the SNRR Account is responsible for FETERS (R Return) reporting. Transactions between an SNRR account and an offshore account of the non-resident entity will be reported under AD bank transfer. Transactions between an SNRR account and a domestic Indian party will be reported based on the underlying transaction."
+        },
+        {
+            "question": "Are ACU guidelines applicable to shipments to ACU countries?",
+            "answer": "Yes, trade transactions with ACU countries must be settled under the ACU mechanism as per FEMA Notification 14 (R) and extant instructions, and must be kept separate from the SNRR arrangement."
+        },
+        {
+            "question": "Can interest be earned on SNRR balances or through term deposits?",
+            "answer": "No, interest cannot be earned on SNRR balances or through term deposits."
+        },
+        {
+            "question": "In which month of the year, the ITES survey is launched by the RBI?",
+            "answer": "The RBI launches the ITES survey during the month of June every year with the previous financial year end-March as the reference date."
+          },
+          {
+            "question": "What is the frequency of this ITES survey?",
+            "answer": "Annual."
+          },
+          {
+            "question": "What is the timeline for the submission in ITES Survey?",
+            "answer": "The respondent companies/LLPs/proprietorship firms can submit their responses on or before July 15 of every year."
+          },
+          {
+            "question": "What is the reference period of this ITES survey?",
+            "answer": "The reference period of an ITES survey round is the immediately preceding financial year (April-March)."
+          },
+          {
+            "question": "What information should be reported in ITES survey, if balance sheet of the company is not audited before the due date of submission?",
+            "answer": "If the company’s accounts are not audited before the due date of submission, i.e. July 15, then the ITES survey schedule should be submitted based on unaudited (provisional) account."
+          },
+          {
+            "question": "In case where account closing period of the company is different from reference period (end-March), can it report the information as per account closing period?",
+            "answer": "No. Even if a company’s account closing period is different from reference period (end-March), the ITES survey information should be reported for the survey reference period, based on the company’s internal assessment."
+          },
+          {
+            "question": "Which entities are required to participate in the ITES survey?",
+            "answer": "Companies/LLPs/Partnership firms in the business of export of computer software & information technology enabled services are required to participate in this survey."
+          },
+          {
+            "question": "Whether ITES survey schedule is required to be submitted by LLPs/proprietorship firms, who have computer software export during the reference period? If yes, then what is the procedure to submit the survey schedule?",
+            "answer": "Since the access to the submission portal is CIN based, any LLP/proprietorship firm that have computer software exports as on end-March of the financial year needs to obtain a dummy CIN Number by sending a request mail on itesquery@rbi.org.in. Once the firm obtains this dummy CIN number from RBI, it can be used to submit the excel (*.xls) file for ITES survey."
+          },
+          {
+            "question": "What information on business activity classification has been covered under this survey?",
+            "answer": "Four major business activities of computer software & information technology enabled services with their sub-classifications are covered under the survey schedule. Details can be found in the survey schedule itself."
+          },
+          {
+            "question": "If the company/LLPs/proprietorship firm does not have export earnings during the reference period, does it need to participate in the survey?",
+            "answer": "Yes. In case the company/LLPs/proprietorship firm doesn’t have export earnings during the reference period, but had the same earlier, then it has to submit NIL survey schedule for the current round of ITES survey."
+          },
+          {
+            "question": "What is the invoicing currency to be reported for exports?",
+            "answer": "Total invoice value must be in Indian Rupees (INR) in actuals (which should also include billing to subsidiary(s)/associate(s)) during the reference period."
+          },
+          {
+            "question": "What is the reporting currency in invoice value in Export-major currencies?",
+            "answer": "Total invoice value must be in Indian Rupees (INR) in actuals (which should also include billing to subsidiary(s)/associate(s) abroad) during the reference period."
+          },
+          {
+            "question": "What is the reporting of currency in invoice value in Export-Type of services?",
+            "answer": "Total invoice value must be in Indian Rupees (INR) in actuals (which should also include billing to subsidiary(s)/associate(s) abroad) as per type of export service."
+          },
+          {
+            "question": "What is the reporting of currency in invoice value in Export-Major Areas?",
+            "answer": "Total invoice value in Indian Rupees (INR) in actuals (including billing to subsidiary(s)/associate(s) abroad) during the reference period to major countries/regional groups."
+          },
+          {
+            "question": "If two or three units of a company are located in India and another unit is located outside India say in UK, then should they participate separately in the ITES survey?",
+            "answer": "Company has to submit only one form aggregating all the units in India. However, for the units abroad, the information should be provided in Part D of the schedule."
+          },
+          {
+            "question": "Should the number of employee information be reported as on end of March of the reference year?",
+            "answer": "Yes, the number of employee information should be reported as on end-March of the reference year."
+          },
+          {
+            "question": "If a company offers services to develop a product for another company in abroad then where should it mention this information in ITES survey schedule?",
+            "answer": "Company has to mention percentage of this service under ‘Offshore product development’ in Q-3 (D) of Part-A and consolidated amount under Q-5 (a-iv) for software products."
+          },
+          {
+            "question": "Which type of expenses should be covered under “total amount spent on office expenses etc. abroad (excluding amount paid to employees abroad) by the Indian company” in Q-7 (iii) of Part-B?",
+            "answer": "Office expenses include all the expenses incurred in running the office abroad during the year like internet payment, stationery, etc. If the office has been set up outside India in the reference period (say 2023-24) then that will also be included."
+          },
+          {
+            "question": "Which amount is to be considered in “Total amount held abroad at the beginning of the reference period by the Indian company” in Q-7 (iv) of Part-B?",
+            "answer": "Total amount held abroad at the beginning of the reference period would mean the outstanding amount that is to be received from abroad (for the exports made) at the beginning of reference period i.e., April 2023-March 2024 (refers to 'as on April 01, 2023')."
+          },
+          {
+            "question": "Which amount is to be considered in the Q-7(v) of Part-B in the ITES survey schedule?",
+            "answer": "The amount held abroad is the outstanding amount which is yet to be received by the company from the importers i.e. unpaid amount for the exports made by the company."
+          },
+          {
+            "question": "The Invoice value includes all the amounts billed to customer, but all the invoice bills are not received in the reference period. Does this mean the actual (realised) amount received within the reference period?",
+            "answer": "Yes, it is the amount actually received (realised) during the reference period including the billing to subsidiaries/associates abroad."
+          },
+          {
+            "question": "Is it required to fill the declaration at the end of the ITES survey schedule?",
+            "answer": "Yes, it is mandatory. The person authorised to fill the form owns the responsibility of information furnished and declares its accuracy including CIN number."
+          },
+          {
+            "question": "Which entities are eligible to report under CPIS?",
+            "answer": "Presently, banks, mutual fund companies, non-financial companies, non-banking financial companies, and insurance companies are surveyed under the CPIS."
+          },
+          {
+            "question": "What is the frequency of the survey?",
+            "answer": "The survey is conducted half-yearly in India for capturing the end-March and end-September position of the latest financial year (FY)."
+          },
+          {
+            "question": "Should AIFs report under CPIS?",
+            "answer": "Yes, since AIFs are considered under non-banking financial institutions."
+          },
+          {
+            "question": "How do I know that the survey is launched?",
+            "answer": "The Reserve Bank sends emails to all eligible entities from generic email IDs of the Reserve Bank to notify them about the launch of the CPIS."
+          },
+          {
+            "question": "How do I know whether my response has been submitted successfully or not?",
+            "answer": "After sending the duly filled survey schedule, the respondent will receive a system-generated acknowledgment."
+          },
+          {
+            "question": "What is the launch timeline of the CPIS?",
+            "answer": "The CPIS is launched for end-March and end-September positions on June 01 and December 01 of that year respectively."
+          },
+          {
+            "question": "What is the due date for participating in CPIS?",
+            "answer": "The due date for CPIS participation is July 15 for end-March data and December 31 for end-September data."
+          },
+          {
+            "question": "What if the reporting entity does not receive the soft copy of the survey schedule by email?",
+            "answer": "Entities can download it from the RBI website or request it via email."
+          },
+          {
+            "question": "Should we report data for a particular branch of the reporting entity or the consolidated data of the entity?",
+            "answer": "A consolidated data at the entity level, covering all branches/offices in India, should be furnished."
+          },
+          {
+            "question": "What information should be reported under CPIS?",
+            "answer": "The survey collects details of portfolio investment assets of domestic residents made in securities issued by unrelated non-residents."
+          },
+          {
+            "question": "At what value should the portfolio investment assets be reported?",
+            "answer": "They should be reported on a marked-to-market basis as at the end of the reference period, with breakups into types of securities and country of issuer."
+          },
+          {
+            "question": "What is the unit of reporting the data in CPIS?",
+            "answer": "Entities should report data in the unit mentioned in the survey schedule (e.g., INR Lakh)."
+          },
+          {
+            "question": "If the responding entity does not have any portfolio investment assets during the reference period, do they need to participate in the survey?",
+            "answer": "Yes, they must submit a NIL survey schedule."
+          },
+          {
+            "question": "What information should be reported if the balance sheet of the entity is not audited before the due date of submission?",
+            "answer": "They should report based on unaudited (provisional) accounts."
+          },
+          {
+            "question": "What to report in equity securities?",
+            "answer": "Equity consists of instruments that acknowledge claims on the residual value of a corporation or quasi-corporation."
+          },
+          {
+            "question": "What should be considered under equity securities?",
+            "answer": "This includes ordinary shares, stocks, participating preference shares, shares in mutual funds, depository receipts, and more."
+          },
+          {
+            "question": "What should not be included under equity securities?",
+            "answer": "Non-participating preference shares, equity issued by related non-residents, and securities acquired under reverse repos."
+          },
+          {
+            "question": "What to report in debt securities?",
+            "answer": "Debt securities are negotiable instruments serving as evidence of a debt, including bonds, notes, and money market instruments."
+          },
+          {
+            "question": "What are long-term debt securities?",
+            "answer": "These are debt securities with an original maturity of more than one year, including bonds, debentures, and notes."
+          },
+          {
+            "question": "What are short-term debt securities?",
+            "answer": "These have an original maturity of one year or less, including treasury bills, negotiable certificates of deposit, and commercial paper."
+          },
+          {
+            "question": "At what value should we report securities - face value or market value?",
+            "answer": "Equity and debt securities should be reported at market prices converted to domestic currency using the prevailing exchange rate."
+          },
+          {
+            "question": "What is the method that can be used for approximating market prices for equity securities?",
+            "answer": "Methods include recent transaction price, net asset value, price-to-earnings ratio, market capitalization method, and more."
+          },
+          {
+            "question": "Whom to contact in case of any query related to CPIS?",
+            "answer": "Queries can be directed to the RBI at International Investment Position Division (IIPD), Department of Statistics and Information Management (DSIM), Mumbai."
+          },
+          {
+            "question": "Should portfolio investment assets made by branches of the banks outside India be included in CPIS?",
+            "answer": "No, investments made by branches outside India should not be included."
+          },
+          {
+            "question": "Should portfolio investment assets made by branches of your bank located in the IFSC zone of India to the rest of the world be included in CPIS?",
+            "answer": "Yes, they should be included."
+          },
+          {
+            "question": "Should portfolio investment assets made by branches of your bank located in non-IFSC zones of India to other branches located in the IFSC zone be included in CPIS?",
+            "answer": "No, they should not be included as they are considered resident-to-resident transactions."
+          },
+          {
+            "question": "What is Digital Rupee?",
+            "answer": "Digital Rupee or eRupee, is India’s Central Bank Digital Currency (CBDC). It is the digital form of India’s physical currency, the Rupee (₹). eRupee is issued by the Reserve Bank of India (RBI) in digital form and offers features similar to physical cash like convenience of use, guarantee of RBI, finality of settlement, etc."
+          },
+          {
+            "question": "How can eRupee be held and used?",
+            "answer": "eRupee can be held and transacted through eRupee wallets offered by banks and non-banks for person-to-person payments or person-to-merchant transactions. Users can download the eRupee app from the Play Store or the App Store and follow the app instructions."
+          },
+          {
+            "question": "What is an eRupee Wallet?",
+            "answer": "eRupee wallet is a digital wallet that stores Digital Rupee, similar to a physical wallet/purse storing cash. It is currently provided by banks and non-banks participating in the retail CBDC pilot."
+          },
+          {
+            "question": "Are eRupee wallets safe?",
+            "answer": "Yes, eRupee wallets are safe and secure. There is a robust cybersecurity framework to ensure security. Even if a mobile device is lost, the wallet can be recovered using the same phone number/SIM on a new device."
+          },
+          {
+            "question": "Which mobile operating system platform does eRupee wallet currently support?",
+            "answer": "eRupee wallet is available and supported on both Android and iOS mobile devices."
+          },
+          {
+            "question": "How is Digital Rupee created and issued?",
+            "answer": "RBI creates and issues eRupee electronically to banks and non-banks, which then distribute it to users via eRupee wallets."
+          },
+          {
+            "question": "Who can use eRupee?",
+            "answer": "Currently, users and merchants of identified pilot banks and non-banks can use eRupee by downloading the eRupee app and registering for an eRupee wallet."
+          },
+          {
+            "question": "Can Digital Rupee be transacted from one’s bank account outside banking hours?",
+            "answer": "Yes. eRupee can be loaded/redeemed/transferred 24/7 from/to a bank account."
+          },
+          {
+            "question": "Is there any minimum balance required to open/maintain an eRupee wallet?",
+            "answer": "No. There is no minimum balance required to open or maintain an eRupee wallet."
+          },
+          {
+            "question": "Is a savings account mandatory for retail customers to use eRupee?",
+            "answer": "Currently, opening an eRupee wallet is linked to the user’s savings account for seamless onboarding and KYC compliance."
+          },
+          {
+            "question": "Why do I see eRupee with different denominations in the wallet?",
+            "answer": "For ease of use, eRupee is available in the same denominations as physical currency to provide familiarity and convenience."
+          },
+          {
+            "question": "How can one transact without having the required denomination or change?",
+            "answer": "The eRupee wallet provides the required change automatically. For example, if a user has only ₹20 but needs to pay ₹15, the wallet will return ₹5 in change."
+          },
+          {
+            "question": "Are there any charges/fees for using eRupee?",
+            "answer": "No, there are no charges or fees associated with using eRupee or eRupee wallets."
+          },
+          {
+            "question": "Will interest be paid on the ₹ balances in the eRupee wallet?",
+            "answer": "No. Similar to physical cash, no interest is paid on eRupee balances."
+          },
+          {
+            "question": "Is eRupee legal tender?",
+            "answer": "Yes, eRupee is legal tender under Section 26 of the Reserve Bank of India (RBI) Act, 1934, and is guaranteed by the Central Government."
+          },
+          {
+            "question": "Is there any difference between eRupee and UPI?",
+            "answer": "Yes. eRupee is a digital form of currency, whereas UPI is a means of transferring money. eRupee can act as a ‘store of value’ and be used independently of a bank account."
+          },
+          {
+            "question": "What is the offline feature of eRupee?",
+            "answer": "The offline feature allows transactions in areas with limited or no internet connectivity. Different offline solutions are currently being tested."
+          },
+          {
+            "question": "What is the programmability feature of eRupee?",
+            "answer": "Programmability allows funds in eRupee wallets to be used for specific purposes, such as Direct Benefits Transfer (DBT) schemes, employee allowances, or government subsidies."
+          },
+          {
+            "question": "Which are the pilot banks currently offering CBDC wallets?",
+            "answer": "Currently, 15 banks are offering CBDC wallets, including SBI, ICICI Bank, HDFC Bank, Axis Bank, and others."
+          },
+          {
+            "question": "What is a Wholesale CBDC and how does it differ from Retail CBDC?",
+            "answer": "Wholesale CBDC (eRupee-W) is designed for financial institutions to streamline interbank settlements and large-value transactions. Retail CBDC (eRupee-R) is meant for the general public for everyday transactions."
+          },
+          {
+            "question": "What are the potential benefits of eRupee-W?",
+            "answer": "eRupee-W can enhance the efficiency, speed, and security of financial transactions, reducing settlement risks through programmability and smart contracts."
+          },
+          {
+            "question": "Which are the participants in the wholesale CBDC pilot?",
+            "answer": "Currently, 14 banks and financial institutions are participating in the wholesale CBDC pilot."
+          },
+          {
+            "question": "What are the current use cases in eRupee-W and what are the benefits?",
+            "answer": "Ongoing use cases include settlement of secondary market transactions in Government Securities and interbank call money market lending, reducing costs and mitigating settlement risks."
+          },
+          {
+            "question": "In which month does RBI launch the MF survey?",
+            "answer": "The RBI launches the MF survey during the month of June every year with the previous financial year ended end-March as the reference date."
+          },
+          {
+            "question": "What is the frequency of this survey?",
+            "answer": "The survey is conducted annually."
+          },
+          {
+            "question": "Which entities are required to participate in the survey?",
+            "answer": "MF companies in India are required to participate in this survey."
+          },
+          {
+            "question": "How does the MF company submit the MF survey schedule to the RBI?",
+            "answer": "Once the survey is launched, MF companies receive an email from RBI along with the soft copy of the survey schedule (Schedule-4) in excel format. The filled-in survey schedule should be sent by email to mf@rbi.org.in."
+          },
+          {
+            "question": "What if the MF company does not receive the soft copy of the survey schedule by email?",
+            "answer": "MF companies can download Schedule-4 from the RBI website or send a request to mfquery@rbi.org.in."
+          },
+          {
+            "question": "What is the timeline for submission in MF Survey by Mutual Fund companies?",
+            "answer": "Mutual fund companies can submit their responses on or before July 15 of every year."
+          },
+          {
+            "question": "What is the timeline for submission in MF Survey by Asset Management Companies (AMCs)?",
+            "answer": "AMCs must submit their annual return on Foreign Liabilities and Assets (FLA) through RBI’s online web-based portal ‘FLAIR’ by July 15 of every year."
+          },
+          {
+            "question": "How does an AMC report data/submit the FLA return to the RBI?",
+            "answer": "Entities can submit the annual return on FLA through the online portal at https://flair.rbi.org.in."
+          },
+          {
+            "question": "What is the reference period of MF survey?",
+            "answer": "The reference period is the immediately preceding financial year (April-March)."
+          },
+          {
+            "question": "If the MF company/AMCs does not have foreign liabilities and assets during the reference period, do they need to participate in the survey?",
+            "answer": "Yes, they must submit a NIL survey schedule of MF survey as well as FLA form on the FLAIR portal."
+          },
+          {
+            "question": "Can a company get an acknowledgment for submission of the MF survey schedule?",
+            "answer": "Yes, after submitting the survey schedule to mf@rbi.org.in, the MF company will receive a system-generated acknowledgment."
+          },
+          {
+            "question": "What information should be reported in MF survey, if the balance sheet of the company is not audited before the due date of submission?",
+            "answer": "If the company’s accounts are not audited before July 15, the MF survey schedule should be submitted based on unaudited (provisional) accounts."
+          },
+          {
+            "question": "If the account closing period of the MF company/AMCs is different from the reference period (end-March), can it report the information as per account closing period?",
+            "answer": "No, the MF survey information should be reported for the reference period, based on the company’s internal assessment."
+          },
+          {
+            "question": "What is a budget?",
+            "answer": "Put simply, it is a plan of your future income and expenses. Budgets can be yearly, monthly or even weekly."
+          },
+          {
+            "question": "Why prepare a budget at all?",
+            "answer": "With a budget in hand, you will be able to control your expenses better and save more. Comparing the budget with the actual expenditure will show where you spent more (or less)."
+          },
+          {
+            "question": "What is Saving?",
+            "answer": "Saving can be defined as: Saving = Income - Expenditure or Expenditure = Income - Saving. You should set aside a portion of your income BEFORE you spend anything."
+          },
+          {
+            "question": "Where to Save?",
+            "answer": "The three important things that one must keep in mind while saving are Safety, Liquidity, and Return."
+          },
+          {
+            "question": "What is Safety in Saving?",
+            "answer": "Safety depends on how certain/guaranteed return of your principal amount or investment is. Government Bonds are the safest. Bank Fixed Deposits are also considered comparatively safe."
+          },
+          {
+            "question": "What is Liquidity in Saving?",
+            "answer": "Liquidity depends on how easy it is to sell an asset with minimum loss in value. Bank Deposits, listed and traded Equity Shares, and Mutual Funds are considered comparatively more liquid."
+          },
+          {
+            "question": "What is Return in Saving?",
+            "answer": "Return depends on the type of financial product and the risk associated with it. Equity shares may give higher returns but also carry higher risk of loss."
+          },
+          {
+            "question": "What points should be kept in mind when saving?",
+            "answer": [
+              "Make sure that your savings are invested in diversified instruments.",
+              "Some portion should be in liquid assets so that you can withdraw money when needed.",
+              "Do not put your money in instruments that are very risky/unregulated, you may lose all of it!"
+            ]
+          },
+          {
+            "question": "What is Responsible Borrowing?",
+            "answer": "One should borrow to invest in assets that create value or generate returns. Examples of good borrowing are mortgage loans to buy a house, education loan for funding children’s higher education, etc."
+          },
+          {
+            "question": "Whom to borrow from?",
+            "answer": "It is advisable to borrow from regulated entities like banks, NBFCs, and HFCs."
+          },
+          {
+            "question": "What are Deposit Accounts and their types?",
+            "answer": "Deposit accounts can be categorized as Passive vs. Active Savings. Regular savings bank accounts fetch very low rates of interest, hence can be termed passive savings. Instead, investing in Recurring/Fixed Deposits of banks fetches better returns."
+          },
+          {
+            "question": "What are some good banking practices?",
+            "answer": [
+              "Taking a passbook/statement of account & checking entries periodically.",
+              "Keeping cheque-book (if taken) in safe custody.",
+              "Not sharing Internet Banking (if availed) ID & password with anyone.",
+              "Not sharing debit card (if obtained) PIN with anyone.",
+              "Not sharing OTPs (one-time passwords) received for carrying out online transactions with anyone."
+            ]
+          },
+          {
+            "question": "What is nomination and why nominate?",
+            "answer": "A nominee is the person who is entitled to receive the money lying in the bank account (as a trustee of the legal heir/s of the deceased depositor) after the death of the depositor in a single account and death of all depositors in case of a joint account. Nomination helps in quick settlement of claims and reduces hardship for surviving family members. Always fill up the nomination form when you open a bank deposit account. Approach your bank to update your nomination details."
+          },
+          {
+            "question": "What is Premature Withdrawal?",
+            "answer": "Fixed Deposits are normally for a particular/specified period of time. If you want to withdraw the amount before the end of the period, then the bank will charge a penalty for premature withdrawal. Always opt for a premature withdrawal mandate, anytime during the tenure of term deposits (with joint account holders), for hassle-free claim settlement. In the event of the depositor’s death, premature withdrawal would not attract any penal charge."
+          },
+          {
+            "question": "What exactly is a Credit Score?",
+            "answer": [
+              "A Credit Score (a three-digit number) indicates a borrower’s creditworthiness and is typically based on their credit history and other factors.",
+              "It is given along with a Credit Information Report issued by a Credit Information Company.",
+              "Credit Score would be higher if the borrower has always repaid loans taken from banks/financial institutions on time."
+            ]
+          },
+          {
+            "question": "Why is Credit Score important?",
+            "answer": [
+              "Banks/Financial institutions ascertain/check your credit score and credit history, along with other factors, while sanctioning your loans.",
+              "All other things remaining the same, a borrower with a higher credit score will usually be able to borrow at a lower rate of interest."
+            ]
+          },
+          {
+            "question": "What is a Free Annual Credit Report?",
+            "answer": "Individuals have access to their one free full credit report (FFCR) including credit score, once a calendar year. Information on the procedure to access FFCR is available on websites of respective credit information companies (CICs)."
+          },
+          {
+            "question": "How can inaccuracies in the Credit Information Report (CIR) be corrected?",
+            "answer": "In case of any inaccuracy in CIR, a borrower may request the CIC/credit institution (banks/NBFCs, etc.) to correct/update their CIR. If the complaint remains unaddressed for more than thirty days or the borrower is not satisfied with the resolution, the complainant may approach the RBI-Ombudsman by filing a complaint on https://cms.rbi.org.in."
+          },
+          {
+            "question": "How can you improve your Credit Score?",
+            "answer": [
+              "Borrow only within your means; i.e., only so much as you can repay regularly & on time.",
+              "Make sure you do not miss any repayment installment.",
+              "Repay loans earlier if possible, as it creates good credit history."
+            ]
+          },
+          {
+            "question": "What is an Inoperative Account?",
+            "answer": "A savings/current account shall be treated as inoperative if there are no ‘customer-induced transactions’ in the account for over two years."
+          },
+          {
+            "question": "Why are inoperative accounts segregated from other accounts?",
+            "answer": "Inoperative accounts are segregated from other accounts to reduce the risk of frauds and to bring to the attention of dealing bank staff the increased risk in the account."
+          },
+          {
+            "question": "Is the mandate for crediting interest on Fixed Deposits and/or dividends on shares treated as a customer-induced transaction?",
+            "answer": "Yes, it is treated as a customer-induced transaction."
+          },
+          {
+            "question": "What is the process for activating an inoperative account?",
+            "answer": [
+              "Banks have been advised to make available the facility of KYC updation for activation of inoperative accounts/unclaimed deposits at all branches (including non-home branches) and through Video-Customer Identification Process (V-CIP) if requested by the account holder.",
+              "Customers can approach the nearest bank branch for activation.",
+              "Banks must activate the inoperative account within three working days, adhering to KYC guidelines prescribed by RBI such as Customer Due Diligence (CDD), customer identification, and risk categorization.",
+              "Banks are also required to automatically intimate inoperative account/unclaimed deposit holders through SMS and registered email stating that, based on the KYC documents submitted, the inoperative status of the account has been removed."
+            ]
+          },
+          {
+            "question": "Are there any charges for activation of an inoperative account?",
+            "answer": "No, there are no charges for the activation of an inoperative account."
+          },
+          {
+            "question": "Is interest paid on inoperative savings bank accounts?",
+            "answer": "Yes, interest on savings bank accounts is credited on a regular basis irrespective of whether the account is operative or not. If a Fixed Deposit Receipt matures and proceeds are unpaid, the amount left unclaimed with the bank shall attract the rate of interest applicable to the savings account or the contracted rate of interest on the matured fixed deposit, whichever is lower."
+          },
+          {
+            "question": "Is information on inoperative accounts available on the bank’s website?",
+            "answer": [
+              "Banks must display the list of unclaimed deposits/inoperative accounts which are inactive/inoperative for ten years or more on their respective websites.",
+              "A search facility is also provided by banks for the public to search the list of accounts by the name of the account holder.",
+              "Customers can also use the search facility provided by RBI on the UDGAM portal (https://udgam.rbi.org.in/unclaimed-deposits/#/login) to search for their unclaimed deposits transferred by banks to RBI’s Depositor Education and Awareness (DEA) Fund.",
+              "This search facility is presently available for 30 banks as listed here (https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=56498)."
+            ]
+          },
+          {
+            "question": "What is the time value of money?",
+            "answer": "The time value of money (TVM) is the concept that money available now is worth more than the same amount of money available in the future due to its potential earning capacity, provided the rate of interest is positive. ₹100 today may not be equivalent to ₹100 to be received after two years. If money is not invested wisely, it can lose value due to inflation. If the return on an investment of ₹100 is say 5% and the inflation rate is 7%, then the real return is (-2%)! Money has lost value to the extent of ₹2. To compensate for inflation and other factors, financial institutions pay interest if you deposit money and charge interest if you borrow money. It is essential to save and invest in appropriate financial products to earn a rate of return above the rate of inflation to preserve the future value of money."
+          },
+          {
+            "question": "What is risk and return?",
+            "answer": "Any investment entails a certain degree of risk. Generally, there is a direct correlation between risk and return. The higher the expected return, the higher the risk (including the possibility of losing the initial investment as well). And lower the return, lower the risk as well. The basic investment principle to be kept in mind while investing or saving in financial products is the risk vs. return trade-off. High expected returns may entail higher risk and the possibility of potential losses. Invest your money wisely! Beware! High and quick return schemes could be risky. Do not chase returns without understanding the risks! Thoroughly check the background and performance of the entity offering the scheme. Read the terms and conditions carefully. Do your study and due diligence before being lured by ‘Too Good To Be True’ schemes of unknown entities!"
+          },
+          {
+            "question": "What are retail remittances?",
+            "answer": "NEFT, RTGS, and IMPS are the most popular remittance channels offered by banks to transfer money. They can be availed at the bank branch or through online channels like Internet banking, mobile banking, etc., offered by your bank."
+          },
+          {
+            "question": "What is UPI?",
+            "answer": "Unified Payments Interface or UPI is a platform that allows transfer of money between two bank accounts using a smartphone that has access to the internet. You can use the BHIM app, any bank’s app, or any third-party app for facilitating UPI transactions."
+          },
+          {
+            "question": "How does UPI work?",
+            "answer": [
+              "You need a bank account, a mobile number linked to that bank account, and a smartphone with internet connection.",
+              "To facilitate feature phone users to avail benefits of UPI, UPI123Pay was launched with four options: App-based functionality, Missed Call, IVR, and Proximity Sound-based payments.",
+              "A debit card linked to the account is required one time for setting up UPI on a mobile phone.",
+              "UPI can also be linked to RuPay Credit Cards."
+            ]
+          },
+          {
+            "question": "How to activate UPI?",
+            "answer": [
+              "Download the App on your smartphone and link your bank account, then create a UPI PIN by following the instructions given in the App.",
+              "Using your UPI PIN, you can transfer funds seamlessly to any beneficiary by just knowing their virtual address or UPI number.",
+              "If the beneficiary doesn’t have a virtual address or UPI number, you can transfer funds using IFSC and the bank account number."
+            ]
+          },
+          {
+            "question": "What are the benefits of UPI?",
+            "answer": [
+              "Can send and receive money instantly.",
+              "Can transfer money 24/7, 365 days even on holidays and Sundays using a smartphone.",
+              "Use of a virtual ID makes it easy to transfer money and obviates the need to share sensitive bank account information."
+            ]
+          },
+          {
+            "question": "What are some precautions with respect to UPI?",
+            "answer": {
+              "Dos": [
+                "Keep your UPI App updated.",
+                "Always review the merchant/person’s collect request before accepting it.",
+                "Recheck and re-confirm the amount and beneficiary before effecting the transfer."
+              ],
+              "Don’ts": [
+                "Never share your UPI PIN with anyone.",
+                "Refrain from transferring money without verifying/reconfirming the recipient first."
+              ]
+            }
+        },
+        {
+            "question": "What are some precautions regarding online and mobile banking?",
+            "answer": {
+              "Dos": [
+                "Always type your bank’s URL using only verified and trusted browsers and HTTPS secured websites for payments (S stands for Secure). Look for a secure sign (lock) in the URL window.",
+                "Make your passwords difficult to guess by using alphanumeric and special characters (#, *, @, $ etc.).",
+                "Ensure that you change your password frequently.",
+                "Always keep your payment transaction Apps (banks, non-banks, Wallets etc.) updated with the latest version.",
+                "Link your mobile number and email ID with your bank account and opt for SMS/e-mail alert service.",
+                "In case of any unusual/unauthorised transaction, inform the bank immediately."
+              ],
+              "Don’ts": [
+                "Never access your bank’s website through online search.",
+                "Never store login credentials on your phone, also don’t enter/store credentials on untrusted portals/service providers.",
+                "Avoid transacting through public devices, cyber cafes, and unsecured/open networks like public/free WiFi.",
+                "Never share your mobile banking PIN, Internet banking ID, password, or OTP with anyone (including bank staff)."
+              ]
+            }
+          },
+          {
+            "question": "What are some precautions regarding ATM transactions?",
+            "answer": {
+              "Dos": [
+                "Ensure that you use only EMV Chip and PIN based Debit Card instead of a card with a magnetic strip (Approach your bank for replacing the magnetic strip card).",
+                "Ensure that there are no unauthorized cameras or other skimming devices near ATMs when you key in your PIN or swipe your cards.",
+                "Make sure no one sees the PIN when it is being entered at the ATM. It is a good practice to cover the keypad with one hand and use the other hand to key in your PIN.",
+                "Remember to count and check the notes dispensed.",
+                "Remember to collect your card after the transaction is over.",
+                "Register your phone number with the card-issuing bank to get alerts on ATM transactions.",
+                "Contact your bank immediately to block the card if it gets lost or stolen or if you feel it has been compromised."
+              ],
+              "Don’ts": [
+                "Do not share your ATM card details (card number, expiry date, CVV etc.) and PIN with anyone.",
+                "Never leave the Card in the ATM.",
+                "Never share your OTP with anyone.",
+                "Never write your PIN on the Card."
+              ]
+            }
+          },
+          {
+            "question": "Are the deposits in banks safe?",
+            "answer": "Yes, up to the limit insured, the deposits are safe. Your deposits are insured by Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly owned subsidiary of the RBI."
+          },
+          {
+            "question": "Which banks are covered under deposit insurance?",
+            "answer": "Commercial banks (Private Sector Banks, Public Sector Banks, Foreign Banks in India, Local Area Banks, Small Finance Banks, Payment Banks, Regional Rural Banks) and cooperative banks (State Cooperative Banks, District Central Cooperative Banks, Urban Cooperative Banks) registered with DICGC are insured. Obtaining deposit insurance cover is mandatory for all banks licensed by RBI."
+          },
+          {
+            "question": "Which deposits are covered under DICGC?",
+            "answer": "DICGC insures all types of deposits (e.g., Savings, Fixed, Recurring, etc.) with an insured bank but does not include deposits received from a Foreign Government, the Central Government, a State Government, another bank, or any deposit received outside India. Each depositor in a bank is insured up to a maximum of ₹5 lakh for both principal and interest amount held by them in the 'same right and same capacity'."
+          },
+          {
+            "question": "Do I need to pay a premium for DICGC insurance?",
+            "answer": "No, you do not have to pay any premium. The DICGC charges a nominal premium from the banks. Unlike other bank fees, this premium is not charged to you."
+          },
+          {
+            "question": "What will happen to my deposits if the bank is liquidated by RBI?",
+            "answer": "If a bank goes into liquidation, DICGC is liable to pay to each depositor, through the liquidator, the total amount of their deposit (in the same capacity and in the same right) as on the date of deregistration of the bank, up to a maximum limit of ₹5 lakh."
+          },
+          {
+            "question": "What will happen to my deposits if my bank is placed under 'All Inclusive Directions' (AID) by RBI?",
+            "answer": "Once an insured bank is placed under 'All Inclusive Directions' (AID) by the Reserve Bank of India with restrictions on withdrawal of deposits, DICGC is liable to pay to each depositor the total amount of their deposit (in the same capacity and in the same right) as on the date of issue of direction/prohibition to the bank, up to a maximum limit of ₹5 lakh. The depositors of such banks are advised to contact the respective bank officials, submit the form on willingness including alternate bank details and other necessary documents immediately to enable the banks to submit the list of depositors’ claims up to the insured amount before the cut-off date given to the bank by DICGC."
+          },
+          {
+            "question": "How will I know the status of my claim?",
+            "answer": "Depositors of liquidated banks and AID banks will receive an SMS intimation at each stage of claim settlement i.e., on receipt of claim and on sanction of claim."
+          },
+          {
+            "question": "Is DICGC active on any social media?",
+            "answer": "DICGC regularly posts public awareness messages and information regarding payment to depositors of AID banks on the ‘Public App’ by Inshorts for wider dissemination of information among the general public."
+          },
+          {
+            "question": "When to approach the RBI Ombudsman?",
+            "answer": "For redress of grievance, the complainant must first approach the concerned RE. If the complaint lodged with the RE is not redressed / no reply is received within a period of 30 days, or, if the complainant is not satisfied with the reply given by the RE, the complainant can lodge the complaint with the RBI Ombudsman."
+          },
+          {
+            "question": "Where to lodge a complaint with RBI?",
+            "answer": "Complaints can be lodged with the RBI Ombudsman / CEPC through:\n1. Online at https://cms.rbi.org.in/\n2. Letter/post to 'Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector-17, Central Vista, Chandigarh-160017'."
+          },
+          {
+            "question": "Is there any charge or fee to be paid for filing a complaint with the RBI Ombudsman?",
+            "answer": "No. There is no charge or fee for filing or resolving complaints under the RB-IOS, 2021. Complaints can be registered by individuals free of cost without the need for third-party agencies."
+          },
+          {
+            "question": "What are the advantages of filing complaints online at the CMS portal?",
+            "answer": [
+              "Simplified and cost-free method of filing the complaint.",
+              "Complaint can be filed from anywhere in the country.",
+              "Automatic acknowledgement upon registration.",
+              "Facility for real-time tracking of complaint status.",
+              "Facility for online submission of additional documents.",
+              "Facility for submitting feedback on the redressal process."
+            ]
+          },
+          {
+            "question": "How to know more about lodging a complaint with RBI?",
+            "answer": "Individuals can contact the RBI Contact Centre via toll-free number 14448 for guidance on grievance redressal and complaint filing. The service is available on all working days in Hindi, English, and ten regional languages."
+          },
+          {
+            "question": "Can complaints be filed through the RBI Contact Centre?",
+            "answer": "No, complaints cannot be filed through the Contact Centre. However, it assists complainants in filing complaints through the CMS portal or physical mode."
+          },
+          {
+            "question": "How does relief from calamities work?",
+            "answer": [
+              "Central or State Government notifies a natural calamity in your area.",
+              "SLBC or DCC announces relief measures for affected borrowers.",
+              "Borrowers may approach their bank/NBFC to restructure or recast existing loans or request fresh loans.",
+              "Loans may be restructured with benefits like moratorium period, enhanced repayment period, relaxed KYC norms, and interest subvention benefits."
+            ]
+          },
+          {
+            "question": "What are some safety tips regarding digital lending applications?",
+            "answer": [
+              "Before using any digital lending app, check whether it is associated with an RBI-regulated bank/NBFC.",
+              "Avoid downloading apps received via SMS or social media links.",
+              "Report suspicious loan apps to law enforcement agencies.",
+              "Assess the total loan cost, including Annual Percentage Rate and other terms, before borrowing.",
+              "Read all loan-related documents carefully, including Key Fact Statements and privacy policies.",
+              "Check data storage policies of digital lenders before granting app permissions.",
+              "In case of grievances, contact the grievance redressal officer of the bank/NBFC or escalate to the CMS portal under RBI-Integrated Ombudsman Scheme."
+            ]
+          },
+          {
+            "question": "What is a useful platform for visually impaired persons to identify currency notes?",
+            "answer": "Visually impaired individuals can use the MANI App, which identifies the denomination of Indian currency notes using audio notifications in multiple languages and vibration mode. The app is available for free on Android and iOS platforms."
+          },
+          {
+            "question": "How to exchange soiled/mutilated/defective notes?",
+            "answer": [
+              "Soiled, torn, damaged, mutilated, or defective notes can be exchanged at bank branches over the counter.",
+              "Banks follow the RBI Note Refund Rules, 2009 (amended in 2018) for exchanging notes.",
+              "If a bank refuses to exchange notes, a complaint can be lodged with the bank.",
+              "If unresolved for a month, the complaint can be escalated to the RBI Ombudsman."
+            ]
+          },
+          {
+            "question": "What is income?",
+            "answer": "Money earned from various sources like salary, wages, earnings from farming or business, etc., is our income."
+          },
+          {
+            "question": "What is expenditure?",
+            "answer": "Money spent on various items is our expenditure. It includes spending money on both essential and non-essential items."
+          },
+          {
+            "question": "What is investment?",
+            "answer": "Investment is the deployment of money, usually from savings, with the expectation of earning higher returns over time. Examples include purchasing land, fixed deposits in banks, etc."
+          },
+          {
+            "question": "What is saving?",
+            "answer": "When income is more than expenses, the surplus money is known as savings."
+          },
+          {
+            "question": "What is debt?",
+            "answer": "When expenses exceed income and there are no savings, money is borrowed to cover the shortfall, creating debt."
+          },
+          {
+            "question": "How to manage debt?",
+            "answer": "If expenses exceed income in a particular month, savings from previous months can be used to cover the shortfall. If there are no savings, borrowing becomes necessary, leading to debt."
+          },
+          {
+            "question": "What is the difference between essential and non-essential items of expenditure?",
+            "answer": "Essential items are basic needs like food, shelter, clothing, education, and healthcare. Non-essential items are wants, which are desirable but not necessary for survival."
+          },
+          {
+            "question": "How can we manage our money?",
+            "answer": "We can manage our money efficiently by financial planning. The first step is maintaining a financial diary to track income and expenses over a period, such as a week or a month."
+          },
+          {
+            "question": "What is financial planning?",
+            "answer": "Financial planning involves estimating financial needs and ways to meet them throughout life. It includes planning for child education, home purchase, marriage, medical emergencies, and unexpected events like accidents or natural calamities."
+          },
+          {
+            "question": "Why should we do financial planning?",
+            "answer": "Financial planning helps in saving regularly for future needs and controlling unnecessary expenses. It ensures better financial stability and allows individuals to build savings for major life goals."
+          },
+          {
+            "question": "How to do financial planning?",
+            "answer": [
+              "Assess current financial position.",
+              "Identify short-term (1 year), medium-term (1-5 years), and long-term (more than 5 years) financial goals.",
+              "Estimate the cost of each goal and set a savings plan.",
+              "Maintain a financial diary to track income and expenses.",
+              "Curb unnecessary expenses.",
+              "Regularly review savings and make adjustments if needed.",
+              "Deposit savings in a bank account for security and interest."
+            ]
+          },
+          {
+            "question": "Why maintain a financial diary?",
+            "answer": "A financial diary helps in tracking income and expenses, identifying avoidable costs, and increasing savings. It prevents overspending and helps break the cycle of poverty."
+          },
+          {
+            "question": "How can we reduce expenses?",
+            "answer": "Expenses can be reduced by cutting down on non-essential spending and making judicious choices. For example, reducing daily tea consumption from 4 to 2 cups can save ₹300 per month, leading to ₹3,600 savings in a year."
+          },
+          {
+            "question": "What is the key financial principle to follow?",
+            "answer": [
+              "Needs are limited – Spend wisely.",
+              "Wants are unlimited – Reduce unnecessary expenses.",
+              "Vices are risky – Avoid spending on harmful habits."
+            ]
+          },
+          {
+            "question": "Why should we save?",
+            "answer": [
+              "To meet higher expenses such as birth, education, marriage, purchasing farm seeds, purchasing own house, etc.",
+              "To cover unexpected expenses like illness, accident, death, or natural calamities.",
+              "To have money available during lean periods when we are unable to earn.",
+              "To secure our old age and retirement.",
+              "To afford things that cannot be purchased from regular income."
+            ]
+          },
+          {
+            "question": "How to save?",
+            "answer": [
+              "By cutting down on unnecessary expenses.",
+              "By increasing our income.",
+              "Avoiding spending on vices like drinking, gambling, and excessive festival expenses.",
+              "Reducing non-essential expenditures such as luxurious goods or entertainment.",
+              "Postponing big purchases like TVs, scooters, or jewelry."
+            ]
+          },
+          {
+            "question": "How can we save when we do not have enough money even to meet our regular expenses?",
+            "answer": [
+              "Start saving a small amount regularly, even if it is minimal.",
+              "Set aside a portion of earnings from the beginning.",
+              "Save unexpected earnings or profits instead of spending them.",
+              "A small daily saving habit can add up to significant savings over time."
+            ]
+          },
+          {
+            "question": "For how long should we save?",
+            "answer": "The longer we save, the more our savings will grow, ensuring financial security in emergencies and old age."
+          },
+          {
+            "question": "Where to save?",
+            "answer": [
+              "Keeping money at home can be unsafe and unproductive.",
+              "Banks provide a secure place to save money with added benefits like interest earnings."
+            ]
+          },
+          {
+            "question": "Why save in a bank?",
+            "answer": [
+              "Money is safe as banks are regulated.",
+              "Banks offer interest on deposits, helping money grow.",
+              "Easier access to financial services such as loans and remittances.",
+              "Transparent transactions and records.",
+              "Nomination facility ensures smooth transfer of funds after death."
+            ]
+          },
+          {
+            "question": "What is nomination?",
+            "answer": "Nomination allows a depositor to designate a person who can claim the account balance after their death, ensuring easy fund transfer."
+          },
+          {
+            "question": "What are the advantages of having a bank account?",
+            "answer": [
+              "Provides an identity recognized by government agencies.",
+              "Ensures transparency in financial transactions.",
+              "Offers security for savings.",
+              "Enables receipt of wages, pensions, and government benefits directly.",
+              "Allows easy deposits, withdrawals, and remittances.",
+              "Access to loans and credit facilities."
+            ]
+          },
+          {
+            "question": "What is EBT?",
+            "answer": "Electronic Benefit Transfer (EBT) is the digital transfer of social security benefits like pensions, wages, and subsidies directly into bank accounts."
+          },
+          {
+            "question": "What is remittance?",
+            "answer": "Remittance is the transfer of money from one place to another, which can be done safely and efficiently through banks."
+          },
+          {
+            "question": "What is interest?",
+            "answer": [
+              "Interest is the extra amount earned on savings or the cost paid on borrowed money.",
+              "Banks pay interest on deposits and charge interest on loans."
+            ]
+          },
+          {
+            "question": "What are different types of deposit accounts?",
+            "answer": [
+              "Savings Deposit - Allows withdrawals anytime and earns interest.",
+              "Term Deposit - Fixed period deposit with higher interest.",
+              "Recurring Deposit - Regular deposits over time to accumulate savings."
+            ]
+          },
+          {
+            "question": "How can we open a savings bank account?",
+            "answer": "By filling out an account opening form and submitting identity and address proof as per KYC requirements."
+          },
+          {
+            "question": "What is a Basic Savings Bank Deposit Account?",
+            "answer": "A no-minimum balance savings account with free deposits, withdrawals, passbook, and ATM/smart card facilities."
+          },
+          {
+            "question": "What is KYC?",
+            "answer": "Know Your Customer (KYC) is a process where banks verify identity and address proof before opening accounts."
+          },
+          {
+            "question": "What is BC (Business Correspondent)?",
+            "answer": "A BC is an agent appointed by banks to provide banking services in areas without bank branches, using mobile banking devices."
+          },
+          {
+            "question": "What is an Overdraft?",
+            "answer": "An overdraft is a small loan facility linked to a savings account for emergency financial needs without separate documentation."
+          },
+          {
+            "question": "What is the difference between income and credit?",
+            "answer": "Income is money earned, while credit (loan) must be repaid with interest and should not be treated as earnings."
+          },
+          {
+            "question": "When should we borrow?",
+            "answer": [
+              "When expenditure exceeds income and there are no savings.",
+              "For productive purposes like business investments.",
+              "In emergencies when there is no other option."
+            ]
+          },
+          {
+            "question": "Should we always borrow whenever short of money?",
+            "answer": [
+              "No, borrowing for unnecessary expenses like festivals or luxury items should be avoided.",
+              "Loans should be taken only when repayment is possible from future income."
+            ]
+          },
+          {
+            "question": "Why is it advisable to borrow only for income-generating activities?",
+            "answer": "Borrowing should be for activities that increase earnings so that loans can be repaid without financial strain."
+          },
+          {
+            "question": "Why borrow within limits?",
+            "answer": "Borrow only an amount that can be repaid comfortably without financial burden."
+          },
+          {
+            "question": "Why take a loan from a bank when informal sources like money lenders are readily available in the village?",
+            "answer": [
+              "Banks are safer, more reliable, and transparent institutions regulated by the Reserve Bank of India (RBI).",
+              "Banks charge lower interest rates than informal sources like moneylenders, vishi, mukhiya, etc.",
+              "Banks provide proper documentation for loans, ensuring clarity and fairness.",
+              "In case of disputes, banks offer a Grievance Redressal Mechanism."
+            ]
+          },
+          {
+            "question": "What is the Grievance Redressal Mechanism of banks?",
+            "answer": [
+              "Every bank has a Grievance Redressal Officer whose details are published in bank branches and websites.",
+              "Complaints can be lodged with the bank’s Grievance Redressal Officer.",
+              "If not satisfied with the resolution, complaints can be escalated to the Banking Ombudsman of RBI."
+            ]
+          },
+          {
+            "question": "Is similar Grievance Redressal Mechanism available in case of formal sources?",
+            "answer": "No, informal sources do not have a grievance redressal mechanism, making them less transparent and riskier."
+          },
+          {
+            "question": "Why do banks sometimes take longer to give loans compared to money lenders?",
+            "answer": [
+              "Banks lend depositors’ money and must ensure proper utilization by borrowers.",
+              "Banks conduct detailed scrutiny before sanctioning loans to protect depositors' funds.",
+              "Though the process takes longer, it ensures fairness and prevents fraud."
+            ]
+          },
+          {
+            "question": "What are the types of loans offered by banks?",
+            "answer": [
+              "Housing loans",
+              "Education loans",
+              "Agriculture and related activity loans",
+              "Business enterprise loans",
+              "Consumption loans"
+            ]
+          },
+          {
+            "question": "How can I get a loan from a bank?",
+            "answer": [
+              "Submit a loan application indicating the purpose of the loan.",
+              "The bank verifies details and evaluates the repayment capacity.",
+              "If approved, the loan is sanctioned and must be repaid in installments with interest."
+            ]
+          },
+          {
+            "question": "What is the cost of borrowing from banks?",
+            "answer": [
+              "Interest charged on borrowed money is the cost of borrowing.",
+              "Banks transparently display interest rates and charges, which are uniform for all customers.",
+              "Unlike informal lenders, banks disclose real borrowing costs upfront."
+            ]
+          },
+          {
+            "question": "Do we have to offer some guarantee for the loan?",
+            "answer": [
+              "Small loans may not require a guarantee.",
+              "Higher amounts may require collateral such as land, house, or assets created using the loan."
+            ]
+          },
+          {
+            "question": "Why should we repay the loan?",
+            "answer": [
+              "Banks use depositors' money for lending; non-repayment weakens the bank’s financial position.",
+              "Repaying loans ensures banks can return depositors' money on time.",
+              "Only if we repay loans, banks will sanction us loans in the future."
+            ]
+          },
+          {
+            "question": "What if we do not repay the loan taken from the bank?",
+            "answer": [
+              "The bank has the right to take possession of the security offered as collateral.",
+              "The bank can initiate legal proceedings to recover the loan amount along with interest."
+            ]
+          },
+          {
+            "question": "What is the difference between needs and wants?",
+            "answer": [
+              "Needs are essential for survival, such as food, shelter, and clothing.",
+              "Wants are non-essential and can be postponed or avoided, such as luxury items or entertainment."
+            ]
+          },
+          {
+            "question": "What is budgeting?",
+            "answer": [
+              "Budgeting is the process of balancing income and expenses to ensure that expenses are always less than income.",
+              "It helps in saving and investing for future needs."
+            ]
+          },
+          {
+            "question": "What are the common sources of borrowing?",
+            "answer": [
+              "Banks and financial institutions",
+              "Non-Banking Financial Institutions",
+              "Friends and family"
+            ]
+          },
+          {
+            "question": "What are the main types of bank accounts?",
+            "answer": [
+              "Savings Account: Offers interest on deposits and has limited withdrawals.",
+              "Current Account: Meant for businesses with no restrictions on deposits and withdrawals."
+            ]
+          },
+          {
+            "question": "Can minors open a savings account?",
+            "answer": [
+              "Yes, a minor can open a savings account with a guardian.",
+              "Minors above 10 years can independently operate a savings account."
+            ]
+          },
+          {
+            "question": "What are recurring deposits (RDs)?",
+            "answer": [
+              "Recurring Deposits allow fixed monthly deposits for a specified period.",
+              "The total amount, along with interest, is repaid at the end of the term."
+            ]
+          },
+          {
+            "question": "What are fixed deposits (FDs)?",
+            "answer": [
+              "Fixed Deposits are made for a particular period ranging from 7 days to 10 years.",
+              "The interest rate depends on the term and amount of the deposit.",
+              "Withdrawals before maturity may be allowed with penalties."
+            ]
+          },
+          {
+            "question": "What are the different types of loans offered by banks?",
+            "answer": [
+              "Personal Loan: Used for emergencies like medical or marriage expenses.",
+              "Vehicle Loan: Provided for purchasing a vehicle, which remains hypothecated to the bank.",
+              "Home Loan: Helps individuals buy homes with long-term repayment options.",
+              "Education Loan: Funds higher studies and is repaid after course completion.",
+              "Agricultural Loan: Supports farmers in purchasing equipment and seeds."
+            ]
+          },
+          {
+            "question": "What is investment?",
+            "answer": [
+              "Investment is the allocation of money into assets with the expectation of earning returns over time.",
+              "Common investments include land, stocks, mutual funds, and fixed deposits."
+            ]
+          },
+          {
+            "question": "What is a mutual fund?",
+            "answer": [
+              "A mutual fund pools money from multiple investors and invests in securities.",
+              "It helps in diversification, reducing risk, and providing professional fund management.",
+              "Mutual funds are regulated by SEBI (Securities and Exchange Board of India)."
+            ]
+          },
+          {
+            "question": "What are the types of mutual fund schemes?",
+            "answer": [
+              "Growth/Equity-Oriented Scheme: Focuses on long-term capital appreciation with higher risks.",
+              "Income/Debt-Oriented Scheme: Aims to provide steady income by investing in fixed-income securities."
+            ]
+          },
+          {
+            "question": "What is insurance?",
+            "answer": [
+              "Insurance is a financial arrangement that provides protection against unforeseen risks like accidents, illness, and death.",
+              "It includes life insurance and general insurance (health, vehicle, property, etc.)."
+            ]
+          },
+          {
+            "question": "What is the National Pension System (NPS)?",
+            "answer": [
+              "NPS is a government-backed pension scheme aimed at providing financial stability during retirement.",
+              "It is open to all citizens aged 18-60 and requires a minimum yearly saving of Rs. 500."
+            ]
+          },
+          {
+            "question": "What is Vidya Lakshmi?",
+            "answer": [
+              "Vidya Lakshmi (https://www.vidyalakshmi.co.in) is a government portal for students seeking education loans.",
+              "It allows students to apply to multiple banks through a single platform."
+            ]
+          },
+          {
+            "question": "Who regulates the financial sector in India?",
+            "answer": [
+              "Reserve Bank of India (RBI): Regulates monetary policy and banking.",
+              "Securities and Exchange Board of India (SEBI): Regulates stock markets and securities.",
+              "Insurance Regulatory and Development Authority of India (IRDAI): Regulates the insurance sector.",
+              "Pension Fund Regulatory and Development Authority (PFRDA): Regulates pension funds."
+            ]
+          },
+          {
+            "question": "What are the functions of the Reserve Bank of India (RBI)?",
+            "answer": [
+              "Issues currency and ensures adequate supply of genuine notes.",
+              "Acts as a banker to the government and banks.",
+              "Regulates monetary policy to maintain price stability and economic growth.",
+              "Ensures financial stability by supervising the banking system."
+            ]
+          },
+          {
+            "question": "Can entrepreneurs get loans without collateral?",
+            "answer": [
+              "Yes, under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) scheme, entrepreneurs can get loans without collateral.",
+              "The scheme is a joint initiative of the Ministry of MSME and SIDBI to provide credit to MSEs without the need for collateral or third-party guarantees."
+            ]
+          },
+          {
+            "question": "Where can entrepreneurs find more details about collateral-free loans?",
+            "answer": [
+              "Entrepreneurs can visit www.cgtmse.in and www.dcmsme.gov.in for more information about the CGTMSE scheme before applying for a loan."
+            ]
+          },
+          {
+            "question": "What is the General Credit Card (GCC)?",
+            "answer": [
+              "GCC is a facility that provides credit to non-farm entrepreneurs for both working capital and term loan requirements.",
+              "It is issued as a smart card or debit card and can be used at ATMs and swipe machines.",
+              "The borrowing limit and interest rates are determined by the bank."
+            ]
+          },
+          {
+            "question": "What are the steps in the loan application process?",
+            "answer": [
+              "Step 1: Prepare a business plan and funds requirement estimate.",
+              "Step 2: Apply online at https://udyamimitra.in/ or visit a bank directly.",
+              "Step 3: Get a loan application number and acknowledgment.",
+              "Step 4: Respond to queries from the bank and track the application for approval or rejection."
+            ]
+          },
+          {
+            "question": "What are the BCSBI-prescribed timelines for loan applications?",
+            "answer": [
+              "For MSE loan applications up to Rs. 5 lakhs: 2 weeks.",
+              "For credit limits above Rs. 5 lakhs and up to Rs. 25 lakhs: 3 weeks."
+            ]
+          },
+          {
+            "question": "What is the difference between financing with own capital and taking a loan?",
+            "answer": [
+              "When financing with own capital, all profits remain with the entrepreneur but growth may be slower.",
+              "Taking a loan allows expansion and business growth but requires interest payments and timely repayments."
+            ]
+          },
+          {
+            "question": "What is cash credit against hypothecation of stock?",
+            "answer": [
+              "Cash credit is a type of loan where a business borrows against self-liquidating security like stock.",
+              "The business only withdraws the amount needed, and interest is charged only on the outstanding amount."
+            ]
+          },
+          {
+            "question": "What is receivables financing?",
+            "answer": [
+              "Receivables financing allows businesses to get loans based on payments expected from customers (debtors).",
+              "The bank provides finance after deducting a margin, and interest is charged only on the outstanding amount."
+            ]
+          },
+          {
+            "question": "What is depreciation, and why is it important?",
+            "answer": [
+              "Depreciation is the reduction in the value of a fixed asset over time due to wear and tear.",
+              "It helps businesses allocate the cost of an asset over its useful life and ensures proper financial reporting."
+            ]
+          },
+          {
+            "question": "What are term loans?",
+            "answer": [
+              "Term loans are long-term loans taken for specific purposes, such as purchasing fixed assets.",
+              "They are repaid in installments over a period of time, typically more than one year."
+            ]
+          },
+          {
+            "question": "What should entrepreneurs do if their business is under financial stress?",
+            "answer": [
+              "They should proactively approach their bank or the district-level committee for financial restructuring or additional support.",
+              "Options include rectification, restructuring, or recovery, depending on the viability of the business."
+            ]
+          },
+          {
+            "question": "What is the Trade Receivables Discounting System (TReDS)?",
+            "answer": [
+              "TReDS is a platform where entrepreneurs can discount their receivables to address delayed payments from buyers.",
+              "Entities like RXIL, Mynd Solution, and A.TReDS operate the platform under RBI regulations."
+            ]
+          },
+          {
+            "question": "What are Certified Credit Counsellors (CCCs)?",
+            "answer": [
+              "CCCs are professionals registered by SIDBI who assist entrepreneurs in preparing business proposals and maintaining financial documents.",
+              "A list of CCCs is available at https://udyamimitra.in/Home/CCC."
+            ]
+          },
+          {
+            "question": "What is the KYC requirement for opening a savings bank account for a Self-help Group (SHG)?",
+            "answer": [
+              "KYC verification of all SHG members is not required; only the office-bearers need to undergo KYC verification.",
+              "A resolution authorizing office-bearers to open the account on behalf of the SHG must be submitted."
+            ]
+          },
+          {
+            "question": "How is the loan amount determined for an SHG?",
+            "answer": [
+              "The bank may sanction a loan based on the SHG’s total corpus.",
+              "Generally, the loan amount can be 1 to 4 times the corpus.",
+              "If the corpus is Rs. 10,000, the loan can be between Rs. 10,000 and Rs. 40,000."
+            ]
+          },
+          {
+            "question": "Is collateral required for SHG loans?",
+            "answer": [
+              "No, banks are not required to obtain collateral security for loans given to SHGs."
+            ]
+          },
+          {
+            "question": "Can SHGs receive loans greater than four times their corpus?",
+            "answer": [
+              "Yes, if the SHG has been functioning successfully for many years, has repaid past loans on time, and has used credit facilities responsibly."
+            ]
+          },
+          {
+            "question": "What are the types of savings contributions in an SHG?",
+            "answer": [
+              "SHG members contribute compulsory savings at periodic meetings.",
+              "Members can also voluntarily contribute additional savings beyond the fixed amount."
+            ]
+          },
+          {
+            "question": "What are the benefits of voluntary savings in SHGs?",
+            "answer": [
+              "Voluntary savings can be kept separately or added to the group corpus.",
+              "If added to the group corpus, it increases the SHG’s eligibility for higher loans from banks."
+            ]
+          },
+          {
+            "question": "What are the key principles of SHGs regarding periodic meetings?",
+            "answer": [
+              "Meetings should be held regularly, preferably weekly, but can also be fortnightly or monthly.",
+              "Regular attendance strengthens the SHG and helps members understand each other’s challenges."
+            ]
+          },
+          {
+            "question": "Why is periodic savings important for SHGs?",
+            "answer": [
+              "Regular savings help build a strong common fund, reducing dependence on moneylenders.",
+              "A higher group corpus allows members to meet their financial needs through internal lending."
+            ]
+          },
+          {
+            "question": "What is internal lending in SHGs?",
+            "answer": [
+              "Once an SHG accumulates enough savings, members can borrow against their savings for emergencies or income-generating activities.",
+              "The group decides the loan amount, interest rate, and repayment schedule."
+            ]
+          },
+          {
+            "question": "Why is regular loan repayment important in SHGs?",
+            "answer": [
+              "Timely repayment maintains trust and creditworthiness.",
+              "Delayed payments result in higher interest costs and poor credit scores, making future borrowing difficult."
+            ]
+          },
+          {
+            "question": "What is a credit score, and why is it important for SHG members?",
+            "answer": [
+              "A credit score is a numerical representation of a person’s creditworthiness, ranging from 300 to 900.",
+              "Higher scores indicate better repayment history, making it easier to access future loans."
+            ]
+          },
+          {
+            "question": "Why is bookkeeping important for SHGs?",
+            "answer": [
+              "It ensures transparency and builds trust among members.",
+              "It helps assess the financial health of the group, track savings, loans, and repayments.",
+              "Proper records enhance the SHG’s creditworthiness and make it eligible for loans from banks."
+            ]
+          },
+          {
+            "question": "What is meant by financial literacy?",
+            "answer": "Financial literacy is providing knowledge and skills to poor people to help them make informed decisions about expenditures, savings, investments, credit, insurance, and financial services such as remittances and pensions."
+          },
+          {
+            "question": "What is the need for financial literacy in Self-help Groups (SHGs)?",
+            "answer": "SHGs work towards poverty alleviation and development of poor families by providing financial services such as savings, credit, and insurance. Financial literacy helps SHG members make informed decisions about managing money effectively."
+          },
+          {
+            "question": "How is financial literacy related to poverty alleviation?",
+            "answer": "Poor financial decisions can lead to exploitation, high-interest loans, asset loss, child labor, and health risks. Financial literacy helps people take better financial decisions, preventing them from falling deeper into poverty."
+          },
+          {
+            "question": "How is financial management done in a family?",
+            "answer": "Financial management in a family involves setting aside money from income, taking loans when needed, and buying assets. Poor families have limited choices and must plan their finances carefully to meet financial goals."
+          },
+          {
+            "question": "What are needs and wants?",
+            "answer": "Needs are essential for survival, such as food, water, and shelter. Wants are things that improve life but are not essential, such as a television or motorbike."
+          },
+          {
+            "question": "What are the different types of needs?",
+            "answer": [
+              "Lifecycle Needs: Weddings, funerals, childbirth, education, house construction, and old age.",
+              "Personal Emergencies: Sickness, injury, unemployment, theft, or death.",
+              "Disasters: Fires, floods, cyclones, war, and eviction.",
+              "Investment Opportunities: Expanding a business, buying land, or improving housing."
+            ]
+          },
+          {
+            "question": "How do people fulfill their financial needs?",
+            "answer": "Poor people use creative ways like saving livestock, grains, and jewelry. They may save up before making purchases or borrow and repay after meeting the need."
+          },
+          {
+            "question": "What is the difference between saving, credit, and insurance?",
+            "answer": [
+              "Saving: Setting aside money regularly for future needs.",
+              "Credit: Spending upfront and repaying in small amounts later with interest.",
+              "Insurance: Paying premiums to cover uncertain risks and losses."
+            ]
+          },
+          {
+            "question": "Why should saving be regular and continuous?",
+            "answer": "Regular savings reflect financial discipline and creditworthiness. It helps in financial planning and ensures funds are available for emergencies and future needs."
+          },
+          {
+            "question": "How can one save?",
+            "answer": "Savings can be in cash or kind (grains, fiber, oil, seeds). It should be planned as the first expenditure of the household, ensuring savings align with financial goals."
+          },
+          {
+            "question": "How much should one save?",
+            "answer": "Savings depend on individual needs, expenses, and income. A minimum of 25% of household income should ideally be saved for future needs."
+          },
+          {
+            "question": "Where should we save?",
+            "answer": [
+              "Informal methods: Keeping money at home, local chits, informal groups.",
+              "Formal methods: Post office savings, commercial banks, and SHGs for secure savings with potential for loans."
+            ]
+          },
+          {
+            "question": "What criteria should be considered when choosing a savings product or institution?",
+            "answer": [
+              "Safety and security of money.",
+              "Proximity to the saver’s location.",
+              "Potential returns and preservation of value.",
+              "Ease of depositing and withdrawing money.",
+              "Availability of credit facilities linked to savings."
+            ]
+          },
+          {
+            "question": "What are the savings schemes available in commercial banks?",
+            "answer": [
+              "Savings Bank Account: Meant for individuals who wish to deposit small amounts and earn interest.",
+              "Recurring Deposit Account: Requires fixed periodic deposits for a specified period, accumulating interest.",
+              "Fixed Deposit Account: A lump sum deposit for a fixed period earning higher interest.",
+              "Basic Savings Bank Deposit Account: A no-frills account for low-income individuals with no minimum balance requirement."
+            ]
+          },
+          {
+            "question": "What documents are required to open a savings bank account?",
+            "answer": [
+              "Identity proof: Passport, PAN card, Voter ID, Aadhaar, Driving License, etc.",
+              "Address proof: Utility bills, Bank statements, Employer letter, Ration card, etc."
+            ]
+          },
+          {
+            "question": "What is a Basic Savings Bank Deposit Account?",
+            "answer": [
+              "Eligibility: Individuals earning Rs. 5,000 per month or less.",
+              "No minimum balance requirement.",
+              "Limited withdrawals allowed per month.",
+              "ATM-cum-debit card provided without charge."
+            ]
+          },
+          {
+            "question": "What are the savings products available in SHGs?",
+            "answer": [
+              "Regular Savings: Members contribute a fixed amount regularly, similar to a bank savings account.",
+              "Diversified Savings: Similar to recurring deposits, where members save for specific planned needs.",
+              "Current Savings: Allows frequent deposits and withdrawals without earning interest."
+            ]
+          },
+          {
+            "question": "What are the benefits of saving in an SHG?",
+            "answer": [
+              "Savings are managed by the members themselves.",
+              "Convenient doorstep saving facility.",
+              "Members decide interest rates and loan disbursement rules.",
+              "Higher savings lead to larger loans from banks."
+            ]
+          },
+          {
+            "question": "What are the savings schemes available in the Post Office?",
+            "answer": [
+              "Post Office Savings Account: Functions like a bank savings account with easy withdrawals.",
+              "Post Office Recurring Deposit: Regular fixed deposits for a period, earning interest.",
+              "Post Office Time Deposit: Similar to a bank fixed deposit, earning higher interest for longer terms."
+            ]
+          },
+          {
+            "question": "How to open a Post Office Savings Account?",
+            "answer": [
+              "Minimum deposit of Rs. 20 is required.",
+              "Accounts can be opened individually or jointly.",
+              "Depositor introduction is necessary for account opening."
+            ]
+          },
+          {
+            "question": "Why do people need credit?",
+            "answer": [
+              "When they do not have money during emergencies (e.g., sickness, death of cattle).",
+              "When they experience a deficit cash flow in a specific period (e.g., dairy farmers needing funds during dry periods).",
+              "When they need money to invest in a business or income-generating activity.",
+              "When they are affected by disasters such as droughts or floods."
+            ]
+          },
+          {
+            "question": "Where do people get credit?",
+            "answer": [
+              "Money lenders",
+              "Friends and relatives",
+              "Associations and societies",
+              "Commercial and cooperative banks",
+              "Self-help Groups (SHGs)"
+            ]
+          },
+          {
+            "question": "Where should poor households avail credit from?",
+            "answer": "For small consumption and livelihood needs, poor households can take credit from SHGs, while for larger enterprise loans, they can approach commercial and cooperative banks."
+          },
+          {
+            "question": "What are the loan products available in commercial and cooperative banks?",
+            "answer": [
+              "Short-term loans (Demand loans)",
+              "Long-term loans (Term loans for agriculture, education, business, housing, etc.)",
+              "Cash credit",
+              "Overdraft facilities"
+            ]
+          },
+          {
+            "question": "What is a short-term loan?",
+            "answer": "A short-term loan, also known as a demand loan, is repayable on demand or at short notice. The entire amount is disbursed at once, and the borrower can repay in lump sum or as agreed with the bank."
+          },
+          {
+            "question": "What is a long-term loan?",
+            "answer": "A long-term loan is granted for more than one year, usually between 5 to 15 years, for purposes such as agriculture, housing, education, or business expansion. Repayment is done in fixed installments."
+          },
+          {
+            "question": "What is cash credit?",
+            "answer": "Cash credit is an arrangement where the bank allows a borrower to withdraw funds up to a certain limit. Interest is charged only on the amount drawn, not on the total limit."
+          },
+          {
+            "question": "What is an overdraft facility?",
+            "answer": "An overdraft facility allows a current account holder to withdraw money beyond their available balance. Interest is charged on the amount used, and repayment is flexible."
+          },
+          {
+            "question": "What is the cost of credit, and how is interest charged on loans?",
+            "answer": [
+              "Interest rates on loans vary between formal institutions (banks) and informal sources (money lenders).",
+              "Flat rate: Interest is charged on the total loan amount throughout the loan period.",
+              "Diminishing balance: Interest is charged only on the remaining principal balance, making it more affordable."
+            ]
+          },
+          {
+            "question": "How do SHGs provide credit to their members?",
+            "answer": [
+              "SHGs offer credit for various needs, such as emergencies, housing, and small businesses.",
+              "Loan eligibility, interest rates, and repayment schedules are decided by the SHG.",
+              "SHGs prioritize responsible lending and repayment."
+            ]
+          },
+          {
+            "question": "What are the benefits of availing credit from SHGs?",
+            "answer": [
+              "Low interest rates",
+              "Simple and easy loan procedures",
+              "Flexible repayment schedules",
+              "No transaction costs as loans are provided at the doorstep",
+              "Building creditworthiness for future bank loans"
+            ]
+          },
+          {
+            "question": "What factors should be considered when choosing a source of credit?",
+            "answer": [
+              "Timely availability of credit",
+              "Low interest rates",
+              "Simple loan application process",
+              "Proximity to the lender",
+              "Flexible repayment terms",
+              "Minimal documentation requirements"
+            ]
+          },
+          {
+            "question": "What is credit discipline and why is it important?",
+            "answer": "Credit discipline refers to using borrowed funds for the intended purpose and repaying loans on time. It helps in building trust with banks and ensures continued access to credit."
+          },
+          {
+            "question": "What happens if loans are not repaid on time?",
+            "answer": "Unpaid loans become Non-Performing Assets (NPA), making it difficult for banks to lend money. It also affects the borrower’s creditworthiness and future borrowing ability."
+          },
+          {
+            "question": "What is insurance?",
+            "answer": "Insurance is a form of risk management that protects against financial loss due to unexpected events like illness, accidents, or death."
+          },
+          {
+            "question": "Why is insurance important for poor households?",
+            "answer": "Poor households face risks like illness, natural disasters, and loss of earning members. Insurance provides financial protection and prevents them from falling deeper into poverty."
+          },
+          {
+            "question": "How can poor people buy insurance?",
+            "answer": [
+              "Through group insurance policies offered by SHGs.",
+              "Corporate agency model: SHGs collaborate with insurance companies to provide coverage.",
+              "Mutual solutions: SHG members contribute collectively to manage risks."
+            ]
+          },
+          {
+            "question": "What are the different types of insurance products available?",
+            "answer": [
+              "Life insurance",
+              "Health insurance",
+              "Livestock insurance",
+              "Crop insurance"
+            ]
+          },
+          {
+            "question": "What is life insurance?",
+            "answer": "Life insurance provides financial support to the family of the insured person in case of their death or critical illness. Policies like Janashree Bima Yojana offer coverage to poor households."
+          },
+          {
+            "question": "What is health insurance?",
+            "answer": "Health insurance covers medical expenses, including hospitalization. The Universal Health Insurance Scheme provides coverage for poor households."
+          },
+          {
+            "question": "What is livestock insurance?",
+            "answer": "Livestock insurance protects farmers from financial loss due to the death of cattle or other livestock."
+          },
+          {
+            "question": "What is crop insurance?",
+            "answer": "Crop insurance protects farmers from financial loss due to natural disasters like droughts or floods. The Varsha Bima scheme provides coverage for anticipated rainfall shortfalls."
+          },
+          {
+            "question": "How can farmers buy crop insurance under the Varsha Bima scheme?",
+            "answer": "Farmers can enroll through Rural Financial Institutions (RFIs), SHGs, and NGOs. The insurance covers crop loss due to insufficient rainfall."
+          },
+          {
+            "question": "What role do NGOs play in providing insurance to poor households?",
+            "answer": [
+              "Ensuring that poor people receive benefits from government social security schemes.",
+              "Helping SHG members enroll in contributory insurance schemes like Janashree Bima Yojana."
+            ]
+          },
+          {
+            "question": "What is pension?",
+            "answer": "Pension is a type of insurance that provides income security to individuals in their old age. Unlike life insurance, which covers the financial risks associated with death, pension covers the financial risks associated with living longer."
+          },
+          {
+            "question": "Why is pension important?",
+            "answer": [
+              "The number of elderly people is increasing worldwide, with India set to have nearly 198 million elderly individuals by 2030.",
+              "Many elderly people, especially those from the unorganized sector, do not have access to social security schemes.",
+              "Pension ensures financial stability for aged individuals, reducing economic struggles and dependency."
+            ]
+          },
+          {
+            "question": "What pension products are available for the poor in India?",
+            "answer": [
+              "Micro pension product of UTI",
+              "Pension products from LIC (e.g., Jeevan Nidhi, Jeevan Akshay, New Jeevan Dhara-I, New Jeevan Suraksha-I)",
+              "NPS-Lite (National Pension System for economically disadvantaged individuals)"
+            ]
+          },
+          {
+            "question": "What is NPS-Lite?",
+            "answer": [
+              "NPS-Lite is a pension scheme regulated by the Pension Fund Regulatory and Development Authority (PFRDA) for individuals from the economically disadvantaged sections of society.",
+              "It allows individuals to contribute small amounts during their earning years and receive a pension after retirement.",
+              "It is a low-cost pension option with regulated investment norms."
+            ]
+          },
+          {
+            "question": "What are the benefits of joining NPS-Lite?",
+            "answer": [
+              "Voluntary participation for Indian citizens aged 18-60.",
+              "Affordable with contributions as low as Rs.100 per month.",
+              "Portable across India, allowing individuals to maintain their pension accounts even when relocating.",
+              "Safe and regulated by PFRDA.",
+              "Optimized for low-income individuals with ultra-low costs."
+            ]
+          },
+          {
+            "question": "What role do NGOs play in enabling pension schemes for the poor?",
+            "answer": [
+              "Identifying social security programs for the poor and ensuring their enrollment.",
+              "Assisting in documentation and application for pension schemes.",
+              "Educating individuals on the importance of pension and financial planning for old age."
+            ]
+          },
+          {
+            "question": "What is remittance?",
+            "answer": "Remittance refers to the transfer of money from one person to another. It can be a simple money transfer (e.g., sending money to family) or a transfer for making payments (e.g., salary payments)."
+          },
+          {
+            "question": "Why is remittance important for low-income households?",
+            "answer": [
+              "Many workers migrate for seasonal employment and need to send money back to their families in rural areas.",
+              "Remittances help meet household consumption needs and support investments in agriculture and small businesses.",
+              "Lack of formal remittance options forces many people to rely on informal and expensive methods of money transfer."
+            ]
+          },
+          {
+            "question": "What are the formal ways of sending remittances in India?",
+            "answer": [
+              "Bank money transfers (including electronic and paper-based transactions).",
+              "Postal remittance services (e.g., Money Orders, Instant Money Orders).",
+              "Business Correspondents (BCs) facilitating remittance services.",
+              "Mobile banking transactions through banks and telecom companies."
+            ]
+          },
+          {
+            "question": "What are the informal ways of sending remittances?",
+            "answer": [
+              "Sending money through friends and family traveling home.",
+              "Using informal agents or couriers who charge a commission for money delivery.",
+              "Hawala system, where intermediaries facilitate cross-border or local money transfers without formal banking involvement."
+            ]
+          },
+          {
+            "question": "How do banks facilitate remittance transfers?",
+            "answer": [
+              "Paper-based systems such as cheques and demand drafts.",
+              "Electronic systems like Real-Time Gross Settlement (RTGS), Electronic Clearing System (ECS), and National Electronic Funds Transfer (NEFT).",
+              "ATM/debit/credit card-based money transfers."
+            ]
+          },
+          {
+            "question": "How does postal remittance work in India?",
+            "answer": [
+              "India Post provides money transfer services through Money Orders and Instant Money Orders.",
+              "Recipients receive money at their doorstep or collect it from the post office.",
+              "Although reliable, postal remittances can sometimes take time to process."
+            ]
+          },
+          {
+            "question": "How does mobile banking help in remittances?",
+            "answer": [
+              "Banks allow customers to transfer money using mobile phones, reducing the need for physical bank visits.",
+              "Transactions can be done through SMS-based services or mobile banking apps.",
+              "Mobile banking is cost-effective and secure, reducing dependency on cash transactions."
+            ]
+          },
+          {
+            "question": "What is the transaction limit for mobile banking in India?",
+            "answer": [
+              "A daily limit of Rs. 50,000 per customer for fund transfers and purchases.",
+              "For cash disbursement via ATMs or Business Correspondents, the limit is Rs. 5,000 per transaction."
+            ]
+          },
+          {
+            "question": "What is the role of Business Correspondents (BCs) in remittances?",
+            "answer": [
+              "BCs act as intermediaries between banks and unbanked individuals.",
+              "They provide mobile banking solutions to enable money transfers in remote areas.",
+              "They help individuals open bank accounts and facilitate financial transactions."
+            ]
+          },
+          {
+            "question": "What are the risks of using informal remittance channels?",
+            "answer": [
+              "Higher costs due to commissions charged by agents.",
+              "Lack of security and risk of fraud or robbery.",
+              "Delays in money transfer and lack of proper documentation."
+            ]
+          },
+          {
+            "question": "Why should people use formal remittance channels?",
+            "answer": [
+              "Security: Money transfers are legally protected and regulated.",
+              "Affordability: Formal channels like banks and postal services have lower transaction costs.",
+              "Reliability: Transactions are recorded, and funds reach recipients safely."
+            ]
+          },
+          {
+            "question": "What is the need for Business Correspondents (BCs) and Business Facilitators (BFs) in India?",
+            "answer": [
+              "Despite various initiatives such as nationalization of banks, Regional Rural Banks (RRBs), and the SHG-Bank linkage program, a significant portion of the rural population still lacks access to banking services.",
+              "Scheduled Commercial Banks (SCBs) cover only 18.4% of the rural population through savings accounts and 17.2% through loan accounts.",
+              "Primary Agricultural Credit Societies (PACS) have a wide presence but limited impact in providing financial services.",
+              "Barriers to banking include high transaction costs, lack of collateral, inadequate financial literacy, and the absence of banking infrastructure in rural areas.",
+              "Informal lending sources, such as moneylenders, continue to dominate due to their doorstep availability and ease of access."
+            ]
+          },
+          {
+            "question": "What is meant by a Business Facilitator (BF)?",
+            "answer": [
+              "A Business Facilitator is an intermediary appointed by banks to assist in financial services delivery without conducting actual banking transactions.",
+              "They can include NGOs, Farmer Clubs, cooperatives, community-based organizations, post offices, insurance agents, and well-functioning Panchayats.",
+              "Their role involves identifying borrowers, collecting loan applications, creating financial awareness, promoting Self-Help Groups (SHGs), and monitoring loan repayments."
+            ]
+          },
+          {
+            "question": "What are the key functions of a Business Facilitator?",
+            "answer": [
+              "Identifying borrowers and assessing their credit needs.",
+              "Collecting and verifying loan applications.",
+              "Creating awareness about financial products and debt management.",
+              "Submitting processed applications to banks.",
+              "Promoting and supporting SHGs and Joint Liability Groups (JLGs).",
+              "Post-sanction monitoring and loan recovery follow-ups."
+            ]
+          },
+          {
+            "question": "What is meant by a Business Correspondent (BC) model?",
+            "answer": [
+              "Under the Business Correspondent model, certain organizations and individuals are authorized to conduct banking transactions on behalf of banks in areas without physical bank branches.",
+              "BCs can be NGOs, MFIs, cooperatives, NBFCs (not accepting public deposits), post offices, or section 25 companies.",
+              "BCs facilitate financial inclusion by providing doorstep banking services to the underserved population."
+            ]
+          },
+          {
+            "question": "What are the key functions of a Business Correspondent?",
+            "answer": [
+              "Disbursing small-value credit to customers.",
+              "Collecting loan repayments and interest.",
+              "Accepting small-value deposits.",
+              "Selling micro-insurance, mutual funds, pension products, and other third-party financial services.",
+              "Facilitating small-value remittances and other payment instruments."
+            ]
+          },
+          {
+            "question": "How do Business Correspondents differ from Business Facilitators?",
+            "answer": [
+              "Business Facilitators (BFs) provide support services like borrower identification, financial literacy, and loan monitoring but do not handle financial transactions.",
+              "Business Correspondents (BCs) conduct actual banking transactions such as loan disbursement, deposit collection, and payment services.",
+              "BCs act as an extended arm of banks, whereas BFs primarily assist in financial outreach and literacy."
+            ]
+          },
+          {
+            "question": "Why are Business Correspondents important for financial inclusion?",
+            "answer": [
+              "BCs help reach unbanked rural and remote populations by providing financial services at their doorstep.",
+              "They enable small-value transactions, which banks often find unprofitable to handle through traditional branches.",
+              "They reduce reliance on informal lenders by providing affordable credit and savings options.",
+              "BCs improve financial literacy and encourage formal banking habits among low-income households."
+            ]
+          },
+          {
+            "question": "What are the benefits of the Business Correspondent model for banks?",
+            "answer": [
+              "Expands the reach of banks without the need for opening physical branches.",
+              "Reduces operational costs while increasing financial inclusion.",
+              "Enables efficient micro-lending and small-scale financial transactions.",
+              "Helps in achieving regulatory financial inclusion targets set by the Reserve Bank of India (RBI)."
+            ]
+          }
+    ]
+}

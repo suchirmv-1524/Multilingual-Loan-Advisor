@@ -1,0 +1,6 @@
+chatbot.py 
+The functionality of this script is to create a Loan Advisor chatbot that interacts with users in multiple languages. It allows users to input queries either by typing or speaking, detects the language of the input
+
+utils.py 
+This script provides functionality for a chatbot that uses LLM models for speech-to-text and text-to-speech capabilities.
+

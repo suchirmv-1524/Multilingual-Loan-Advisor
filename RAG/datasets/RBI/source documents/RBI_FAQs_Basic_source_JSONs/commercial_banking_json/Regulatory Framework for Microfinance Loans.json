@@ -1,0 +1,66 @@
+[
+    {
+        "question": "Certain aspects of Master Direction on Regulatory Framework for Microfinance Loans may require additional time for drafting of new policies, getting board-level approvals, making changes in technology systems, training of staff, etc. Whether the timeline for complete rollout of these directions may be extended, while keeping the effective date as April 1, 2022?",
+        "answer": "The effective date of these directions is April 1, 2022. However, in view of implementation-related difficulties expressed by some regulated entities (REs), REs are advised to implement these directions completely at the earliest on best effort basis, but not later than October 1, 2022."
+    },
+    {
+        "question": "Whether all members of a household are mandatorily required to become borrowers of a microfinance loan?",
+        "answer": "The directions require assessment of income and indebtedness at household level. There is no requirement of treating all members of the household as applicants/borrowers of a loan which can be provided to an individual member. Board-approved policies of REs may include the methodologies/operational frameworks to assess income and indebtedness of all members of the household."
+    },
+    {
+        "question": "Whether loans for consumption (i.e., for buying gadgets, meeting expenses on ceremonies, etc.) without collateral would be treated as microfinance loans?",
+        "answer": "All collateral-free loans to individual/s belonging to low-income households, i.e., households having annual income up to ₹3,00,000 are treated as microfinance loans."
+    },
+    {
+        "question": "If a loan is backed by hypothecation of any security (gold, equipment, white goods, underlying assets etc.), will this loan be considered collateral-free and classified as a microfinance loan?",
+        "answer": "Loans backed by hypothecation of any security shall not be treated as microfinance loans."
+    },
+    {
+        "question": "Whether the instructions related to limit of 50 per cent on monthly loan repayment obligations of a household as a percentage of monthly household income apply to non-microfinance loans given to low-income households?",
+        "answer": "Yes, for providing a non-microfinance loan to a low-income household (as defined under the directions), it should be ensured that the limit of 50 per cent on monthly loan repayment obligations of a household as a percentage of monthly household income is not breached. In other words, the limit of 50 per cent shall include both microfinance as well as non-microfinance loans."
+    },
+    {
+        "question": "How should credit facilities not having an EMI feature be treated for arriving at total monthly repayment obligations of the household?",
+        "answer": "Board-approved policies of REs should cover such operational aspects. One possible way could be to distribute the annualized repayment obligations over twelve months to estimate monthly outgo of the household towards debt repayment."
+    },
+    {
+        "question": "Can expected income from an asset/activity financed by a microfinance loan be included for estimation of household income?",
+        "answer": "No."
+    },
+    {
+        "question": "What type of insurance charges are to be disclosed in the factsheet and included for computation of effective annualized interest rate? Whether charges related to non-credit products should also be provided in the factsheet?",
+        "answer": "The insurance charges included in the factsheet are only for credit-linked insurance product as these charges are linked to the microfinance loan. A borrower would not have incurred these charges if he had not taken the loan. The factsheet should contain information related to only pricing of microfinance loans to keep it uncluttered. Disclosures related to other non-credit products should be provided separately from the factsheet."
+    },
+    {
+        "question": "Are REs allowed to review and revise interest rates applicable to existing loans during the loan tenure apart from cases of restructured loans?",
+        "answer": "The directions are applicable to loans sanctioned on or after April 1, 2022. Accordingly, pricing of the existing loans of NBFC-MFIs i.e., sanctioned prior to April 1, 2022 shall continue to be as per the guidelines applicable as on March 31, 2022. Other REs were already free to decide pricing of loans sanctioned, they are allowed to review and revise interest rates applicable to the existing loans also, subject to compliance with the relevant guidelines."
+    },
+    {
+        "question": "Is the practice of calling a borrower before 9.00 am and after 6.00 pm being considered as harsh practice only for recovery of overdue loans or also for normal conduct of business?",
+        "answer": "This clause is applicable only for recovery from borrowers having overdue loans. For other borrowers, REs can continue with the existing timing/process for business like group meetings, collection in regular accounts, etc. as per borrowers’ convenience."
+    },
+    {
+        "question": "Is there any specific reason for including a dedicated mechanism for redressal of recovery-related grievances when there is already a customer grievance redress mechanism?",
+        "answer": "The purpose of having a dedicated redress mechanism for recovery-related grievances is that these grievances should be promptly addressed. Treating them as other complaints (e.g., operational issues) may result in delayed action. However, this does not imply that a separate redress mechanism for recovery-related grievances is being mandated. REs can restructure/re-organise the existing customer grievance redress mechanism to identify and promptly address recovery-related grievances."
+    },
+    {
+        "question": "What is the purpose of assessment of household expenses as provided under Annex-I on ‘Indicative Methodology for Household Income Assessment’? Does it mean that household income for computing the limit on loan repayment obligations of a household is the household income net of expenses?",
+        "answer": "Annex I provides only an indicative methodology for assessment of household income, and REs are required to put in place a board-approved policy for household income assessment. References to household expenses and assessment of household profile are only for the purpose of validation of the household income reported by the borrowers."
+    },
+    {
+        "question": "Is the regulatory framework for microfinance loans applicable to all entities operating in the microfinance sector including trusts and societies?",
+        "answer": "The regulatory framework for microfinance loans is applicable only to REs/entities as defined under para 2.14 and para 9.25 of the directions. However, it may be prudent for other lenders operating in the microfinance sector to follow these customer-centric directions."
+    },
+    {
+        "question": "What should a customer keep in mind while availing a microfinance loan?",
+        "answer": "The customer should keep in mind, among others, the following: (a) There is no requirement of keeping any deposit/margin/collateral/primary security with the lender at any stage of the microfinance loan. (b) Lender is required to provide a loan card to the borrower with all necessary details. (c) Purchase of any non-credit products is purely voluntary. (d) Training provided by the lenders is free of cost."
+    },
+    {
+        "question": "What are the charges that a customer is required to pay for a microfinance loan?",
+        "answer": "A customer is required to pay only those charges which are explicitly mentioned in the factsheet provided by the lender. There is no pre-payment penalty on microfinance loans. Penalty for delayed payment can be applied only on the overdue amount and not on the entire loan amount."
+    },
+    {
+        "question": "How can a borrower find about the current interest rates being charged on the microfinance loans?",
+        "answer": "RBI has made it mandatory for lenders to display the minimum, maximum, and average interest rates charged on microfinance loans in all their offices, in the literature issued by them, and on their website."
+    }
+]

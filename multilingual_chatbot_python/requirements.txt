@@ -1,0 +1,6 @@
+openai
+python-dotenv
+langdetect
+streamlit
+audio_recorder_streamlit
+streamlit-float

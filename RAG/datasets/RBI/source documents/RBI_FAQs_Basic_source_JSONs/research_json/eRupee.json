@@ -1,0 +1,97 @@
+{
+    "faqs": [
+      {
+        "question": "What is Digital Rupee?",
+        "answer": "Digital Rupee or eRupee, is India’s Central Bank Digital Currency (CBDC). It is the digital form of India’s physical currency, the Rupee (₹). eRupee is issued by the Reserve Bank of India (RBI) in digital form and offers features similar to physical cash like convenience of use, guarantee of RBI, finality of settlement, etc."
+      },
+      {
+        "question": "How can eRupee be held and used?",
+        "answer": "eRupee can be held and transacted through eRupee wallets offered by banks and non-banks for person-to-person payments or person-to-merchant transactions. Users can download the eRupee app from the Play Store or the App Store and follow the app instructions."
+      },
+      {
+        "question": "What is an eRupee Wallet?",
+        "answer": "eRupee wallet is a digital wallet that stores Digital Rupee, similar to a physical wallet/purse storing cash. It is currently provided by banks and non-banks participating in the retail CBDC pilot."
+      },
+      {
+        "question": "Are eRupee wallets safe?",
+        "answer": "Yes, eRupee wallets are safe and secure. There is a robust cybersecurity framework to ensure security. Even if a mobile device is lost, the wallet can be recovered using the same phone number/SIM on a new device."
+      },
+      {
+        "question": "Which mobile operating system platform does eRupee wallet currently support?",
+        "answer": "eRupee wallet is available and supported on both Android and iOS mobile devices."
+      },
+      {
+        "question": "How is Digital Rupee created and issued?",
+        "answer": "RBI creates and issues eRupee electronically to banks and non-banks, which then distribute it to users via eRupee wallets."
+      },
+      {
+        "question": "Who can use eRupee?",
+        "answer": "Currently, users and merchants of identified pilot banks and non-banks can use eRupee by downloading the eRupee app and registering for an eRupee wallet."
+      },
+      {
+        "question": "Can Digital Rupee be transacted from one’s bank account outside banking hours?",
+        "answer": "Yes. eRupee can be loaded/redeemed/transferred 24/7 from/to a bank account."
+      },
+      {
+        "question": "Is there any minimum balance required to open/maintain an eRupee wallet?",
+        "answer": "No. There is no minimum balance required to open or maintain an eRupee wallet."
+      },
+      {
+        "question": "Is a savings account mandatory for retail customers to use eRupee?",
+        "answer": "Currently, opening an eRupee wallet is linked to the user’s savings account for seamless onboarding and KYC compliance."
+      },
+      {
+        "question": "Why do I see eRupee with different denominations in the wallet?",
+        "answer": "For ease of use, eRupee is available in the same denominations as physical currency to provide familiarity and convenience."
+      },
+      {
+        "question": "How can one transact without having the required denomination or change?",
+        "answer": "The eRupee wallet provides the required change automatically. For example, if a user has only ₹20 but needs to pay ₹15, the wallet will return ₹5 in change."
+      },
+      {
+        "question": "Are there any charges/fees for using eRupee?",
+        "answer": "No, there are no charges or fees associated with using eRupee or eRupee wallets."
+      },
+      {
+        "question": "Will interest be paid on the ₹ balances in the eRupee wallet?",
+        "answer": "No. Similar to physical cash, no interest is paid on eRupee balances."
+      },
+      {
+        "question": "Is eRupee legal tender?",
+        "answer": "Yes, eRupee is legal tender under Section 26 of the Reserve Bank of India (RBI) Act, 1934, and is guaranteed by the Central Government."
+      },
+      {
+        "question": "Is there any difference between eRupee and UPI?",
+        "answer": "Yes. eRupee is a digital form of currency, whereas UPI is a means of transferring money. eRupee can act as a ‘store of value’ and be used independently of a bank account."
+      },
+      {
+        "question": "What is the offline feature of eRupee?",
+        "answer": "The offline feature allows transactions in areas with limited or no internet connectivity. Different offline solutions are currently being tested."
+      },
+      {
+        "question": "What is the programmability feature of eRupee?",
+        "answer": "Programmability allows funds in eRupee wallets to be used for specific purposes, such as Direct Benefits Transfer (DBT) schemes, employee allowances, or government subsidies."
+      },
+      {
+        "question": "Which are the pilot banks currently offering CBDC wallets?",
+        "answer": "Currently, 15 banks are offering CBDC wallets, including SBI, ICICI Bank, HDFC Bank, Axis Bank, and others."
+      },
+      {
+        "question": "What is a Wholesale CBDC and how does it differ from Retail CBDC?",
+        "answer": "Wholesale CBDC (eRupee-W) is designed for financial institutions to streamline interbank settlements and large-value transactions. Retail CBDC (eRupee-R) is meant for the general public for everyday transactions."
+      },
+      {
+        "question": "What are the potential benefits of eRupee-W?",
+        "answer": "eRupee-W can enhance the efficiency, speed, and security of financial transactions, reducing settlement risks through programmability and smart contracts."
+      },
+      {
+        "question": "Which are the participants in the wholesale CBDC pilot?",
+        "answer": "Currently, 14 banks and financial institutions are participating in the wholesale CBDC pilot."
+      },
+      {
+        "question": "What are the current use cases in eRupee-W and what are the benefits?",
+        "answer": "Ongoing use cases include settlement of secondary market transactions in Government Securities and interbank call money market lending, reducing costs and mitigating settlement risks."
+      }
+    ]
+  }
+  

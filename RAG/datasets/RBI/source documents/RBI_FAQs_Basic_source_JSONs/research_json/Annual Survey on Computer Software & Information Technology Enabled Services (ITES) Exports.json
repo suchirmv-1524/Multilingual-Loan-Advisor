@@ -1,0 +1,93 @@
+{
+    "faqs": [
+      {
+        "question": "In which month of the year, the ITES survey is launched by the RBI?",
+        "answer": "The RBI launches the ITES survey during the month of June every year with the previous financial year end-March as the reference date."
+      },
+      {
+        "question": "What is the frequency of this ITES survey?",
+        "answer": "Annual."
+      },
+      {
+        "question": "What is the timeline for the submission in ITES Survey?",
+        "answer": "The respondent companies/LLPs/proprietorship firms can submit their responses on or before July 15 of every year."
+      },
+      {
+        "question": "What is the reference period of this ITES survey?",
+        "answer": "The reference period of an ITES survey round is the immediately preceding financial year (April-March)."
+      },
+      {
+        "question": "What information should be reported in ITES survey, if balance sheet of the company is not audited before the due date of submission?",
+        "answer": "If the company’s accounts are not audited before the due date of submission, i.e. July 15, then the ITES survey schedule should be submitted based on unaudited (provisional) account."
+      },
+      {
+        "question": "In case where account closing period of the company is different from reference period (end-March), can it report the information as per account closing period?",
+        "answer": "No. Even if a company’s account closing period is different from reference period (end-March), the ITES survey information should be reported for the survey reference period, based on the company’s internal assessment."
+      },
+      {
+        "question": "Which entities are required to participate in the ITES survey?",
+        "answer": "Companies/LLPs/Partnership firms in the business of export of computer software & information technology enabled services are required to participate in this survey."
+      },
+      {
+        "question": "Whether ITES survey schedule is required to be submitted by LLPs/proprietorship firms, who have computer software export during the reference period? If yes, then what is the procedure to submit the survey schedule?",
+        "answer": "Since the access to the submission portal is CIN based, any LLP/proprietorship firm that have computer software exports as on end-March of the financial year needs to obtain a dummy CIN Number by sending a request mail on itesquery@rbi.org.in. Once the firm obtains this dummy CIN number from RBI, it can be used to submit the excel (*.xls) file for ITES survey."
+      },
+      {
+        "question": "What information on business activity classification has been covered under this survey?",
+        "answer": "Four major business activities of computer software & information technology enabled services with their sub-classifications are covered under the survey schedule. Details can be found in the survey schedule itself."
+      },
+      {
+        "question": "If the company/LLPs/proprietorship firm does not have export earnings during the reference period, does it need to participate in the survey?",
+        "answer": "Yes. In case the company/LLPs/proprietorship firm doesn’t have export earnings during the reference period, but had the same earlier, then it has to submit NIL survey schedule for the current round of ITES survey."
+      },
+      {
+        "question": "What is the invoicing currency to be reported for exports?",
+        "answer": "Total invoice value must be in Indian Rupees (INR) in actuals (which should also include billing to subsidiary(s)/associate(s)) during the reference period."
+      },
+      {
+        "question": "What is the reporting currency in invoice value in Export-major currencies?",
+        "answer": "Total invoice value must be in Indian Rupees (INR) in actuals (which should also include billing to subsidiary(s)/associate(s) abroad) during the reference period."
+      },
+      {
+        "question": "What is the reporting of currency in invoice value in Export-Type of services?",
+        "answer": "Total invoice value must be in Indian Rupees (INR) in actuals (which should also include billing to subsidiary(s)/associate(s) abroad) as per type of export service."
+      },
+      {
+        "question": "What is the reporting of currency in invoice value in Export-Major Areas?",
+        "answer": "Total invoice value in Indian Rupees (INR) in actuals (including billing to subsidiary(s)/associate(s) abroad) during the reference period to major countries/regional groups."
+      },
+      {
+        "question": "If two or three units of a company are located in India and another unit is located outside India say in UK, then should they participate separately in the ITES survey?",
+        "answer": "Company has to submit only one form aggregating all the units in India. However, for the units abroad, the information should be provided in Part D of the schedule."
+      },
+      {
+        "question": "Should the number of employee information be reported as on end of March of the reference year?",
+        "answer": "Yes, the number of employee information should be reported as on end-March of the reference year."
+      },
+      {
+        "question": "If a company offers services to develop a product for another company in abroad then where should it mention this information in ITES survey schedule?",
+        "answer": "Company has to mention percentage of this service under ‘Offshore product development’ in Q-3 (D) of Part-A and consolidated amount under Q-5 (a-iv) for software products."
+      },
+      {
+        "question": "Which type of expenses should be covered under “total amount spent on office expenses etc. abroad (excluding amount paid to employees abroad) by the Indian company” in Q-7 (iii) of Part-B?",
+        "answer": "Office expenses include all the expenses incurred in running the office abroad during the year like internet payment, stationery, etc. If the office has been set up outside India in the reference period (say 2023-24) then that will also be included."
+      },
+      {
+        "question": "Which amount is to be considered in “Total amount held abroad at the beginning of the reference period by the Indian company” in Q-7 (iv) of Part-B?",
+        "answer": "Total amount held abroad at the beginning of the reference period would mean the outstanding amount that is to be received from abroad (for the exports made) at the beginning of reference period i.e., April 2023-March 2024 (refers to 'as on April 01, 2023')."
+      },
+      {
+        "question": "Which amount is to be considered in the Q-7(v) of Part-B in the ITES survey schedule?",
+        "answer": "The amount held abroad is the outstanding amount which is yet to be received by the company from the importers i.e. unpaid amount for the exports made by the company."
+      },
+      {
+        "question": "The Invoice value includes all the amounts billed to customer, but all the invoice bills are not received in the reference period. Does this mean the actual (realised) amount received within the reference period?",
+        "answer": "Yes, it is the amount actually received (realised) during the reference period including the billing to subsidiaries/associates abroad."
+      },
+      {
+        "question": "Is it required to fill the declaration at the end of the ITES survey schedule?",
+        "answer": "Yes, it is mandatory. The person authorised to fill the form owns the responsibility of information furnished and declares its accuracy including CIN number."
+      }
+    ]
+  }
+  

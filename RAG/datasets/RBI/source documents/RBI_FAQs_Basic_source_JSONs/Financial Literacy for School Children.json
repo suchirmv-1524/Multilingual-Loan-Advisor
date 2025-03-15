@@ -1,0 +1,127 @@
+{
+    "faqs": [
+      {
+        "question": "What is the difference between needs and wants?",
+        "answer": [
+          "Needs are essential for survival, such as food, shelter, and clothing.",
+          "Wants are non-essential and can be postponed or avoided, such as luxury items or entertainment."
+        ]
+      },
+      {
+        "question": "What is budgeting?",
+        "answer": [
+          "Budgeting is the process of balancing income and expenses to ensure that expenses are always less than income.",
+          "It helps in saving and investing for future needs."
+        ]
+      },
+      {
+        "question": "What are the common sources of borrowing?",
+        "answer": [
+          "Banks and financial institutions",
+          "Non-Banking Financial Institutions",
+          "Friends and family"
+        ]
+      },
+      {
+        "question": "What are the main types of bank accounts?",
+        "answer": [
+          "Savings Account: Offers interest on deposits and has limited withdrawals.",
+          "Current Account: Meant for businesses with no restrictions on deposits and withdrawals."
+        ]
+      },
+      {
+        "question": "Can minors open a savings account?",
+        "answer": [
+          "Yes, a minor can open a savings account with a guardian.",
+          "Minors above 10 years can independently operate a savings account."
+        ]
+      },
+      {
+        "question": "What are recurring deposits (RDs)?",
+        "answer": [
+          "Recurring Deposits allow fixed monthly deposits for a specified period.",
+          "The total amount, along with interest, is repaid at the end of the term."
+        ]
+      },
+      {
+        "question": "What are fixed deposits (FDs)?",
+        "answer": [
+          "Fixed Deposits are made for a particular period ranging from 7 days to 10 years.",
+          "The interest rate depends on the term and amount of the deposit.",
+          "Withdrawals before maturity may be allowed with penalties."
+        ]
+      },
+      {
+        "question": "What are the different types of loans offered by banks?",
+        "answer": [
+          "Personal Loan: Used for emergencies like medical or marriage expenses.",
+          "Vehicle Loan: Provided for purchasing a vehicle, which remains hypothecated to the bank.",
+          "Home Loan: Helps individuals buy homes with long-term repayment options.",
+          "Education Loan: Funds higher studies and is repaid after course completion.",
+          "Agricultural Loan: Supports farmers in purchasing equipment and seeds."
+        ]
+      },
+      {
+        "question": "What is investment?",
+        "answer": [
+          "Investment is the allocation of money into assets with the expectation of earning returns over time.",
+          "Common investments include land, stocks, mutual funds, and fixed deposits."
+        ]
+      },
+      {
+        "question": "What is a mutual fund?",
+        "answer": [
+          "A mutual fund pools money from multiple investors and invests in securities.",
+          "It helps in diversification, reducing risk, and providing professional fund management.",
+          "Mutual funds are regulated by SEBI (Securities and Exchange Board of India)."
+        ]
+      },
+      {
+        "question": "What are the types of mutual fund schemes?",
+        "answer": [
+          "Growth/Equity-Oriented Scheme: Focuses on long-term capital appreciation with higher risks.",
+          "Income/Debt-Oriented Scheme: Aims to provide steady income by investing in fixed-income securities."
+        ]
+      },
+      {
+        "question": "What is insurance?",
+        "answer": [
+          "Insurance is a financial arrangement that provides protection against unforeseen risks like accidents, illness, and death.",
+          "It includes life insurance and general insurance (health, vehicle, property, etc.)."
+        ]
+      },
+      {
+        "question": "What is the National Pension System (NPS)?",
+        "answer": [
+          "NPS is a government-backed pension scheme aimed at providing financial stability during retirement.",
+          "It is open to all citizens aged 18-60 and requires a minimum yearly saving of Rs. 500."
+        ]
+      },
+      {
+        "question": "What is Vidya Lakshmi?",
+        "answer": [
+          "Vidya Lakshmi (https://www.vidyalakshmi.co.in) is a government portal for students seeking education loans.",
+          "It allows students to apply to multiple banks through a single platform."
+        ]
+      },
+      {
+        "question": "Who regulates the financial sector in India?",
+        "answer": [
+          "Reserve Bank of India (RBI): Regulates monetary policy and banking.",
+          "Securities and Exchange Board of India (SEBI): Regulates stock markets and securities.",
+          "Insurance Regulatory and Development Authority of India (IRDAI): Regulates the insurance sector.",
+          "Pension Fund Regulatory and Development Authority (PFRDA): Regulates pension funds."
+        ]
+      },
+      {
+        "question": "What are the functions of the Reserve Bank of India (RBI)?",
+        "answer": [
+          "Issues currency and ensures adequate supply of genuine notes.",
+          "Acts as a banker to the government and banks.",
+          "Regulates monetary policy to maintain price stability and economic growth.",
+          "Ensures financial stability by supervising the banking system."
+        ]
+      }
+    ]
+  }
+  

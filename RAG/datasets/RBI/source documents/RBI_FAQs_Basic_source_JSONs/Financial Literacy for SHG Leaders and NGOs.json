@@ -1,0 +1,481 @@
+{
+    "faqs": [
+      {
+        "question": "What is meant by financial literacy?",
+        "answer": "Financial literacy is providing knowledge and skills to poor people to help them make informed decisions about expenditures, savings, investments, credit, insurance, and financial services such as remittances and pensions."
+      },
+      {
+        "question": "What is the need for financial literacy in Self-help Groups (SHGs)?",
+        "answer": "SHGs work towards poverty alleviation and development of poor families by providing financial services such as savings, credit, and insurance. Financial literacy helps SHG members make informed decisions about managing money effectively."
+      },
+      {
+        "question": "How is financial literacy related to poverty alleviation?",
+        "answer": "Poor financial decisions can lead to exploitation, high-interest loans, asset loss, child labor, and health risks. Financial literacy helps people take better financial decisions, preventing them from falling deeper into poverty."
+      },
+      {
+        "question": "How is financial management done in a family?",
+        "answer": "Financial management in a family involves setting aside money from income, taking loans when needed, and buying assets. Poor families have limited choices and must plan their finances carefully to meet financial goals."
+      },
+      {
+        "question": "What are needs and wants?",
+        "answer": "Needs are essential for survival, such as food, water, and shelter. Wants are things that improve life but are not essential, such as a television or motorbike."
+      },
+      {
+        "question": "What are the different types of needs?",
+        "answer": [
+          "Lifecycle Needs: Weddings, funerals, childbirth, education, house construction, and old age.",
+          "Personal Emergencies: Sickness, injury, unemployment, theft, or death.",
+          "Disasters: Fires, floods, cyclones, war, and eviction.",
+          "Investment Opportunities: Expanding a business, buying land, or improving housing."
+        ]
+      },
+      {
+        "question": "How do people fulfill their financial needs?",
+        "answer": "Poor people use creative ways like saving livestock, grains, and jewelry. They may save up before making purchases or borrow and repay after meeting the need."
+      },
+      {
+        "question": "What is the difference between saving, credit, and insurance?",
+        "answer": [
+          "Saving: Setting aside money regularly for future needs.",
+          "Credit: Spending upfront and repaying in small amounts later with interest.",
+          "Insurance: Paying premiums to cover uncertain risks and losses."
+        ]
+      },
+      {
+        "question": "Why should saving be regular and continuous?",
+        "answer": "Regular savings reflect financial discipline and creditworthiness. It helps in financial planning and ensures funds are available for emergencies and future needs."
+      },
+      {
+        "question": "How can one save?",
+        "answer": "Savings can be in cash or kind (grains, fiber, oil, seeds). It should be planned as the first expenditure of the household, ensuring savings align with financial goals."
+      },
+      {
+        "question": "How much should one save?",
+        "answer": "Savings depend on individual needs, expenses, and income. A minimum of 25% of household income should ideally be saved for future needs."
+      },
+      {
+        "question": "Where should we save?",
+        "answer": [
+          "Informal methods: Keeping money at home, local chits, informal groups.",
+          "Formal methods: Post office savings, commercial banks, and SHGs for secure savings with potential for loans."
+        ]
+      },
+      {
+        "question": "What criteria should be considered when choosing a savings product or institution?",
+        "answer": [
+          "Safety and security of money.",
+          "Proximity to the saver’s location.",
+          "Potential returns and preservation of value.",
+          "Ease of depositing and withdrawing money.",
+          "Availability of credit facilities linked to savings."
+        ]
+      },
+      {
+        "question": "What are the savings schemes available in commercial banks?",
+        "answer": [
+          "Savings Bank Account: Meant for individuals who wish to deposit small amounts and earn interest.",
+          "Recurring Deposit Account: Requires fixed periodic deposits for a specified period, accumulating interest.",
+          "Fixed Deposit Account: A lump sum deposit for a fixed period earning higher interest.",
+          "Basic Savings Bank Deposit Account: A no-frills account for low-income individuals with no minimum balance requirement."
+        ]
+      },
+      {
+        "question": "What documents are required to open a savings bank account?",
+        "answer": [
+          "Identity proof: Passport, PAN card, Voter ID, Aadhaar, Driving License, etc.",
+          "Address proof: Utility bills, Bank statements, Employer letter, Ration card, etc."
+        ]
+      },
+      {
+        "question": "What is a Basic Savings Bank Deposit Account?",
+        "answer": [
+          "Eligibility: Individuals earning Rs. 5,000 per month or less.",
+          "No minimum balance requirement.",
+          "Limited withdrawals allowed per month.",
+          "ATM-cum-debit card provided without charge."
+        ]
+      },
+      {
+        "question": "What are the savings products available in SHGs?",
+        "answer": [
+          "Regular Savings: Members contribute a fixed amount regularly, similar to a bank savings account.",
+          "Diversified Savings: Similar to recurring deposits, where members save for specific planned needs.",
+          "Current Savings: Allows frequent deposits and withdrawals without earning interest."
+        ]
+      },
+      {
+        "question": "What are the benefits of saving in an SHG?",
+        "answer": [
+          "Savings are managed by the members themselves.",
+          "Convenient doorstep saving facility.",
+          "Members decide interest rates and loan disbursement rules.",
+          "Higher savings lead to larger loans from banks."
+        ]
+      },
+      {
+        "question": "What are the savings schemes available in the Post Office?",
+        "answer": [
+          "Post Office Savings Account: Functions like a bank savings account with easy withdrawals.",
+          "Post Office Recurring Deposit: Regular fixed deposits for a period, earning interest.",
+          "Post Office Time Deposit: Similar to a bank fixed deposit, earning higher interest for longer terms."
+        ]
+      },
+      {
+        "question": "How to open a Post Office Savings Account?",
+        "answer": [
+          "Minimum deposit of Rs. 20 is required.",
+          "Accounts can be opened individually or jointly.",
+          "Depositor introduction is necessary for account opening."
+        ]
+      },
+      {
+        "question": "Why do people need credit?",
+        "answer": [
+          "When they do not have money during emergencies (e.g., sickness, death of cattle).",
+          "When they experience a deficit cash flow in a specific period (e.g., dairy farmers needing funds during dry periods).",
+          "When they need money to invest in a business or income-generating activity.",
+          "When they are affected by disasters such as droughts or floods."
+        ]
+      },
+      {
+        "question": "Where do people get credit?",
+        "answer": [
+          "Money lenders",
+          "Friends and relatives",
+          "Associations and societies",
+          "Commercial and cooperative banks",
+          "Self-help Groups (SHGs)"
+        ]
+      },
+      {
+        "question": "Where should poor households avail credit from?",
+        "answer": "For small consumption and livelihood needs, poor households can take credit from SHGs, while for larger enterprise loans, they can approach commercial and cooperative banks."
+      },
+      {
+        "question": "What are the loan products available in commercial and cooperative banks?",
+        "answer": [
+          "Short-term loans (Demand loans)",
+          "Long-term loans (Term loans for agriculture, education, business, housing, etc.)",
+          "Cash credit",
+          "Overdraft facilities"
+        ]
+      },
+      {
+        "question": "What is a short-term loan?",
+        "answer": "A short-term loan, also known as a demand loan, is repayable on demand or at short notice. The entire amount is disbursed at once, and the borrower can repay in lump sum or as agreed with the bank."
+      },
+      {
+        "question": "What is a long-term loan?",
+        "answer": "A long-term loan is granted for more than one year, usually between 5 to 15 years, for purposes such as agriculture, housing, education, or business expansion. Repayment is done in fixed installments."
+      },
+      {
+        "question": "What is cash credit?",
+        "answer": "Cash credit is an arrangement where the bank allows a borrower to withdraw funds up to a certain limit. Interest is charged only on the amount drawn, not on the total limit."
+      },
+      {
+        "question": "What is an overdraft facility?",
+        "answer": "An overdraft facility allows a current account holder to withdraw money beyond their available balance. Interest is charged on the amount used, and repayment is flexible."
+      },
+      {
+        "question": "What is the cost of credit, and how is interest charged on loans?",
+        "answer": [
+          "Interest rates on loans vary between formal institutions (banks) and informal sources (money lenders).",
+          "Flat rate: Interest is charged on the total loan amount throughout the loan period.",
+          "Diminishing balance: Interest is charged only on the remaining principal balance, making it more affordable."
+        ]
+      },
+      {
+        "question": "How do SHGs provide credit to their members?",
+        "answer": [
+          "SHGs offer credit for various needs, such as emergencies, housing, and small businesses.",
+          "Loan eligibility, interest rates, and repayment schedules are decided by the SHG.",
+          "SHGs prioritize responsible lending and repayment."
+        ]
+      },
+      {
+        "question": "What are the benefits of availing credit from SHGs?",
+        "answer": [
+          "Low interest rates",
+          "Simple and easy loan procedures",
+          "Flexible repayment schedules",
+          "No transaction costs as loans are provided at the doorstep",
+          "Building creditworthiness for future bank loans"
+        ]
+      },
+      {
+        "question": "What factors should be considered when choosing a source of credit?",
+        "answer": [
+          "Timely availability of credit",
+          "Low interest rates",
+          "Simple loan application process",
+          "Proximity to the lender",
+          "Flexible repayment terms",
+          "Minimal documentation requirements"
+        ]
+      },
+      {
+        "question": "What is credit discipline and why is it important?",
+        "answer": "Credit discipline refers to using borrowed funds for the intended purpose and repaying loans on time. It helps in building trust with banks and ensures continued access to credit."
+      },
+      {
+        "question": "What happens if loans are not repaid on time?",
+        "answer": "Unpaid loans become Non-Performing Assets (NPA), making it difficult for banks to lend money. It also affects the borrower’s creditworthiness and future borrowing ability."
+      },
+      {
+        "question": "What is insurance?",
+        "answer": "Insurance is a form of risk management that protects against financial loss due to unexpected events like illness, accidents, or death."
+      },
+      {
+        "question": "Why is insurance important for poor households?",
+        "answer": "Poor households face risks like illness, natural disasters, and loss of earning members. Insurance provides financial protection and prevents them from falling deeper into poverty."
+      },
+      {
+        "question": "How can poor people buy insurance?",
+        "answer": [
+          "Through group insurance policies offered by SHGs.",
+          "Corporate agency model: SHGs collaborate with insurance companies to provide coverage.",
+          "Mutual solutions: SHG members contribute collectively to manage risks."
+        ]
+      },
+      {
+        "question": "What are the different types of insurance products available?",
+        "answer": [
+          "Life insurance",
+          "Health insurance",
+          "Livestock insurance",
+          "Crop insurance"
+        ]
+      },
+      {
+        "question": "What is life insurance?",
+        "answer": "Life insurance provides financial support to the family of the insured person in case of their death or critical illness. Policies like Janashree Bima Yojana offer coverage to poor households."
+      },
+      {
+        "question": "What is health insurance?",
+        "answer": "Health insurance covers medical expenses, including hospitalization. The Universal Health Insurance Scheme provides coverage for poor households."
+      },
+      {
+        "question": "What is livestock insurance?",
+        "answer": "Livestock insurance protects farmers from financial loss due to the death of cattle or other livestock."
+      },
+      {
+        "question": "What is crop insurance?",
+        "answer": "Crop insurance protects farmers from financial loss due to natural disasters like droughts or floods. The Varsha Bima scheme provides coverage for anticipated rainfall shortfalls."
+      },
+      {
+        "question": "How can farmers buy crop insurance under the Varsha Bima scheme?",
+        "answer": "Farmers can enroll through Rural Financial Institutions (RFIs), SHGs, and NGOs. The insurance covers crop loss due to insufficient rainfall."
+      },
+      {
+        "question": "What role do NGOs play in providing insurance to poor households?",
+        "answer": [
+          "Ensuring that poor people receive benefits from government social security schemes.",
+          "Helping SHG members enroll in contributory insurance schemes like Janashree Bima Yojana."
+        ]
+      },
+      {
+        "question": "What is pension?",
+        "answer": "Pension is a type of insurance that provides income security to individuals in their old age. Unlike life insurance, which covers the financial risks associated with death, pension covers the financial risks associated with living longer."
+      },
+      {
+        "question": "Why is pension important?",
+        "answer": [
+          "The number of elderly people is increasing worldwide, with India set to have nearly 198 million elderly individuals by 2030.",
+          "Many elderly people, especially those from the unorganized sector, do not have access to social security schemes.",
+          "Pension ensures financial stability for aged individuals, reducing economic struggles and dependency."
+        ]
+      },
+      {
+        "question": "What pension products are available for the poor in India?",
+        "answer": [
+          "Micro pension product of UTI",
+          "Pension products from LIC (e.g., Jeevan Nidhi, Jeevan Akshay, New Jeevan Dhara-I, New Jeevan Suraksha-I)",
+          "NPS-Lite (National Pension System for economically disadvantaged individuals)"
+        ]
+      },
+      {
+        "question": "What is NPS-Lite?",
+        "answer": [
+          "NPS-Lite is a pension scheme regulated by the Pension Fund Regulatory and Development Authority (PFRDA) for individuals from the economically disadvantaged sections of society.",
+          "It allows individuals to contribute small amounts during their earning years and receive a pension after retirement.",
+          "It is a low-cost pension option with regulated investment norms."
+        ]
+      },
+      {
+        "question": "What are the benefits of joining NPS-Lite?",
+        "answer": [
+          "Voluntary participation for Indian citizens aged 18-60.",
+          "Affordable with contributions as low as Rs.100 per month.",
+          "Portable across India, allowing individuals to maintain their pension accounts even when relocating.",
+          "Safe and regulated by PFRDA.",
+          "Optimized for low-income individuals with ultra-low costs."
+        ]
+      },
+      {
+        "question": "What role do NGOs play in enabling pension schemes for the poor?",
+        "answer": [
+          "Identifying social security programs for the poor and ensuring their enrollment.",
+          "Assisting in documentation and application for pension schemes.",
+          "Educating individuals on the importance of pension and financial planning for old age."
+        ]
+      },
+      {
+        "question": "What is remittance?",
+        "answer": "Remittance refers to the transfer of money from one person to another. It can be a simple money transfer (e.g., sending money to family) or a transfer for making payments (e.g., salary payments)."
+      },
+      {
+        "question": "Why is remittance important for low-income households?",
+        "answer": [
+          "Many workers migrate for seasonal employment and need to send money back to their families in rural areas.",
+          "Remittances help meet household consumption needs and support investments in agriculture and small businesses.",
+          "Lack of formal remittance options forces many people to rely on informal and expensive methods of money transfer."
+        ]
+      },
+      {
+        "question": "What are the formal ways of sending remittances in India?",
+        "answer": [
+          "Bank money transfers (including electronic and paper-based transactions).",
+          "Postal remittance services (e.g., Money Orders, Instant Money Orders).",
+          "Business Correspondents (BCs) facilitating remittance services.",
+          "Mobile banking transactions through banks and telecom companies."
+        ]
+      },
+      {
+        "question": "What are the informal ways of sending remittances?",
+        "answer": [
+          "Sending money through friends and family traveling home.",
+          "Using informal agents or couriers who charge a commission for money delivery.",
+          "Hawala system, where intermediaries facilitate cross-border or local money transfers without formal banking involvement."
+        ]
+      },
+      {
+        "question": "How do banks facilitate remittance transfers?",
+        "answer": [
+          "Paper-based systems such as cheques and demand drafts.",
+          "Electronic systems like Real-Time Gross Settlement (RTGS), Electronic Clearing System (ECS), and National Electronic Funds Transfer (NEFT).",
+          "ATM/debit/credit card-based money transfers."
+        ]
+      },
+      {
+        "question": "How does postal remittance work in India?",
+        "answer": [
+          "India Post provides money transfer services through Money Orders and Instant Money Orders.",
+          "Recipients receive money at their doorstep or collect it from the post office.",
+          "Although reliable, postal remittances can sometimes take time to process."
+        ]
+      },
+      {
+        "question": "How does mobile banking help in remittances?",
+        "answer": [
+          "Banks allow customers to transfer money using mobile phones, reducing the need for physical bank visits.",
+          "Transactions can be done through SMS-based services or mobile banking apps.",
+          "Mobile banking is cost-effective and secure, reducing dependency on cash transactions."
+        ]
+      },
+      {
+        "question": "What is the transaction limit for mobile banking in India?",
+        "answer": [
+          "A daily limit of Rs. 50,000 per customer for fund transfers and purchases.",
+          "For cash disbursement via ATMs or Business Correspondents, the limit is Rs. 5,000 per transaction."
+        ]
+      },
+      {
+        "question": "What is the role of Business Correspondents (BCs) in remittances?",
+        "answer": [
+          "BCs act as intermediaries between banks and unbanked individuals.",
+          "They provide mobile banking solutions to enable money transfers in remote areas.",
+          "They help individuals open bank accounts and facilitate financial transactions."
+        ]
+      },
+      {
+        "question": "What are the risks of using informal remittance channels?",
+        "answer": [
+          "Higher costs due to commissions charged by agents.",
+          "Lack of security and risk of fraud or robbery.",
+          "Delays in money transfer and lack of proper documentation."
+        ]
+      },
+      {
+        "question": "Why should people use formal remittance channels?",
+        "answer": [
+          "Security: Money transfers are legally protected and regulated.",
+          "Affordability: Formal channels like banks and postal services have lower transaction costs.",
+          "Reliability: Transactions are recorded, and funds reach recipients safely."
+        ]
+      },
+      {
+        "question": "What is the need for Business Correspondents (BCs) and Business Facilitators (BFs) in India?",
+        "answer": [
+          "Despite various initiatives such as nationalization of banks, Regional Rural Banks (RRBs), and the SHG-Bank linkage program, a significant portion of the rural population still lacks access to banking services.",
+          "Scheduled Commercial Banks (SCBs) cover only 18.4% of the rural population through savings accounts and 17.2% through loan accounts.",
+          "Primary Agricultural Credit Societies (PACS) have a wide presence but limited impact in providing financial services.",
+          "Barriers to banking include high transaction costs, lack of collateral, inadequate financial literacy, and the absence of banking infrastructure in rural areas.",
+          "Informal lending sources, such as moneylenders, continue to dominate due to their doorstep availability and ease of access."
+        ]
+      },
+      {
+        "question": "What is meant by a Business Facilitator (BF)?",
+        "answer": [
+          "A Business Facilitator is an intermediary appointed by banks to assist in financial services delivery without conducting actual banking transactions.",
+          "They can include NGOs, Farmer Clubs, cooperatives, community-based organizations, post offices, insurance agents, and well-functioning Panchayats.",
+          "Their role involves identifying borrowers, collecting loan applications, creating financial awareness, promoting Self-Help Groups (SHGs), and monitoring loan repayments."
+        ]
+      },
+      {
+        "question": "What are the key functions of a Business Facilitator?",
+        "answer": [
+          "Identifying borrowers and assessing their credit needs.",
+          "Collecting and verifying loan applications.",
+          "Creating awareness about financial products and debt management.",
+          "Submitting processed applications to banks.",
+          "Promoting and supporting SHGs and Joint Liability Groups (JLGs).",
+          "Post-sanction monitoring and loan recovery follow-ups."
+        ]
+      },
+      {
+        "question": "What is meant by a Business Correspondent (BC) model?",
+        "answer": [
+          "Under the Business Correspondent model, certain organizations and individuals are authorized to conduct banking transactions on behalf of banks in areas without physical bank branches.",
+          "BCs can be NGOs, MFIs, cooperatives, NBFCs (not accepting public deposits), post offices, or section 25 companies.",
+          "BCs facilitate financial inclusion by providing doorstep banking services to the underserved population."
+        ]
+      },
+      {
+        "question": "What are the key functions of a Business Correspondent?",
+        "answer": [
+          "Disbursing small-value credit to customers.",
+          "Collecting loan repayments and interest.",
+          "Accepting small-value deposits.",
+          "Selling micro-insurance, mutual funds, pension products, and other third-party financial services.",
+          "Facilitating small-value remittances and other payment instruments."
+        ]
+      },
+      {
+        "question": "How do Business Correspondents differ from Business Facilitators?",
+        "answer": [
+          "Business Facilitators (BFs) provide support services like borrower identification, financial literacy, and loan monitoring but do not handle financial transactions.",
+          "Business Correspondents (BCs) conduct actual banking transactions such as loan disbursement, deposit collection, and payment services.",
+          "BCs act as an extended arm of banks, whereas BFs primarily assist in financial outreach and literacy."
+        ]
+      },
+      {
+        "question": "Why are Business Correspondents important for financial inclusion?",
+        "answer": [
+          "BCs help reach unbanked rural and remote populations by providing financial services at their doorstep.",
+          "They enable small-value transactions, which banks often find unprofitable to handle through traditional branches.",
+          "They reduce reliance on informal lenders by providing affordable credit and savings options.",
+          "BCs improve financial literacy and encourage formal banking habits among low-income households."
+        ]
+      },
+      {
+        "question": "What are the benefits of the Business Correspondent model for banks?",
+        "answer": [
+          "Expands the reach of banks without the need for opening physical branches.",
+          "Reduces operational costs while increasing financial inclusion.",
+          "Enables efficient micro-lending and small-scale financial transactions.",
+          "Helps in achieving regulatory financial inclusion targets set by the Reserve Bank of India (RBI)."
+        ]
+      }
+    ]
+  }
+  

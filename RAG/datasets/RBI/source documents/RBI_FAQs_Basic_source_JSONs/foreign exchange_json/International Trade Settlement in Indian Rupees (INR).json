@@ -1,0 +1,86 @@
+[
+    {
+        "question": "How is the Special Rupee Vostro Account (SRVA) different from the already existing Rupee Vostro Account?",
+        "answer": "SRVA requires prior approval before opening, unlike the existing Rupee Vostro Account, and is part of an additional arrangement to facilitate trade settlement in INR."
+    },
+    {
+        "question": "What is new in this arrangement?",
+        "answer": "This arrangement allows international trade to be settled in INR as a complementary system to existing settlements in freely convertible currencies, reducing dependence on hard currencies."
+    },
+    {
+        "question": "Is RBI approval required for opening Special Rupee Vostro Accounts?",
+        "answer": "Yes, RBI approval is required. The AD bank must meet financial health and correspondent banking relationship criteria."
+    },
+    {
+        "question": "What is Correspondent banking?",
+        "answer": "Correspondent banking involves one bank acting as an intermediary for another, facilitating wire transfers, deposits, and foreign transactions."
+    },
+    {
+        "question": "Is this a bank-to-bank arrangement or a country-to-country arrangement?",
+        "answer": "This is primarily a bank-to-bank arrangement similar to a correspondent banking setup."
+    },
+    {
+        "question": "What is the procedure for opening a Special Rupee Vostro Account?",
+        "answer": "AD banks must submit a request to RBI with details of the correspondent banking arrangement, due diligence confirmations, financial parameters, and compliance with FATF guidelines."
+    },
+    {
+        "question": "Can the Indian branch of a foreign bank open an SRVA for its head office or another branch abroad?",
+        "answer": "Yes, provided the Indian branch is an AD bank and obtains RBI approval."
+    },
+    {
+        "question": "Can existing Rupee Vostro Accounts be converted into Special Rupee Vostro Accounts?",
+        "answer": "No, existing Rupee Vostro Accounts cannot be used as SRVAs under this mechanism."
+    },
+    {
+        "question": "Can a foreign bank maintain multiple Special Rupee Vostro Accounts with different AD banks?",
+        "answer": "Yes, a foreign bank can maintain multiple SRVAs with different AD banks."
+    },
+    {
+        "question": "Can an AD bank in India open multiple Special Rupee Vostro Accounts for banks from the same country?",
+        "answer": "Yes, an AD bank in India can open multiple SRVAs for different banks from the same country."
+    },
+    {
+        "question": "How is the exchange rate determined?",
+        "answer": "The exchange rate between trading partner currencies and INR will be market-determined."
+    },
+    {
+        "question": "How is the exchange rate determined if no direct quote exists for a currency pair?",
+        "answer": "A cross-currency rate will be derived using the exchange rate of both currencies against global benchmarks like USD or EUR."
+    },
+    {
+        "question": "Is this mechanism designed to address cross-border payment issues with specific countries?",
+        "answer": "No, this is a general policy to enhance the use of INR in international transactions."
+    },
+    {
+        "question": "Can balances in Special Rupee Vostro Accounts be repatriated?",
+        "answer": "Yes, balances can be repatriated in freely convertible currency or the trading partner’s domestic currency, depending on the transaction type."
+    },
+    {
+        "question": "Can income from INR balances in SRVA be repatriated?",
+        "answer": "Yes, subject to applicable regulatory guidelines and tax provisions."
+    },
+    {
+        "question": "Can balances in SRVA be used for FDI or ECB?",
+        "answer": "Yes, SRVA balances can be used for any permissible current and capital account transactions under FEMA."
+    },
+    {
+        "question": "Where can surplus SRVA balances be invested?",
+        "answer": "Funds can be invested in Government Treasury Bills, government securities, and other mutually agreed investments subject to compliance with regulatory guidelines."
+    },
+    {
+        "question": "Can INR balances in SRVA be hedged?",
+        "answer": "Yes, INR exposure can be hedged per applicable guidelines based on underlying transactions."
+    },
+    {
+        "question": "Does a foreign bank need an FPI license to invest SRVA funds in T-Bills or government securities?",
+        "answer": "No, an FPI license is not required."
+    },
+    {
+        "question": "Who is responsible for reporting cross-border transactions?",
+        "answer": "The AD bank in India is responsible for reporting transactions in SRVA accounts."
+    },
+    {
+        "question": "How does this mechanism benefit Indian traders?",
+        "answer": "Settlement in INR reduces exchange rate risk for Indian exporters and importers, making trade more predictable."
+    }
+]

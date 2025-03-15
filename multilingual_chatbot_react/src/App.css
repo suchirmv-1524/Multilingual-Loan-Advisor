@@ -1,0 +1,42 @@
+/* src/App.css */
+.auth-container, .language-container, .chatbot-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.auth-container input, .language-container button, .auth-container button {
+  margin: 10px;
+  padding: 10px;
+}
+
+.language-button {
+  background-color: #25D366; /* WhatsApp Green */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.language-button:hover {
+  background-color: #128C7E; /* Darker WhatsApp Green */
+}
+
+.chatbox {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 80%;
+  margin: auto;
+}
+
+/* Header Styling */
+.header {
+  background-color: #25D366; /* WhatsApp Green */
+  color: white;
+  padding: 10px 0;
+  font-size: 24px;
+  text-align: center;
+}

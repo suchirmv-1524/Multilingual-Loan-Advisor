@@ -1,0 +1,56 @@
+{
+    "faqs": [
+      {
+        "question": "In which month does RBI launch the MF survey?",
+        "answer": "The RBI launches the MF survey during the month of June every year with the previous financial year ended end-March as the reference date."
+      },
+      {
+        "question": "What is the frequency of this survey?",
+        "answer": "The survey is conducted annually."
+      },
+      {
+        "question": "Which entities are required to participate in the survey?",
+        "answer": "MF companies in India are required to participate in this survey."
+      },
+      {
+        "question": "How does the MF company submit the MF survey schedule to the RBI?",
+        "answer": "Once the survey is launched, MF companies receive an email from RBI along with the soft copy of the survey schedule (Schedule-4) in excel format. The filled-in survey schedule should be sent by email to mf@rbi.org.in."
+      },
+      {
+        "question": "What if the MF company does not receive the soft copy of the survey schedule by email?",
+        "answer": "MF companies can download Schedule-4 from the RBI website or send a request to mfquery@rbi.org.in."
+      },
+      {
+        "question": "What is the timeline for submission in MF Survey by Mutual Fund companies?",
+        "answer": "Mutual fund companies can submit their responses on or before July 15 of every year."
+      },
+      {
+        "question": "What is the timeline for submission in MF Survey by Asset Management Companies (AMCs)?",
+        "answer": "AMCs must submit their annual return on Foreign Liabilities and Assets (FLA) through RBI’s online web-based portal ‘FLAIR’ by July 15 of every year."
+      },
+      {
+        "question": "How does an AMC report data/submit the FLA return to the RBI?",
+        "answer": "Entities can submit the annual return on FLA through the online portal at https://flair.rbi.org.in."
+      },
+      {
+        "question": "What is the reference period of MF survey?",
+        "answer": "The reference period is the immediately preceding financial year (April-March)."
+      },
+      {
+        "question": "If the MF company/AMCs does not have foreign liabilities and assets during the reference period, do they need to participate in the survey?",
+        "answer": "Yes, they must submit a NIL survey schedule of MF survey as well as FLA form on the FLAIR portal."
+      },
+      {
+        "question": "Can a company get an acknowledgment for submission of the MF survey schedule?",
+        "answer": "Yes, after submitting the survey schedule to mf@rbi.org.in, the MF company will receive a system-generated acknowledgment."
+      },
+      {
+        "question": "What information should be reported in MF survey, if the balance sheet of the company is not audited before the due date of submission?",
+        "answer": "If the company’s accounts are not audited before July 15, the MF survey schedule should be submitted based on unaudited (provisional) accounts."
+      },
+      {
+        "question": "If the account closing period of the MF company/AMCs is different from the reference period (end-March), can it report the information as per account closing period?",
+        "answer": "No, the MF survey information should be reported for the reference period, based on the company’s internal assessment."
+      }
+    ]
+}

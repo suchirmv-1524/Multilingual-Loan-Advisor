@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What are the processes to be adopted for transactions undertaken through SNRR Account?",
+        "answer": "Payments initiated to the debit of SNRR Accounts must be communicated as SNRR transactions with purpose code and country details. Payments received for credit to SNRR Accounts must be confirmed as SNRR transactions. AD banks must ensure compliance with FEMA provisions for all such transactions."
+    },
+    {
+        "question": "Who is responsible for FEMA compliance for trade transactions?",
+        "answer": "For debit to SNRR A/c (onward domestic credit), the AD bank handling export documents ensures compliance with export-related FEMA regulations. The AD bank maintaining the SNRR account performs due diligence on the overseas client and provides complete KYC details. For credit to SNRR A/c (received from a domestic account), the AD bank handling import documents ensures compliance with import-related FEMA regulations. In case of ECB, Trade Credits, or foreign investments, the designated AD bank ensures FEMA compliance, including FIRC issuance where applicable."
+    },
+    {
+        "question": "Does A2 reporting need to be undertaken by the bank remitting the funds?",
+        "answer": "Yes, any domestic Indian party conducting a transaction that requires A2 reporting for an overseas remittance must undertake the same for a domestic remittance credited to an SNRR Account."
+    },
+    {
+        "question": "Is a purpose code required, and who is responsible for FETERS reporting?",
+        "answer": "Yes, purpose codes are required. The AD bank maintaining the SNRR Account is responsible for FETERS (R Return) reporting. Transactions between an SNRR account and an offshore account of the non-resident entity will be reported under AD bank transfer. Transactions between an SNRR account and a domestic Indian party will be reported based on the underlying transaction."
+    },
+    {
+        "question": "Are ACU guidelines applicable to shipments to ACU countries?",
+        "answer": "Yes, trade transactions with ACU countries must be settled under the ACU mechanism as per FEMA Notification 14 (R) and extant instructions, and must be kept separate from the SNRR arrangement."
+    },
+    {
+        "question": "Can interest be earned on SNRR balances or through term deposits?",
+        "answer": "No, interest cannot be earned on SNRR balances or through term deposits."
+    }
+]

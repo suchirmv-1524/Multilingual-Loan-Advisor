@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Who is an NRI?",
+        "answer": "A ‘Non-resident Indian’ (NRI) is a person resident outside India who is a citizen of India."
+    },
+    {
+        "question": "Who is a PIO?",
+        "answer": "A ‘Person of Indian Origin (PIO)’ is a person resident outside India who is a citizen of any country other than Bangladesh or Pakistan or such other country as may be specified by the Central Government, satisfying certain conditions, including being a former citizen of India, belonging to a territory that became part of India after August 15, 1947, or being a descendant of such individuals."
+    },
+    {
+        "question": "What are the major accounts that can be opened in India by a non-resident?",
+        "answer": "The major accounts are: (1) Non-Resident (External) Rupee Account Scheme (NRE Account), (2) Foreign Currency (Non-Resident) Account Scheme [FCNR(B) Account], (3) Non-Resident Ordinary Rupee Account Scheme (NRO Account)."
+    },
+    {
+        "question": "Can a Bangladeshi/Pakistani national or an entity owned/controlled from Bangladesh/Pakistan have an account in India?",
+        "answer": "Individuals/entities of Pakistan and Bangladesh require prior approval from the Reserve Bank of India (RBI). However, Bangladesh nationals holding a valid visa and residential permit may open an NRO account."
+    },
+    {
+        "question": "What accounts can a tourist visiting India open?",
+        "answer": "A tourist visiting India can open an NRO (current/savings) account with funds remitted from outside India or from the sale of foreign exchange brought into India. The balance can be repatriated upon departure if the account was maintained for less than six months."
+    },
+    {
+        "question": "What is a SNRR account? How is it different from an NRO account?",
+        "answer": "A Special Non-Resident Rupee (SNRR) account is for non-residents having a business interest in India. Unlike an NRO account, it is non-interest bearing and repatriable, while NRO accounts are primarily for local transactions and have repatriation restrictions."
+    },
+    {
+        "question": "What deposits can foreign Diplomatic missions/personnel and their family members in India hold?",
+        "answer": "Foreign diplomatic missions, personnel, and family members can hold rupee deposits, Diplomatic Bond Stores Accounts, and foreign currency accounts with specific conditions."
+    },
+    {
+        "question": "Can persons resident in Nepal and Bhutan have accounts in India?",
+        "answer": "Yes, they can open Indian rupee accounts with an authorized dealer in India."
+    },
+    {
+        "question": "Can a multilateral organization have deposits in India?",
+        "answer": "Yes, any multilateral organization of which India is a member or its subsidiaries/affiliates can hold deposits with an authorized dealer in India."
+    },
+    {
+        "question": "Can an Indian company accept deposits from non-residents under Section 160 of the Companies Act, 2013?",
+        "answer": "Yes, such deposits and refunds are covered under current account transactions and can be freely made without FEMA restrictions."
+    },
+    {
+        "question": "Can a Foreign Portfolio Investor or a Foreign Venture Capital Investor open a foreign currency account in India?",
+        "answer": "Yes, registered Foreign Portfolio Investors (FPIs) and Foreign Venture Capital Investors (FVCIs) can maintain a non-interest bearing foreign currency account for investment purposes."
+    },
+    {
+        "question": "Who can open an Escrow Account in India and for what purpose?",
+        "answer": "Resident and non-resident acquirers can open an Escrow Account in INR with an AD bank for capital instrument acquisitions or transfers, as per FEMA and related regulations."
+    }
+]

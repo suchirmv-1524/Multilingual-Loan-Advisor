@@ -1,0 +1,70 @@
+[
+    {
+        "question": "What should a customer do if a credit card is issued without his/her consent (unsolicited card)?",
+        "answer": "Card issuers are prohibited from issuing unsolicited credit cards and are required to seek prior and explicit consent from the customer before issuing a card. If the customer receives an unsolicited card, they should refrain from activating it or providing consent through OTP or any other means. The card issuer must close the credit card account without any cost to the customer within seven working days and notify the customer. The customer may also file a complaint with the card issuer and escalate it to the RBI Ombudsman."
+    },
+    {
+        "question": "Can a card be issued to other loan accounts such as overdraft facility, cash credit facility, working capital loan, etc.?",
+        "answer": "Yes, credit cards can be customized to access limits available in different loan accounts, aligned with the terms and conditions of the concerned loan account. However, banks cannot issue debit cards to cash credit or loan accounts."
+    },
+    {
+        "question": "What can be considered as activation of a credit card?",
+        "answer": "Customer-initiated actions such as PIN generation, modification of transaction control, Interactive Voice Response, recorded calls to customer care, or SMS may be considered as activation. If the card is not activated within 30 days from issuance, card issuers must seek OTP-based consent."
+    },
+    {
+        "question": "Can a credit card be considered as ‘used’ even if no financial transactions have been undertaken?",
+        "answer": "Yes, non-financial activities such as statement generation, PIN change, and modification of transaction controls are considered as usage. Calls made to customer care for other reasons do not count towards card usage."
+    },
+    {
+        "question": "Whether consent for activation and closure of a business credit card can be obtained from the corporate/business entity instead of the cardholder?",
+        "answer": "For business credit cards issued based on an application by a corporate or business entity, consent for activation and closure must be obtained from the principal account holder (corporate/business entity) unless otherwise specified in the agreement."
+    },
+    {
+        "question": "In case a cardholder makes partial payment, can a card issuer charge interest/levy late payment charges on the total amount due?",
+        "answer": "Interest may be levied on the outstanding amount from the transaction date if the total amount due is not cleared by the due date. Late payment fees and other charges shall be levied only on the outstanding amount, not the total amount due."
+    },
+    {
+        "question": "Whether a credit card issuer can levy interest on unpaid taxes/levies/charges?",
+        "answer": "No, card issuers shall not capitalize or levy interest on unpaid taxes, levies, or charges. This provision has been effective since October 1, 2022."
+    },
+    {
+        "question": "What transactions are eligible to be adjusted towards outstanding dues and which should be credited to the bank account of the cardholder?",
+        "answer": "Refunds or reversed transactions before bill generation are adjusted with other debits. If a refund occurs after bill generation but before payment, it is adjusted towards the total amount due. If payment has already been made, explicit consent is required to adjust the refund; otherwise, it will be credited to the bank account."
+    },
+    {
+        "question": "Can a cardholder modify the billing cycle of a credit card to any date?",
+        "answer": "Yes, the cardholder is allowed to modify the billing cycle at least once. Card issuers should provide this option through multiple channels such as helpline, email, IVR, internet banking, and mobile applications."
+    },
+    {
+        "question": "Can a card issuer allow a credit card to be used beyond the sanctioned credit limit and charge over-limit fees?",
+        "answer": "Cardholders must provide explicit consent before using a credit card beyond the sanctioned limit. Without such consent, over-limit charges cannot be levied."
+    },
+    {
+        "question": "Whether interest, taxes, or any other charges can be considered for computing a cardholder’s credit limit usage for the purpose of levying over-limit charges?",
+        "answer": "No, interest and other fees shall not be factored in for computing a cardholder’s credit limit usage or levying over-limit charges."
+    },
+    {
+        "question": "Whether the liability towards credit card dues lies only with the principal cardholder?",
+        "answer": "Yes, the principal cardholder is solely responsible for dues. However, for international credit cards, payment responsibilities are governed by FEMA regulations."
+    },
+    {
+        "question": "Are card issuers required to provide an insurance cover on debit and credit cards?",
+        "answer": "RBI has not mandated insurance on debit or credit cards. If an issuer offers insurance, relevant details must be recorded and disclosed in the card statement, along with contact information for claims."
+    },
+    {
+        "question": "Can a card issuer partner with more than one co-branding partner for a card?",
+        "answer": "Yes."
+    },
+    {
+        "question": "Can a co-branding partner acting as a business correspondent (BC) or technology service provider access transaction data of a cardholder?",
+        "answer": "No, a co-branding partner cannot access transaction data. Transaction-related information may be displayed in an encrypted form through the card issuer’s system but should not be accessed or stored by the co-branding partner."
+    },
+    {
+        "question": "Does deactivation/blocking of a credit card amount to closure of the card account?",
+        "answer": "No, deactivation or blocking a credit card temporarily restricts transactions but does not terminate the account. Closure of a credit card account terminates the relationship between the cardholder and issuer, which must be completed within seven working days upon request."
+    },
+    {
+        "question": "What is the procedure for filing a complaint against a card issuer?",
+        "answer": "Customers should first approach the card issuer. If the issue is unresolved within 30 days, they can file a complaint with the RBI Ombudsman through the online portal (https://cms.rbi.org.in) or by mailing a physical complaint to the Centralized Receipt and Processing Centre at RBI, Chandigarh."
+    }
+]

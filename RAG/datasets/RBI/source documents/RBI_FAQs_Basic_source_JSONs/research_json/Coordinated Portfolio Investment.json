@@ -1,0 +1,109 @@
+{
+    "faqs": [
+      {
+        "question": "Which entities are eligible to report under CPIS?",
+        "answer": "Presently, banks, mutual fund companies, non-financial companies, non-banking financial companies, and insurance companies are surveyed under the CPIS."
+      },
+      {
+        "question": "What is the frequency of the survey?",
+        "answer": "The survey is conducted half-yearly in India for capturing the end-March and end-September position of the latest financial year (FY)."
+      },
+      {
+        "question": "Should AIFs report under CPIS?",
+        "answer": "Yes, since AIFs are considered under non-banking financial institutions."
+      },
+      {
+        "question": "How do I know that the survey is launched?",
+        "answer": "The Reserve Bank sends emails to all eligible entities from generic email IDs of the Reserve Bank to notify them about the launch of the CPIS."
+      },
+      {
+        "question": "How do I know whether my response has been submitted successfully or not?",
+        "answer": "After sending the duly filled survey schedule, the respondent will receive a system-generated acknowledgment."
+      },
+      {
+        "question": "What is the launch timeline of the CPIS?",
+        "answer": "The CPIS is launched for end-March and end-September positions on June 01 and December 01 of that year respectively."
+      },
+      {
+        "question": "What is the due date for participating in CPIS?",
+        "answer": "The due date for CPIS participation is July 15 for end-March data and December 31 for end-September data."
+      },
+      {
+        "question": "What if the reporting entity does not receive the soft copy of the survey schedule by email?",
+        "answer": "Entities can download it from the RBI website or request it via email."
+      },
+      {
+        "question": "Should we report data for a particular branch of the reporting entity or the consolidated data of the entity?",
+        "answer": "A consolidated data at the entity level, covering all branches/offices in India, should be furnished."
+      },
+      {
+        "question": "What information should be reported under CPIS?",
+        "answer": "The survey collects details of portfolio investment assets of domestic residents made in securities issued by unrelated non-residents."
+      },
+      {
+        "question": "At what value should the portfolio investment assets be reported?",
+        "answer": "They should be reported on a marked-to-market basis as at the end of the reference period, with breakups into types of securities and country of issuer."
+      },
+      {
+        "question": "What is the unit of reporting the data in CPIS?",
+        "answer": "Entities should report data in the unit mentioned in the survey schedule (e.g., INR Lakh)."
+      },
+      {
+        "question": "If the responding entity does not have any portfolio investment assets during the reference period, do they need to participate in the survey?",
+        "answer": "Yes, they must submit a NIL survey schedule."
+      },
+      {
+        "question": "What information should be reported if the balance sheet of the entity is not audited before the due date of submission?",
+        "answer": "They should report based on unaudited (provisional) accounts."
+      },
+      {
+        "question": "What to report in equity securities?",
+        "answer": "Equity consists of instruments that acknowledge claims on the residual value of a corporation or quasi-corporation."
+      },
+      {
+        "question": "What should be considered under equity securities?",
+        "answer": "This includes ordinary shares, stocks, participating preference shares, shares in mutual funds, depository receipts, and more."
+      },
+      {
+        "question": "What should not be included under equity securities?",
+        "answer": "Non-participating preference shares, equity issued by related non-residents, and securities acquired under reverse repos."
+      },
+      {
+        "question": "What to report in debt securities?",
+        "answer": "Debt securities are negotiable instruments serving as evidence of a debt, including bonds, notes, and money market instruments."
+      },
+      {
+        "question": "What are long-term debt securities?",
+        "answer": "These are debt securities with an original maturity of more than one year, including bonds, debentures, and notes."
+      },
+      {
+        "question": "What are short-term debt securities?",
+        "answer": "These have an original maturity of one year or less, including treasury bills, negotiable certificates of deposit, and commercial paper."
+      },
+      {
+        "question": "At what value should we report securities - face value or market value?",
+        "answer": "Equity and debt securities should be reported at market prices converted to domestic currency using the prevailing exchange rate."
+      },
+      {
+        "question": "What is the method that can be used for approximating market prices for equity securities?",
+        "answer": "Methods include recent transaction price, net asset value, price-to-earnings ratio, market capitalization method, and more."
+      },
+      {
+        "question": "Whom to contact in case of any query related to CPIS?",
+        "answer": "Queries can be directed to the RBI at International Investment Position Division (IIPD), Department of Statistics and Information Management (DSIM), Mumbai."
+      },
+      {
+        "question": "Should portfolio investment assets made by branches of the banks outside India be included in CPIS?",
+        "answer": "No, investments made by branches outside India should not be included."
+      },
+      {
+        "question": "Should portfolio investment assets made by branches of your bank located in the IFSC zone of India to the rest of the world be included in CPIS?",
+        "answer": "Yes, they should be included."
+      },
+      {
+        "question": "Should portfolio investment assets made by branches of your bank located in non-IFSC zones of India to other branches located in the IFSC zone be included in CPIS?",
+        "answer": "No, they should not be included as they are considered resident-to-resident transactions."
+      }
+    ]
+  }
+  
