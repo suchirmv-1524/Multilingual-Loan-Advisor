@@ -2,4 +2,5 @@
 2) Run the create_embeddings.py to generate the vector create_embeddings
 3) Run chroma_faq_search.py to perform very basic question - answering
 4) Run this before running rag_final.py : conda install pytorch torchvision torchaudio -c pytorch-nightly
-Then run rag_final.py
+    Then run rag_final.py
+5) Loan Eligibility, Loan Application Guidance and Financial Literacy of RAG can be implemented by running : python rag_with_loan_eligibility.py
