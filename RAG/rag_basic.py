@@ -157,19 +157,19 @@ def answer_question(query, language="english"):
 
     if similarities and similarities[0][1] >= SIMILARITY_THRESHOLD:
         best_match = similarities[0][0]
-        return {"answer": best_match["metadata"]["answer"], "context": context_text}
+        return {"answer": best_match["metadata"]["answer"], "context": ""}  # ✅ Context removed from response
 
     # ❌ No relevant data → Generate an answer using LLM
-    formatted_input = loan_advisor_template.format(
-        context=context_text if context_text else "No additional information available.",  
-        query=query
-    )
+    if results:
+        formatted_input = f"{context_text}\n\nBased on the above information, answer the following question:\n\nQuestion: {query}\n\nAnswer:"
+    else:
+        formatted_input = f"Question: {query}\n\nAnswer in a clear and concise manner:"
 
     # 🚀 Dynamically Adjust `max_new_tokens`
-    token_length = len(query.split()) * 5  
-    max_tokens = min(max(50, token_length), 150)  
+    token_length = len(query.split()) * 7  # ✅ Increase estimated token need  
+    max_tokens = min(max(80, token_length), 200)  # ✅ Allow slightly longer responses  
 
-    llm.model_kwargs["max_new_tokens"] = max_tokens
+    llm.model_kwargs["max_new_tokens"] = max_tokens  
 
     # 🔹 Retry logic for API timeout
     max_retries = 3
@@ -182,11 +182,11 @@ def answer_question(query, language="english"):
             # 🔥 Ensure structured output for LLM-generated responses
             cleaned_response = response.strip()
 
-            # Remove prompt leakage if it appears
-            if "You are a financial assistant." in cleaned_response:
-                cleaned_response = cleaned_response.split("\n", 1)[-1].strip()
+            # Remove any FAQ-like structure in generated responses
+            if "Q:" in cleaned_response or "A:" in cleaned_response:
+                cleaned_response = cleaned_response.split("\n")[-1].strip()
 
-            return {"answer": cleaned_response, "context": context_text}
+            return {"answer": cleaned_response, "context": ""}  # ✅ Context removed from response
         
         except requests.exceptions.Timeout:
             print(f"⚠️ Hugging Face API Timeout. Retrying {attempt + 1}/{max_retries}...")
@@ -217,32 +217,32 @@ def answer_question(query, language="english"):
         response = backup_llm.invoke(formatted_input)
         cleaned_response = response.strip()
 
-        # Remove prompt leakage again if needed
-        if "You are a financial assistant." in cleaned_response:
-            cleaned_response = cleaned_response.split("\n", 1)[-1].strip()
+        # Remove FAQ-like structure again if needed
+        if "Q:" in cleaned_response or "A:" in cleaned_response:
+            cleaned_response = cleaned_response.split("\n")[-1].strip()
 
-        return {"answer": cleaned_response, "context": context_text}
+        return {"answer": cleaned_response, "context": ""}  # ✅ Context removed from response
     except Exception as e:
         print(f"❌ Backup model also failed: {e}")
-        return {"answer": "Sorry, I am unable to process this request.", "context": "No relevant information available."}
+        return {"answer": "Sorry, I am unable to process this request.", "context": ""}
 
 
 # Example usage
 if __name__ == "__main__":
-    print("💼 Loan Advisor Chatbot 💼")
-    print("Ask me anything about loans, eligibility, or financial literacy!")
-    print("Type 'exit' to quit.")
+    print("\n\n\n\t\t\t\t\t💼 Loan Advisor Chatbot 💼")
+    print("\n\t\tAsk me anything about loans, loan eligibility, or financial literacy tips !")
+    print("\nType 'exit' to quit")
     print("-" * 100)
     
     while True:
-        query = input("\nYour question: ")
+        query = input("\nYour question : ")
         
         if query.lower() in ['exit', 'quit', 'bye']:
             print("Thank you for using the Loan Advisor. Goodbye!")
             break
             
         result = answer_question(query)
-        print("\n🤖 Answer:", result["answer"])
-        print("\n📚 Retrieved Context:")
+        print("\n🤖 Answer :", result["answer"])
+        #print("\n📚 Retrieved Context:")
         print(result["context"])
         print("-" * 100)
