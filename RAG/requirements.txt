@@ -1,6 +1,8 @@
 chromadb==0.6.3
 sentence-transformers==3.4.0
-torch==2.4.0
-torchaudio==2.4.0
-torchvision==0.19.0
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+bitsandbytes
+warnings
 # Python 3.12.3
