@@ -1,5 +1,5 @@
 1) Install all libraries from requirements.txt
 2) Run the create_embeddings.py to generate the vector create_embeddings
 3) Run chroma_faq_search.py to perform very basic question - answering
-4) Run this before running rag_basic.py : conda install pytorch torchvision torchaudio -c pytorch-nightly
-Then run rag_basic.py
+4) Run this before running rag_final.py : conda install pytorch torchvision torchaudio -c pytorch-nightly
+Then run rag_final.py
