@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multilingual Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Multilingual Loan Advisory Chatbot</h1>
+            <p>Your personal assistant for loan-related queries</p>
+            <button id="exitButton"><i class="fas fa-times"></i> Exit</button>
+        </div>
+        <div class="controls">
+            <div class="control-group">
+                <label for="language"><i class="fas fa-language"></i> Select Language:</label>
+                <select id="language">
+                    <option value="en-IN">English</option>
+                    <option value="hi-IN">Hindi</option>
+                    <option value="kn-IN">Kannada</option>
+                    <option value="ta-IN">Tamil</option>
+                    <option value="te-IN">Telugu</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label for="mode"><i class="fas fa-microphone"></i> Select Mode:</label>
+                <select id="mode">
+                    <option value="text">Text</option>
+                    <option value="speech">Speech</option>
+                </select>
+            </div>
+        </div>
+        <div class="chatbox">
+            <div id="chatlog"></div>
+            <div class="input-area">
+                <input type="text" id="userInput" placeholder="Type your message here...">
+                <button id="recordButton"><i class="fas fa-microphone"></i> Start Recording</button>
+                <button id="sendButton"><i class="fas fa-paper-plane"></i> Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>
