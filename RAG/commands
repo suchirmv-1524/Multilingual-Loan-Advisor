@@ -1,0 +1,15 @@
+multilingual_chatbot/
+│
+├── app.py                  # Flask backend
+├── templates/              # HTML templates
+│   └── index.html          # Frontend UI
+├── static/                 # Static files (CSS, JS, audio)
+│   ├── styles.css          # Custom CSS for the UI
+│   └── scripts.js          # Custom JavaScript for the UI
+└── audio/                  # Folder to store audio files
+
+
+
+
+
+
